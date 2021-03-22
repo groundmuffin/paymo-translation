@@ -1,1 +1,9777 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: paymo-front\n"
+"Language: ro\n"
+
+#: 
+msgid "{count} result"
+msgstr ""
+
+#: 
+msgid "{count} result_plural"
+msgstr ""
+
+#: 
+msgid "Accepted"
+msgstr "Acceptat"
+
+#: 
+msgid "Active"
+msgstr "Activat"
+
+#: 
+msgid "Add Client"
+msgstr "Adaugă client"
+
+#: 
+msgid "Add New Client"
+msgstr "Adaugă client nou"
+
+#: 
+msgid "Add New Project"
+msgstr "Adaugă proiect nou"
+
+#: 
+msgid "Add New Shortcut"
+msgstr "Adaugă scurtătură nouă"
+
+#: 
+msgid "Add New Task"
+msgstr "Adaugă sarcină nouă"
+
+#: 
+msgid "Add New Task List"
+msgstr "Adaugă o nouă listă de sarcini"
+
+#: 
+msgid "Add Project"
+msgstr "Adaugă proiect"
+
+#: 
+msgid "Add Shortcut"
+msgstr "Adaugă scurtătură"
+
+#: 
+msgid "Add Task"
+msgstr "Adaugă sarcină"
+
+#: 
+msgid "Add Task List"
+msgstr "Adaugă listă de sarcini"
+
+#: 
+msgid "Add-ons & Integrations"
+msgstr "Add-ons & Integrations"
+
+#: 
+msgid "Added manually"
+msgstr "Added manually"
+
+#: 
+msgid "Added Manually"
+msgstr "Added Manually"
+
+#: 
+msgid "All"
+msgstr "Toate"
+
+#: 
+msgid "Any"
+msgstr "Any"
+
+#: 
+msgid "Any Client"
+msgstr "Any Client"
+
+#: 
+msgid "Any Project"
+msgstr "Any Project"
+
+#: 
+msgid "Anyone"
+msgstr "Anyone"
+
+#: 
+msgid "Assigned To"
+msgstr "Asignat lui"
+
+#: 
+msgid "Billed"
+msgstr "Facturat"
+
+#: 
+msgid "Both"
+msgstr "Both"
+
+#: 
+msgid "Bulk Entry"
+msgstr "Bulk Entry"
+
+#: 
+msgid "Cancel"
+msgstr "Renunță"
+
+#: 
+msgid "Clear"
+msgstr "Ștergere"
+
+#: 
+msgid "Client"
+msgstr "Client"
+
+#: 
+msgid "Client Contact"
+msgstr "Client Contact"
+
+#: 
+msgid "Client Name"
+msgstr "Client Name"
+
+#: 
+msgid "Close"
+msgstr "Închide"
+
+#: 
+msgid "Collapse Menu"
+msgstr "Restrânge meniul"
+
+#: 
+msgid "Collapse Shortcuts"
+msgstr ""
+
+#: 
+msgid "Color"
+msgstr "Culoare"
+
+#: 
+msgid "Comment"
+msgstr "Comment"
+
+#: 
+msgid "Company Settings"
+msgstr "Setări companie"
+
+#: 
+msgid "Complete"
+msgstr "Terminat"
+
+#: 
+msgid "Created by"
+msgstr "Creat de"
+
+#: 
+msgid "Created By"
+msgstr "Created By"
+
+#: 
+msgid "Critical"
+msgstr "Critică"
+
+#: 
+msgid "Currency"
+msgstr "Currency"
+
+#: 
+msgid "Custom Delivery Date Label"
+msgstr ""
+
+#: 
+msgid "Customize Menu"
+msgstr ""
+
+#: 
+msgid "Date"
+msgstr "Data"
+
+#: 
+msgid "Date Created"
+msgstr "Date Created"
+
+#: 
+msgid "Date Interval"
+msgstr "Interval"
+
+#: 
+msgid "days"
+msgstr "zile"
+
+#: 
+msgid "Deals & Discounts"
+msgstr ""
+
+#: 
+msgid "Discussion"
+msgstr "Discussion"
+
+#: 
+msgid "Done"
+msgstr "Terminat"
+
+#: 
+msgid "Draft"
+msgstr "Ciornă"
+
+#: 
+msgid "Edit Shortcut"
+msgstr ""
+
+#: 
+msgid "Edited"
+msgstr "Edited"
+
+#: 
+msgid "Entry"
+msgstr "Entry"
+
+#: 
+msgid "Entry type"
+msgstr "Entry type"
+
+#: 
+msgid "Entry Type"
+msgstr "Entry Type"
+
+#: 
+msgid "Estimate"
+msgstr "Proformă"
+
+#: 
+msgid "Estimate Status"
+msgstr "Estimate Status"
+
+#: 
+msgid "Expand Menu"
+msgstr "Extinde meniul"
+
+#: 
+msgid "Expand Shortcuts"
+msgstr ""
+
+#: 
+msgid "Extension"
+msgstr "Extension"
+
+#: 
+msgid "File"
+msgstr "Fişier"
+
+#: 
+msgid "File Extension"
+msgstr "File Extension"
+
+#: 
+msgid "Filter"
+msgstr "Filtrează"
+
+#: 
+msgid "Hide Recent Tasks"
+msgstr ""
+
+#: 
+msgid "High"
+msgstr "Ridicată"
+
+#: 
+msgid "hrs"
+msgstr "ore"
+
+#: 
+msgid "hrs_plural"
+msgstr ""
+
+#: 
+msgid "Icon"
+msgstr ""
+
+#: 
+msgid "Inactive"
+msgstr "Inactive"
+
+#: 
+msgid "Incomplete"
+msgstr "Incomplete"
+
+#: 
+msgid "Interval Entry"
+msgstr "Interval Entry"
+
+#: 
+msgid "Invite new users to your Paymo account"
+msgstr "Invită utilizatori noi în contul tău Paymo"
+
+#: 
+msgid "Invoice"
+msgstr "Factură"
+
+#: 
+msgid "Invoice Status"
+msgstr "Invoice Status"
+
+#: 
+msgid "Invoiced"
+msgstr "Facturată"
+
+#: 
+msgid "Link"
+msgstr "Adresă"
+
+#: 
+msgid "Logout"
+msgstr "Delogare"
+
+#: 
+msgid "Low"
+msgstr "Redusă"
+
+#: 
+msgid "Mark All as Read"
+msgstr ""
+
+#: 
+msgid "Mark as Read"
+msgstr ""
+
+#: 
+msgid "Mark as Unread"
+msgstr ""
+
+#: 
+msgid "Milestone"
+msgstr "Milestone"
+
+#: 
+msgid "min"
+msgstr "min"
+
+#: 
+msgid "min_plural"
+msgstr ""
+
+#: 
+msgid "More"
+msgstr "Mai mult"
+
+#: 
+msgid "My Settings"
+msgstr ""
+
+#: 
+msgid "New shortcut"
+msgstr ""
+
+#: 
+msgid "No matching clients"
+msgstr ""
+
+#: 
+msgid "No matching projects"
+msgstr ""
+
+#: 
+msgid "No matching Task List"
+msgstr ""
+
+#: 
+msgid "No matching tasks"
+msgstr ""
+
+#: 
+msgid "No notifications"
+msgstr ""
+
+#: 
+msgid "No results found."
+msgstr "No results found."
+
+#: 
+msgid "No unread notifications"
+msgstr ""
+
+#: 
+msgid "Normal"
+msgstr "Normală"
+
+#: 
+msgid "Not edited"
+msgstr "Not edited"
+
+#: 
+msgid "Note"
+msgstr "Notiță"
+
+#: 
+msgid "Notifications"
+msgstr ""
+
+#: 
+msgid "on"
+msgstr "la data de"
+
+#: 
+msgid "Paid"
+msgstr "Plătită"
+
+#: 
+msgid "Parent Client"
+msgstr "Parent Client"
+
+#: 
+msgid "Parent project"
+msgstr "Parent project"
+
+#: 
+msgid "Parent Project"
+msgstr "Parent Project"
+
+#: 
+msgid "Paymo Community Forum"
+msgstr "Forumul comunității Paymo"
+
+#: 
+msgid "Paymo Knowledge Base"
+msgstr "Baza de cunoștințe Paymo"
+
+#: 
+msgid "Pending"
+msgstr "Pending"
+
+#: 
+msgid "Please click on the verification link"
+msgstr ""
+
+#: 
+msgid "Please confirm your email address"
+msgstr ""
+
+#: 
+msgid "Press Cmd+Enter to create a new client."
+msgstr ""
+
+#: 
+msgid "Press Cmd+Enter to create a new project."
+msgstr ""
+
+#: 
+msgid "Press Cmd+Enter to create a new Task List."
+msgstr ""
+
+#: 
+msgid "Press Cmd+Enter to create a new task."
+msgstr ""
+
+#: 
+msgid "Priority"
+msgstr "Prioritate"
+
+#: 
+msgid "Project"
+msgstr "Proiect"
+
+#: 
+msgid "Project Name"
+msgstr "Nume proiect"
+
+#: 
+msgid "Project Status"
+msgstr "Project Status"
+
+#: 
+msgid "Quick Add"
+msgstr ""
+
+#: 
+msgid "Rate Your Experience"
+msgstr "Evaluați-vă experiența"
+
+#: 
+msgid "Search Paymo"
+msgstr "Search Paymo"
+
+#: 
+msgid "sec"
+msgstr "sec"
+
+#: 
+msgid "sec_plural"
+msgstr ""
+
+#: 
+msgid "Select Date"
+msgstr "Selectează dată"
+
+#: 
+msgid "Sent"
+msgstr "Trimisă"
+
+#: 
+msgid "Session Expired"
+msgstr ""
+
+#: 
+msgid "Shortcut Name"
+msgstr ""
+
+#: 
+msgid "Shortcuts"
+msgstr ""
+
+#: 
+msgid "Show Delivery Date Field"
+msgstr ""
+
+#: 
+msgid "Show Recent Tasks"
+msgstr "Afișează sarcinile recente"
+
+#: 
+msgid "Since"
+msgstr "Since"
+
+#: 
+msgid "Start"
+msgstr "Start"
+
+#: 
+msgid "Status"
+msgstr "Statut"
+
+#: 
+msgid "Stop"
+msgstr ""
+
+#: 
+msgid "Stop Timer"
+msgstr "Oprește cronometrul"
+
+#: 
+msgid "Stop Timer & Complete Task"
+msgstr ""
+
+#: 
+msgid "Stop Timer Menu"
+msgstr ""
+
+#: 
+msgid "Subscription & Billing"
+msgstr ""
+
+#: 
+msgid "Subtask"
+msgstr "Subtask"
+
+#: 
+msgid "Task"
+msgstr "Sarcină"
+
+#: 
+msgid "Task List"
+msgstr "Listă de sarcini"
+
+#: 
+msgid "Task List Name"
+msgstr "Nume listă de sarcini"
+
+#: 
+msgid "Task Name"
+msgstr "Nume sarcină"
+
+#: 
+msgid "Task Priority"
+msgstr "Task Priority"
+
+#: 
+msgid "Task Status"
+msgstr "Task Status"
+
+#: 
+msgid "Tasklist"
+msgstr "Tasklist"
+
+#: 
+msgid "Time Entry"
+msgstr ""
+
+#: 
+msgid "Timer"
+msgstr "Cronometru"
+
+#: 
+msgid "Today"
+msgstr "Astăzi"
+
+#: 
+msgid "Tomorrow"
+msgstr "Mâine"
+
+#: 
+msgid "Tracked"
+msgstr "Tracked"
+
+#: 
+msgid "Trial ends in"
+msgstr ""
+
+#: 
+msgid "Trial has expired."
+msgstr ""
+
+#: 
+msgid "Type"
+msgstr "Tip"
+
+#: 
+msgid "Unbilled"
+msgstr "Nefacturat"
+
+#: 
+msgid "Unread"
+msgstr ""
+
+#: 
+msgid "Update"
+msgstr "Modifică"
+
+#: 
+msgid "Update Available"
+msgstr "Actualizare disponibilă"
+
+#: 
+msgid "User"
+msgstr "Utilizator"
+
+#: 
+msgid "User Type"
+msgstr "User Type"
+
+#: 
+msgid "Viewed"
+msgstr "Vizualizată"
+
+#: 
+msgid "Void"
+msgstr "Anulată"
+
+#: 
+msgid "We sent an email to"
+msgstr ""
+
+#: 
+msgid "with a duration of {duration}"
+msgstr "with a duration of {duration}"
+
+#: 
+msgid "Yesterday"
+msgstr "Ieri"
+
+#: 
+msgid "Your account is not verified"
+msgstr ""
+
+#: 
+msgid "Your session has timed out. Please reload the page and login."
+msgstr ""
+
+#: 
+msgid "Marketplace"
+msgstr ""
+
+#: 
+msgid "day"
+msgstr "zi"
+
+#: 
+msgid "day_plural"
+msgstr ""
+
+#: 
+msgid "days_plural"
+msgstr ""
+
+#: 
+msgid "Trial ends in {{daysLeft}} days."
+msgstr ""
+
+#: 
+msgid "\"From\" Email"
+msgstr "\"From\" Email"
+
+#: 
+msgid "\"From\" Name"
+msgstr "\"From\" Name"
+
+#: 
+msgid "({0} days late)"
+msgstr "({0} zile întârziere)"
+
+#: 
+msgid "(48 hours before due)"
+msgstr "(cu 48 de ore înainte de scadenţă)"
+
+#: 
+msgid "(in {0} day)"
+msgstr "(în {0} zile)"
+
+#: 
+msgid "(in {0} days)"
+msgstr "(în {0} zile)"
+
+#: 
+msgid "(No title)"
+msgstr "(Niciun titlu)"
+
+#: 
+msgid "{0} active users"
+msgstr "{0} utilizatori activi"
+
+#: 
+msgid "{0} application is not active!"
+msgstr "{0} application is not active!"
+
+#: 
+msgid "{0} application is not enabled"
+msgstr "{0} application is not enabled"
+
+#: 
+msgid "{0} couldn't be uploaded. {1}"
+msgstr "{0} nu a putut fi încărcat. {1}"
+
+#: 
+msgid "{0} invoices/month"
+msgstr "{0} facturi/lună"
+
+#: 
+msgid "======="
+msgstr "======="
+
+#: 
+msgid "1 active user"
+msgstr "1 utilizator activ"
+
+#: 
+msgid "1 Day Before"
+msgstr "1 zi înainte"
+
+#: 
+msgid "1 Week Before"
+msgstr "1 săptămână înainte"
+
+#: 
+msgid "12-Hour Day"
+msgstr "Zi de 12 ore"
+
+#: 
+msgid "2 Days Before"
+msgstr "2 zile înainte"
+
+#: 
+msgid "2 Weeks Before"
+msgstr "2 săptămâni înainte"
+
+#: 
+msgid "2. Log into your PayPal Business or Premier account and import the downloaded certificate to [Profile] > [My Selling Tools] > [Encrypted payment settings] (bottom of the page) > Website Payment Certificates"
+msgstr "2. Loghează-te în contul tău de PayPal Business sau cel de Premier și importă certificatele descărcate la [Profil] > [Instrumentele mele de vânzare] > [Setări plăți encriptate] (antetul paginii) > Website Payment Certificates"
+
+#: 
+msgid "24-Hour Day"
+msgstr "Zi de 24 de ore"
+
+#: 
+msgid "A milestone represents an important moment or goal, like completing a certain part of the project. They're associated with task lists and also have a reminder option to make sure that you're on track with your work."
+msgstr "Un obiectiv reprezintă un moment sau scop important, cum ar fi terminarea unei anumite părți a proiectului. Acestea sunt asociate cu listele de sarcini și pot avea o opțiune de notificare pentru a garanta că ești pe drumul cel bun."
+
+#: 
+msgid "A new payment will be added"
+msgstr "O nouă plată va fi adăugată"
+
+#: 
+msgid "A new version of Paymo is now available."
+msgstr "O nouă versiune Paymo este disponibilă"
+
+#: 
+msgid "A newly created invoice will be saved as a \"Draft\". On the same screen you'll see some self-explanatory options like \"Edit\", \"Delete\", \"Print\", \"PDF\", \"Clone\", \"View associated payments\" or \"Mark an invoice\" as \"Draft\"/\"Void\"/\"Paid\" or the option for clients to \"Pay online\"."
+msgstr "O factură nou creată va fi salvată ca ”Ciornă”. Pe același ecran vei vedea câteva opțiuni auto-explicative cum ar fi ”Editează”, ”Șterge”, ”Printează”, ”Clonează”, ”Vizualizează plăți asociate” sau ”Marchează o factură” ca ”Ciornă/Anulată/Plătită” sau opțiunea pentru clienți de ”Plătește online”."
+
+#: 
+msgid "Accept Online Payments"
+msgstr "Acceptă plăți online"
+
+#: 
+msgid "accepted"
+msgstr "acceptată"
+
+#: 
+msgid "Accepted by client"
+msgstr "Acceptat de client"
+
+#: 
+msgid "Accepted cards"
+msgstr "Carduri de credit acceptate"
+
+#: 
+msgid "Accepted Credit Cards"
+msgstr "Carduri de credit acceptate"
+
+#: 
+msgid "Access Paymo Backups"
+msgstr "Accesează copiile de siguranță Paymo"
+
+#: 
+msgid "Account & Security"
+msgstr "Account & Security"
+
+#: 
+msgid "Account Type"
+msgstr "Tip cont"
+
+#: 
+msgid "Accounting"
+msgstr "Contabilitate"
+
+#: 
+msgid "Accounting Information"
+msgstr "Accounting Information"
+
+#: 
+msgid "Action Comments"
+msgstr "Comentarii acțiune"
+
+#: 
+msgid "Action Description"
+msgstr "Descriere acțiune"
+
+#: 
+msgid "Action Files"
+msgstr "Fișiere acțiune"
+
+#: 
+msgid "Activate"
+msgstr "Activează"
+
+#: 
+msgid "Activate Client"
+msgstr "Activează client"
+
+#: 
+msgid "Activate project"
+msgstr "Activează proiect"
+
+#: 
+msgid "Activate projects"
+msgstr "Activează proiecte"
+
+#: 
+msgid "Activate report"
+msgstr "Activează raport"
+
+#: 
+msgid "Activate reports"
+msgstr "Activează rapoarte"
+
+#: 
+msgid "Activate User"
+msgstr "Activează uitilizator"
+
+#: 
+msgid "Activated by"
+msgstr "Activat de"
+
+#: 
+msgid "Activating projects of an archived client will activate the client as well. Do you want to proceed?"
+msgstr "Activarea proiectelor unui client arhivat va activa și clientul. Dorești să continui?"
+
+#: 
+msgid "active"
+msgstr "active"
+
+#: 
+msgid "Active and"
+msgstr "Activ și"
+
+#: 
+msgid "Active Clients"
+msgstr "Clienți activi"
+
+#: 
+msgid "active projects"
+msgstr "proiecte active"
+
+#: 
+msgid "Active projects"
+msgstr "Proiecte active"
+
+#: 
+msgid "Active Projects"
+msgstr "Proiecte active"
+
+#: 
+msgid "Active Reports"
+msgstr "Rapoarte active"
+
+#: 
+msgid "Active Statuses"
+msgstr "Active Statuses"
+
+#: 
+msgid "Active Timers"
+msgstr "Active Timers"
+
+#: 
+msgid "Active Users"
+msgstr "Utilizatori activi"
+
+#: 
+msgid "Activity Feed"
+msgstr "Activitate recentă"
+
+#: 
+msgid "Add"
+msgstr "Adaugă"
+
+#: 
+msgid "add and view clients, projects and tasks"
+msgstr "adaugă și vezi clienți, proiecte și sarcini"
+
+#: 
+msgid "Add another item"
+msgstr "Adaugă alt element"
+
+#: 
+msgid "Add Booking"
+msgstr "Adaugă rezervare"
+
+#: 
+msgid "Add Booking for"
+msgstr "Adaugă rezervare pentru"
+
+#: 
+msgid "Add Bulk Time"
+msgstr "Adaugă volum de timp"
+
+#: 
+msgid "Add Column"
+msgstr "Adaugă coloană"
+
+#: 
+msgid "Add Comment"
+msgstr "Adaugă comentariu"
+
+#: 
+msgid "Add Contact"
+msgstr "Adaugă contact"
+
+#: 
+msgid "Add Description"
+msgstr "Adaugă descriere"
+
+#: 
+msgid "Add Discussion"
+msgstr "Adaugă discuţie"
+
+#: 
+msgid "Add Empty Row"
+msgstr "Adaugă rând gol"
+
+#: 
+msgid "Add Entries"
+msgstr "Adaugă înregistrări"
+
+#: 
+msgid "Add Entry"
+msgstr "Adaugă înregistrare"
+
+#: 
+msgid "Add Estimate"
+msgstr "Adaugă proformă"
+
+#: 
+msgid "Add Expense"
+msgstr "Adaugă cheltuială"
+
+#: 
+msgid "Add Expense Tag"
+msgstr "Add Expense Tag"
+
+#: 
+msgid "Add Expenses"
+msgstr "Adaugă cheltuieli"
+
+#: 
+msgid "Add Files"
+msgstr "Adaugă fișiere"
+
+#: 
+msgid "Add Filter"
+msgstr "Adaugă filtru"
+
+#: 
+msgid "Add from Expenses"
+msgstr "Adaugă din Cheltuieli"
+
+#: 
+msgid "Add from library"
+msgstr "Adaugă din librărie"
+
+#: 
+msgid "Add from Project Template"
+msgstr "Add from Project Template"
+
+#: 
+msgid "Add from Projects"
+msgstr "Adaugă din Proiecte"
+
+#: 
+msgid "Add from Tasks"
+msgstr "Adaugă din Sarcini"
+
+#: 
+msgid "Add From Time Sheet"
+msgstr "Adaugă din Fișă de pontaj"
+
+#: 
+msgid "Add from Timesheet"
+msgstr "Adaugă din Fișă de pontaj"
+
+#: 
+msgid "add here your custom CSS"
+msgstr "adaugă aici CSS-ul personalizat"
+
+#: 
+msgid "Add Invoice"
+msgstr "Adaugă factură"
+
+#: 
+msgid "Add item"
+msgstr "Adaugă element"
+
+#: 
+msgid "Add Leave"
+msgstr "Adaugă concediu"
+
+#: 
+msgid "Add Leave for"
+msgstr "Adaugă concediu pentru"
+
+#: 
+msgid "Add Leave Type"
+msgstr "Adaugă tip de concediu"
+
+#: 
+msgid "Add Milestone"
+msgstr "Adaugă obiectiv"
+
+#: 
+msgid "Add More Users"
+msgstr "Add More Users"
+
+#: 
+msgid "Add New Category"
+msgstr "Adaugă categorie nouă"
+
+#: 
+msgid "Add New Contact"
+msgstr "Adaugă contact nou"
+
+#: 
+msgid "Add New Payment"
+msgstr "Adaugă plată nouă"
+
+#: 
+msgid "Add New Project Status"
+msgstr "Adaugă statut nou de proiect"
+
+#: 
+msgid "Add New Tag"
+msgstr "Add New Tag"
+
+#: 
+msgid "Add New Template"
+msgstr "Adaugă șablon nou"
+
+#: 
+msgid "Add New Workflow"
+msgstr "Adaugă flux de lucru nou"
+
+#: 
+msgid "Add New Workflow Status"
+msgstr "Adaugă statut nou pentru fluxul de lucru "
+
+#: 
+msgid "Add Note"
+msgstr "Adaugă notiță"
+
+#: 
+msgid "Add Notes"
+msgstr "Adaugă notițe"
+
+#: 
+msgid "Add Outstanding Time/Costs"
+msgstr "Adaugă timp/costuri nerezolvate"
+
+#: 
+msgid "Add Payment"
+msgstr "Adaugă plată"
+
+#: 
+msgid "Add PDF Attachment"
+msgstr "Adaugă fișier PDF"
+
+#: 
+msgid "Add Project Status"
+msgstr "Adaugă statut proiect"
+
+#: 
+msgid "Add reaction"
+msgstr "Add reaction"
+
+#: 
+msgid "Add Recurring Profile"
+msgstr "Adaugă profil recurent"
+
+#: 
+msgid "Add Report"
+msgstr "Adaugă raport"
+
+#: 
+msgid "Add Rows"
+msgstr "Adaugă rânduri"
+
+#: 
+msgid "Add Status"
+msgstr "Add Status"
+
+#: 
+msgid "Add Subtask"
+msgstr "Adaugă sarcină secundară"
+
+#: 
+msgid "Add Tag"
+msgstr "Adaugă tag"
+
+#: 
+msgid "Add Tasks"
+msgstr "Adaugă sarcini"
+
+#: 
+msgid "Add Tasks from Template"
+msgstr "Adaugă sarcini din șablon"
+
+#: 
+msgid "Add Template"
+msgstr "Adaugă șablon"
+
+#: 
+msgid "Add Templates"
+msgstr "Add Templates"
+
+#: 
+msgid "Add templates from the library"
+msgstr "Adaugă șabloane din librărie"
+
+#: 
+msgid "Add Templates from the Library"
+msgstr "Add Templates from the Library"
+
+#: 
+msgid "Add time"
+msgstr "Adaugă timp"
+
+#: 
+msgid "Add Time"
+msgstr "Adaugă timp"
+
+#: 
+msgid "Add User"
+msgstr "Adaugă utilizator"
+
+#: 
+msgid "Add Workflow Status"
+msgstr "Adaugă statut flux de lucru "
+
+#: 
+msgid "Add working day"
+msgstr "Adaugă zi de lucru"
+
+#: 
+msgid "Add-ons"
+msgstr "Module"
+
+#: 
+msgid "added by"
+msgstr "adăugat de"
+
+#: 
+msgid "Added by"
+msgstr "Adăugat de"
+
+#: 
+msgid "Added By"
+msgstr "Adăugat de"
+
+#: 
+msgid "Address"
+msgstr "Adresă"
+
+#: 
+msgid "Adjusted Automatically"
+msgstr "Adjusted Automatically"
+
+#: 
+msgid "Adjusted automatically based on tasks budget hours"
+msgstr "Ajustat automat în funcție de orele de buget ale sarcinilor"
+
+#: 
+msgid "Admin"
+msgstr "Administrator"
+
+#: 
+msgid "Advanced List"
+msgstr "Listă avansată"
+
+#: 
+msgid "Advanced Project Settings"
+msgstr "Advanced Project Settings"
+
+#: 
+msgid "Advanced report settings"
+msgstr "Setări avansate de raportare"
+
+#: 
+msgid "Advanced settings"
+msgstr "Setări avansate"
+
+#: 
+msgid "Advanced Settings"
+msgstr "Setări avansate"
+
+#: 
+msgid "Advanced View"
+msgstr "Vedere avansată"
+
+#: 
+msgid "after"
+msgstr "after"
+
+#: 
+msgid "After"
+msgstr "După"
+
+#: 
+msgid "Agenda"
+msgstr "Agendă"
+
+#: 
+msgid "Alert"
+msgstr "Alertă"
+
+#: 
+msgid "Alert threshold"
+msgstr "Alertă prag"
+
+#: 
+msgid "Alerts"
+msgstr "Alerte"
+
+#: 
+msgid "All {0} projects"
+msgstr "Toate {0} proiectele"
+
+#: 
+msgid "All {0} projects for this client"
+msgstr "Toate {0} proiectele pentru acest client"
+
+#: 
+msgid "All Active"
+msgstr "Toate active"
+
+#: 
+msgid "All active projects"
+msgstr "Toate proiectele active"
+
+#: 
+msgid "All Active projects"
+msgstr "Toate proiectele active"
+
+#: 
+msgid "All active projects for this client"
+msgstr "Toate proiectele active pentru acest client"
+
+#: 
+msgid "All active users"
+msgstr "Toți utilizatorii activi"
+
+#: 
+msgid "All Archive"
+msgstr "Toate arhivate"
+
+#: 
+msgid "All archived projects"
+msgstr "Toate proiectele arhivate"
+
+#: 
+msgid "All Archived projects"
+msgstr "Toate proiectele arhivate"
+
+#: 
+msgid "All archived projects for this client"
+msgstr "Toate proiectele arhivate pentru clienți"
+
+#: 
+msgid "All archived users"
+msgstr "Toți utilizatorii arhivați"
+
+#: 
+msgid "All associated data will be deleted, including time entries."
+msgstr "Toate datele asociate vor fi șterse, inclusiv înregistrările de timp."
+
+#: 
+msgid "All associated data will be deleted:"
+msgstr "Toate datele asociate vor fi șterse:"
+
+#: 
+msgid "All associated data will be deleted."
+msgstr "Toate datele asociate vor fi șterse."
+
+#: 
+msgid "All client related data except invoices & expenses will be deleted."
+msgstr "Toate datele legate de client în afară de facturi și cheltuieli vor fi șterse."
+
+#: 
+msgid "All Clients"
+msgstr "Toți clienții"
+
+#: 
+msgid "All payments will be deleted"
+msgstr "Toate plățile vor fi șterse"
+
+#: 
+msgid "All Projects"
+msgstr "Toate proiectele"
+
+#: 
+msgid "All projects (incl. archived)"
+msgstr "Toate proiectele (incl. cele arhivate)"
+
+#: 
+msgid "All projects (incl. archived) for this client"
+msgstr "Toate proiectele (incl. cele arhivate) pentru acest client"
+
+#: 
+msgid "All tasks that have a start & end date will be rescheduled"
+msgstr "All tasks that have a start & end date will be rescheduled"
+
+#: 
+msgid "all time"
+msgstr "tot timpul"
+
+#: 
+msgid "All Time"
+msgstr "Tot timpul"
+
+#: 
+msgid "All Topics"
+msgstr "Toate temele"
+
+#: 
+msgid "All Users"
+msgstr "Toți utilizatorii"
+
+#: 
+msgid "All users (incl. archived)"
+msgstr "Toți utilizatorii (incl. cei arhivați)"
+
+#: 
+msgid "Allowed File Types"
+msgstr "Tipuri de fișiere permise"
+
+#: 
+msgid "AMEX"
+msgstr "AMEX"
+
+#: 
+msgid "Amount"
+msgstr "Sumă"
+
+#: 
+msgid "Amount Due"
+msgstr "Total restant"
+
+#: 
+msgid "An error occurred while retrieving the task details."
+msgstr "An error occurred while retrieving the task details."
+
+#: 
+msgid "An error occurred. Please try again later."
+msgstr "S-a produs o eroare. Te rog încearcă din nou."
+
+#: 
+msgid "An error occurred. The Booking was not saved!"
+msgstr "S-a produs o eroare. Rezervarea nu a fost salvată!"
+
+#: 
+msgid "An error occurred. The Task was not saved!"
+msgstr "S-a produs o eroare. Sarcina nu a fost salvată!"
+
+#: 
+msgid "and"
+msgstr "și"
+
+#: 
+msgid "and projects in a few easy steps."
+msgstr "and projects in a few easy steps."
+
+#: 
+msgid "Annotate"
+msgstr "Anotează"
+
+#: 
+msgid "Annual leave entitlement"
+msgstr "Annual leave entitlement"
+
+#: 
+msgid "Annual Leave Entitlement (days in year)"
+msgstr "Dreptul la concediu anual (zile pe an)"
+
+#: 
+msgid "Anyone with this link can view the Report"
+msgstr "Anyone with this link can view the Report"
+
+#: 
+msgid "Anytime"
+msgstr "Orice perioadă"
+
+#: 
+msgid "API Login ID"
+msgstr "ID logare API"
+
+#: 
+msgid "App password for"
+msgstr "App password for"
+
+#: 
+msgid "App passwords (Api Keys)"
+msgstr "Parole aplicație (Chei Api)"
+
+#: 
+msgid "App passwords allow 3rd-party apps or services to access your Paymo account without the need to share your credentials with them. We'll generate the app passwords for you, and you won't need to remember them."
+msgstr "Parolele aplicațiilor permit aplicațiilor sau serviciilor terțe să acceseze contul tău Paymo fără a distribui acreditările tale. Vom genera parolele de aplicații pentru tine, astfel încât nu va fi nevoie să le memorezi."
+
+#: 
+msgid "App Store"
+msgstr "App Store"
+
+#: 
+msgid "Appearance"
+msgstr "Aspect"
+
+#: 
+msgid "Application"
+msgstr "Aplicație"
+
+#: 
+msgid "Application Update"
+msgstr "Actualizare aplicație"
+
+#: 
+msgid "Applications"
+msgstr "Aplicații"
+
+#: 
+msgid "Applications updated successfully"
+msgstr "Aplicații actualizate cu succes"
+
+#: 
+msgid "Apply"
+msgstr "Aplică"
+
+#: 
+msgid "Apply and Save"
+msgstr "Aplică și salvează"
+
+#: 
+msgid "Apply and Save Settings"
+msgstr "Aplică și salvează setările"
+
+#: 
+msgid "Apply Tax"
+msgstr "Aplică taxă"
+
+#: 
+msgid "Apply Tax to Expenses"
+msgstr "Aplică taxele la cheltuieli"
+
+#: 
+msgid "Applying project templates"
+msgstr "Se aplică șablon proiecte"
+
+#: 
+msgid "Apps"
+msgstr "Aplicații"
+
+#: 
+msgid "Apps Marketplace"
+msgstr "Apps Marketplace"
+
+#: 
+msgid "April"
+msgstr "Aprilie"
+
+#: 
+msgid "Archive"
+msgstr "Arhivează"
+
+#: 
+msgid "Archive Client"
+msgstr "Arhivează client"
+
+#: 
+msgid "Archive project"
+msgstr "Arhivează proiectul"
+
+#: 
+msgid "Archive projects"
+msgstr "Arhivează proiecte"
+
+#: 
+msgid "Archive report"
+msgstr "Arhivează raportul"
+
+#: 
+msgid "Archive reports"
+msgstr "Arhivează rapoarte"
+
+#: 
+msgid "Archive User"
+msgstr "Arhivează utilizator"
+
+#: 
+msgid "archived"
+msgstr "arhivate"
+
+#: 
+msgid "Archived"
+msgstr "Arhivat"
+
+#: 
+msgid "Archived and"
+msgstr "Arhivat și"
+
+#: 
+msgid "Archived Clients"
+msgstr "Clienți arhivaţi"
+
+#: 
+msgid "Archived Invoices can’t be exported"
+msgstr "Archived Invoices can’t be exported"
+
+#: 
+msgid "Archived Projects"
+msgstr "Proiecte arhivate"
+
+#: 
+msgid "Archived Reports"
+msgstr "Rapoarte arhivate"
+
+#: 
+msgid "Archived Statuses"
+msgstr "Archived Statuses"
+
+#: 
+msgid "Archived Users"
+msgstr "Utilizatori arhivați"
+
+#: 
+msgid "Are you sure you want the selected milestones to be marked as complete?"
+msgstr "Ești sigur că dorești să marchezi obiectivele selectate ca terminate?"
+
+#: 
+msgid "Are you sure you want to {0} the selected project{1}?"
+msgstr "Ești sigur că vrei să {0} pentru proiectul selectat {1}?"
+
+#: 
+msgid "Are you sure you want to activate selected reports?"
+msgstr "Ești sigur că dorești să activezi rapoartele selectate?"
+
+#: 
+msgid "Are you sure you want to activate the current client?"
+msgstr "Ești sigur că dorești să activezi clientul curent?"
+
+#: 
+msgid "Are you sure you want to activate the current project?"
+msgstr "Ești sigur că dorești să activezi proiectul curent?"
+
+#: 
+msgid "Are you sure you want to activate the current report?"
+msgstr "Ești sigur că dorești să activezi raportul curent?"
+
+#: 
+msgid "Are you sure you want to activate the selected client?"
+msgstr "Ești sigur că dorești să activezi utilizatorul selectat?"
+
+#: 
+msgid "Are you sure you want to activate the selected project?"
+msgstr "Ești sigur că dorești să activezi proiectul selectat?"
+
+#: 
+msgid "Are you sure you want to activate the selected projects?"
+msgstr "Ești sigur că dorești să activezi proiectele selectate?"
+
+#: 
+msgid "Are you sure you want to activate the selected user?"
+msgstr "Ești sigur că dorești să activezi utilizatorul selectat?"
+
+#: 
+msgid "Are you sure you want to archive selected reports?"
+msgstr "Ești sigur că dorești să arhivezi rapoartele selectate?"
+
+#: 
+msgid "Are you sure you want to archive the current client?"
+msgstr "Ești sigur că dorești să arhivezi clientul curent?"
+
+#: 
+msgid "Are you sure you want to archive the current project?"
+msgstr "Ești sigur că dorești să arhivezi proiectul curent?"
+
+#: 
+msgid "Are you sure you want to archive the current report?"
+msgstr "Ești sigur că dorești să arhivezi raportul curent?"
+
+#: 
+msgid "Are you sure you want to archive the selected client?"
+msgstr "Ești sigur că dorești să arhivezi utilizatorul selectat?"
+
+#: 
+msgid "Are you sure you want to archive the selected project?"
+msgstr "Ești sigur că dorești să arhivezi proiectul selectat?"
+
+#: 
+msgid "Are you sure you want to archive the selected projects?"
+msgstr "Ești sigur că dorești să arhivezi proiectele selectate?"
+
+#: 
+msgid "Are you sure you want to archive the selected user?"
+msgstr "Ești sigur că dorești să arhivezi utilizatorul selectat?"
+
+#: 
+msgid "Are you sure you want to clear the date range?"
+msgstr "Ești sigur că dorești sa ștergi intervalul de date?"
+
+#: 
+msgid "Are you sure you want to convert this subtask into a task?"
+msgstr "Are you sure you want to convert this subtask into a task?"
+
+#: 
+msgid "Are you sure you want to delete"
+msgstr "Ești sigur că dorești să ștergi"
+
+#: 
+msgid "Are you sure you want to delete estimate template {0}?"
+msgstr "Ești sigur că dorești să ștergi acest șablon {0}?"
+
+#: 
+msgid "Are you sure you want to delete expense for"
+msgstr "Ești sigur că dorești să ștergi cheltuiala pentru"
+
+#: 
+msgid "Are you sure you want to delete invoice template {0}?"
+msgstr "Ești sigur că dorești să ștergi factura șablon {0}?"
+
+#: 
+msgid "Are you sure you want to delete the current client?"
+msgstr "Ești sigur că dorești să ștergi clientul selectat?"
+
+#: 
+msgid "Are you sure you want to delete the current estimate?"
+msgstr "Ești sigur că dorești să ștergi proforma selectată?"
+
+#: 
+msgid "Are you sure you want to delete the current expense?"
+msgstr "Ești sigur că dorești să ștergi cheltuiala selectată?"
+
+#: 
+msgid "Are you sure you want to delete the current invoice?"
+msgstr "Ești sigur că dorești să ștergi factura curentă?"
+
+#: 
+msgid "Are you sure you want to delete the current note?"
+msgstr "Ești sigur că dorești să ștergi notița curentă?"
+
+#: 
+msgid "Are you sure you want to delete the current project?"
+msgstr "Ești sigur că dorești să ștergi proiectul curent?"
+
+#: 
+msgid "Are you sure you want to delete the current recurring profile?"
+msgstr "Ești sigur că dorești să ștergi profilul recurent selectat?"
+
+#: 
+msgid "Are you sure you want to delete the current report?"
+msgstr "Ești sigur că dorești să ștergi raportul curent?"
+
+#: 
+msgid "Are you sure you want to delete the current user?"
+msgstr "Ești sigur că dorești să ștergi utilizatorul selectat?"
+
+#: 
+msgid "Are you sure you want to delete the following task?"
+msgstr "Ești sigur că dorești să ștergi următoarea sarcină?"
+
+#: 
+msgid "Are you sure you want to delete the following tasklist?"
+msgstr "Ești sigur că dorești să ștergi următoarea listă de sarcini?"
+
+#: 
+msgid "Are you sure you want to delete the following template?"
+msgstr "Ești sigur că dorești să ștergi următorul șablon?"
+
+#: 
+msgid "Are you sure you want to delete the selected contact?"
+msgstr "Ești sigur că dorești să ștergi contactul selectat?"
+
+#: 
+msgid "Are you sure you want to delete the selected entries?"
+msgstr "Ești sigur că dorești să ștergi înregistrările de timp selectate?"
+
+#: 
+msgid "Are you sure you want to delete the selected entry?"
+msgstr "Ești sigur că dorești să ștergi înregistrarea selectată?"
+
+#: 
+msgid "Are you sure you want to delete the selected invoices?"
+msgstr "Ești sigur că dorești să ștergi facturile selectate?"
+
+#: 
+msgid "Are you sure you want to delete the selected link?"
+msgstr "Ești sigur că dorești să ștergi link-ul selectat?"
+
+#: 
+msgid "Are you sure you want to delete the selected milestones?"
+msgstr "Ești sigur că dorești să ștergi obiectivele selectate?"
+
+#: 
+msgid "Are you sure you want to delete the selected payments?"
+msgstr "Ești sigur că dorești să ștergi plățile selectate?"
+
+#: 
+msgid "Are you sure you want to delete the selected projects?"
+msgstr "Ești sigur că dorești să ștergi proiectele selectate?"
+
+#: 
+msgid "Are you sure you want to delete the selected shortcut?"
+msgstr "Ești sigur că dorești să ștergi scurtătura selectată?"
+
+#: 
+msgid "Are you sure you want to delete the task recurring profile? Deleting it will stop all future occurrences of the task."
+msgstr "Are you sure you want to delete the task recurring profile? Deleting it will stop all future occurrences of the task."
+
+#: 
+msgid "Are you sure you want to delete this API Key?"
+msgstr "Are you sure you want to delete this API Key?"
+
+#: 
+msgid "Are you sure you want to delete this booking?"
+msgstr "Ești sigur că dorești să ștergi această rezervare?"
+
+#: 
+msgid "Are you sure you want to delete this column?"
+msgstr "Ești sigur că dorești să ștergi această coloană?"
+
+#: 
+msgid "Are you sure you want to delete this comment?"
+msgstr "Ești sigur că dorești să ștergi acest comentariu?"
+
+#: 
+msgid "Are you sure you want to delete this discussion?"
+msgstr "Ești sigur că dorești să ștergi această discuţie?"
+
+#: 
+msgid "Are you sure you want to delete this file?"
+msgstr "Ești sigur că dorești să ștergi acest fișier?"
+
+#: 
+msgid "Are you sure you want to delete this milestone?"
+msgstr "Ești sigur că dorești să ștergi acest obiectiv?"
+
+#: 
+msgid "Are you sure you want to delete this payment?"
+msgstr "Ești sigur că dorești să ștergi această plată?"
+
+#: 
+msgid "Are you sure you want to delete this subtask?"
+msgstr "Ești sigur că vrei să ștergi această sarcină secundară?"
+
+#: 
+msgid "Are you sure you want to delete this topic?"
+msgstr "Ești sigur că dorești să ștergi această temă?"
+
+#: 
+msgid "Are you sure you want to mark as invoiced the selected entries?"
+msgstr "Ești sigur că dorești să marchezi ca facturate înregistrările de timp selectate?"
+
+#: 
+msgid "Are you sure you want to mark selected entries as invoiced?"
+msgstr "Ești sigur că dorești să marchezi înregistrările selectate ca facturate?"
+
+#: 
+msgid "Are you sure you want to mark selected entries as uninvoiced?"
+msgstr "Ești sigur că dorești să marchezi intrările selectate ca nefacturate?"
+
+#: 
+msgid "Are you sure you want to mark the current invoice as paid?"
+msgstr "Ești sigur că dorești să marchezi factura curentă ca plătită?"
+
+#: 
+msgid "Are you sure you want to mark the selected invoice as {0} ? {1}"
+msgstr "Ești sigur că dorești să marchezi facturile selectate ca {0} ? {1}"
+
+#: 
+msgid "Are you sure you want to mark the selected invoices as"
+msgstr "Ești sigur că dorești să marchezi facturile selectate ca"
+
+#: 
+msgid "Are you sure you want to remove this file?"
+msgstr "Ești sigur că dorești să ștergi acest fișier?"
+
+#: 
+msgid "Are you sure you want to restore application default settings"
+msgstr "Ești sigur că vrei să restaurezi setările implicite ale aplicației"
+
+#: 
+msgid "Are you sure you want to restore application default settings?"
+msgstr "Are you sure you want to restore application default settings?"
+
+#: 
+msgid "Are you sure you want to revoke <strong>{0}</strong> access for <strong>{1}</strong>?"
+msgstr "Are you sure you want to revoke <strong>{0}</strong> access for <strong>{1}</strong>?"
+
+#: 
+msgid "Are you sure you want to revoke access for"
+msgstr "Are you sure you want to revoke access for"
+
+#: 
+msgid "Are you sure you want to set the status of the selected projects to"
+msgstr "Are you sure you want to set the status of the selected projects to"
+
+#: 
+msgid "Are you sure?"
+msgstr "Are you sure?"
+
+#: 
+msgid "as project manager"
+msgstr "ca manager de proiect"
+
+#: 
+msgid "Assign To"
+msgstr "Asignează pe"
+
+#: 
+msgid "Assign to Client"
+msgstr "Asignează unui client"
+
+#: 
+msgid "Assign to Project"
+msgstr "Asignează proiectului"
+
+#: 
+msgid "Assign Users"
+msgstr "Asignează utilizatori"
+
+#: 
+msgid "Assigned Projects"
+msgstr "Lista proiectelor asignate"
+
+#: 
+msgid "Assigned to Anyone"
+msgstr "Asignează oricui"
+
+#: 
+msgid "Assigned Users"
+msgstr "Utilizatori implicaţi"
+
+#: 
+msgid "Associated Task Lists"
+msgstr "Listă de sarcini asociate"
+
+#: 
+msgid "Associated Tasklists"
+msgstr "Liste de sarcini asociate"
+
+#: 
+msgid "at"
+msgstr "la"
+
+#: 
+msgid "At least one search criteria should be selected"
+msgstr "Trebuie să fie selectat cel puțin un criteriu de căutare"
+
+#: 
+msgid "At the bottom of the table you will see the total estimated price for current list of tasks."
+msgstr "La finalul tabelului vei vedea prețul total estimat pentru lista curentă de sarcini."
+
+#: 
+msgid "Attach Files"
+msgstr "Atașează fișiere"
+
+#: 
+msgid "Attach Files from Computer"
+msgstr "Atașează fișiere din Computer"
+
+#: 
+msgid "Attach Files from Google Drive"
+msgstr "Atașează fișiere din Google Drive"
+
+#: 
+msgid "Attach generated timesheet report to invoice"
+msgstr "Atașează raportul pontajului generat la factură"
+
+#: 
+msgid "Attach Generated Timesheet Report to Invoice"
+msgstr "Adaugă raportul generat al fișei de pontaj la factură"
+
+#: 
+msgid "Attached to"
+msgstr "Atașat la"
+
+#: 
+msgid "Attention: this expense has already been invoiced"
+msgstr "Atenție: această cheltuială a fost deja facturată"
+
+#: 
+msgid "August"
+msgstr "August"
+
+#: 
+msgid "Auth type"
+msgstr "Tip Auth"
+
+#: 
+msgid "Authorize"
+msgstr "Authorize"
+
+#: 
+msgid "Authorize QuickBooks to securely access invoices from Paymo?"
+msgstr "Authorize QuickBooks to securely access invoices from Paymo?"
+
+#: 
+msgid "Authorize Xero to securely access invoices from Paymo?"
+msgstr "Authorize Xero to securely access invoices from Paymo?"
+
+#: 
+msgid "Authorized 3rd party apps"
+msgstr "Authorized 3rd party apps"
+
+#: 
+msgid "Auto"
+msgstr "Automat"
+
+#: 
+msgid "Auto Scheduling"
+msgstr "Programare automată"
+
+#: 
+msgid "Auto Strict"
+msgstr "Auto Strict"
+
+#: 
+msgid "Auto-adjust Task Dates based on Booking Date Range"
+msgstr "Autoajustează datele sarcinilor pe baza intervalului rezervării"
+
+#: 
+msgid "Auto-scheduling gap settings (days)"
+msgstr "Setări automate de programare a decalajului (zile)"
+
+#: 
+msgid "available"
+msgstr "disponibil"
+
+#: 
+msgid "Available"
+msgstr "Disponibil"
+
+#: 
+msgid "Available placeholders"
+msgstr "Înlocuitori disponibili"
+
+#: 
+msgid "Back"
+msgstr "Înapoi"
+
+#: 
+msgid "Back to Invoice"
+msgstr "Înapoi la factură"
+
+#: 
+msgid "Back to the application"
+msgstr "Back to the application"
+
+#: 
+msgid "Backlog"
+msgstr "Backlog"
+
+#: 
+msgid "Backups"
+msgstr "Copii de securitate"
+
+#: 
+msgid "Barchart"
+msgstr "Barchart"
+
+#: 
+msgid "Barchart Report"
+msgstr "Raport diagramă cu bare"
+
+#: 
+msgid "based on the date you select."
+msgstr "based on the date you select."
+
+#: 
+msgid "Basic"
+msgstr "De bază"
+
+#: 
+msgid "Basic Client Details"
+msgstr "Basic Client Details"
+
+#: 
+msgid "Basic Contact Details"
+msgstr "Basic Contact Details"
+
+#: 
+msgid "Basic Info"
+msgstr "Informații de bază"
+
+#: 
+msgid "Basic Information"
+msgstr "Basic Information"
+
+#: 
+msgid "Basic User Details"
+msgstr "Basic User Details"
+
+#: 
+msgid "Before"
+msgstr "Înainte de"
+
+#: 
+msgid "billable"
+msgstr "facturabil"
+
+#: 
+msgid "Billable"
+msgstr "Facturabil"
+
+#: 
+msgid "Billable Hours"
+msgstr "Billable Hours"
+
+#: 
+msgid "billable hrs"
+msgstr "ore facturabile"
+
+#: 
+msgid "Billable Info"
+msgstr "Informații facturabile"
+
+#: 
+msgid "Billable Tasks"
+msgstr "Sarcini facturabile"
+
+#: 
+msgid "Billable Time"
+msgstr "Timp facturabil"
+
+#: 
+msgid "Billable vs non-billable"
+msgstr "Facturabil vs Nefacturabil"
+
+#: 
+msgid "billed"
+msgstr "billed"
+
+#: 
+msgid "Billed Hours"
+msgstr "Ore facturate"
+
+#: 
+msgid "billed last month"
+msgstr "facturat luna trecută"
+
+#: 
+msgid "billed previous month"
+msgstr "facturat luna precedentă"
+
+#: 
+msgid "Billed Status"
+msgstr "Statut facturat"
+
+#: 
+msgid "billed this month"
+msgstr "facturat în această lună"
+
+#: 
+msgid "Billed Time"
+msgstr "Timp facturat"
+
+#: 
+msgid "Billed/Rec."
+msgstr "Facturat/Încasat"
+
+#: 
+msgid "Billed/Received"
+msgstr "Facturat/Primit"
+
+#: 
+msgid "Billing"
+msgstr "Facturare"
+
+#: 
+msgid "Billing & Budget"
+msgstr "Billing & Budget"
+
+#: 
+msgid "Billing & HR"
+msgstr "Billing & HR"
+
+#: 
+msgid "Billing Method"
+msgstr "Metoda de facturare"
+
+#: 
+msgid "Billing priority"
+msgstr "Prioritate de facturare"
+
+#: 
+msgid "Billing status"
+msgstr "Billing status"
+
+#: 
+msgid "Billing Type"
+msgstr "Tip facturare"
+
+#: 
+msgid "Board"
+msgstr "Kanban"
+
+#: 
+msgid "Body"
+msgstr "Conţinut"
+
+#: 
+msgid "Book hours/day"
+msgstr "Rezervă ore/zi"
+
+#: 
+msgid "Book specific time"
+msgstr "Rezervă un anumit timp"
+
+#: 
+msgid "Booked"
+msgstr "Booked"
+
+#: 
+msgid "Booked Legal Leaves"
+msgstr "Booked Legal Leaves"
+
+#: 
+msgid "Booking"
+msgstr "Booking"
+
+#: 
+msgid "Booking date range is outside the task date range ({0} - {1})"
+msgstr "Booking date range is outside the task date range ({0} - {1})"
+
+#: 
+msgid "Booking for"
+msgstr "Rezervare pentru"
+
+#: 
+msgid "Booking is created"
+msgstr "Booking is created"
+
+#: 
+msgid "Booking Note"
+msgstr "Notă rezervare"
+
+#: 
+msgid "Booking Range"
+msgstr "Interval rezervare"
+
+#: 
+msgid "Budget"
+msgstr "Buget"
+
+#: 
+msgid "Budget Alert"
+msgstr "Budget Alert"
+
+#: 
+msgid "Budget hours"
+msgstr "Bugetul de ore"
+
+#: 
+msgid "Budget Hours"
+msgstr "Bugetul de ore"
+
+#: 
+msgid "Bulk Bookings"
+msgstr "Rezervări în masă"
+
+#: 
+msgid "Bulk Time"
+msgstr "Bulk Time"
+
+#: 
+msgid "by"
+msgstr "de"
+
+#: 
+msgid "By"
+msgstr "De"
+
+#: 
+msgid "By unchecking this option the duration of some tasks may not be correct"
+msgstr "Prin debifarea acestei opțiuni durata unor sarcini poate să fie incorectă."
+
+#: 
+msgid "Calendar"
+msgstr "Calendar"
+
+#: 
+msgid "Can Add Projects"
+msgstr "Poate adăuga proiecte"
+
+#: 
+msgid "Can Manage Estimates"
+msgstr "Poate gestiona proforme"
+
+#: 
+msgid "Can Manage Expenses"
+msgstr "Poate gestiona cheltuieli"
+
+#: 
+msgid "Can Manage Invoices"
+msgstr "Poate gestiona facturi"
+
+#: 
+msgid "can modify entries"
+msgstr "can modify entries"
+
+#: 
+msgid "can view"
+msgstr "can view"
+
+#: 
+msgid "Can't reorder while list is sorted"
+msgstr "Can't reorder while list is sorted"
+
+#: 
+msgid "cancel"
+msgstr "renunţă"
+
+#: 
+msgid "Cancellation Feedback"
+msgstr "Feedback anulare abonament"
+
+#: 
+msgid "Cancelled"
+msgstr "Anulat"
+
+#: 
+msgid "Cannot create, record already not exists."
+msgstr "Nu se poate crea, înregistrarea nu există."
+
+#: 
+msgid "Cannot drop, record does not exist."
+msgstr "Fixare eșuată, înregistrarea nu există."
+
+#: 
+msgid "Cannot read, record already not exists."
+msgstr "Nu se poate citi, înregistrarea nu există."
+
+#: 
+msgid "Cannot update, record does not exist."
+msgstr "Actualizare eșuată, înregistrarea nu există."
+
+#: 
+msgid "Cannot update, record dropped."
+msgstr "Nu se poate actualiza, înregistrare abandonată."
+
+#: 
+msgid "CC Myself"
+msgstr "Trimite o copie către"
+
+#: 
+msgid "change"
+msgstr "schimbă"
+
+#: 
+msgid "Change Date Range"
+msgstr "Schimbă intervalul de date"
+
+#: 
+msgid "Change Description"
+msgstr "Schimbă descrierea"
+
+#: 
+msgid "Change Due Date"
+msgstr "Schimbă data scadentă"
+
+#: 
+msgid "Change Email Address"
+msgstr "Change Email Address"
+
+#: 
+msgid "Change future occurrences"
+msgstr "Change future occurrences"
+
+#: 
+msgid "Change logo"
+msgstr "Schimbă logo"
+
+#: 
+msgid "Change Logo"
+msgstr "Schimbă logo"
+
+#: 
+msgid "change password"
+msgstr "schimbă parola"
+
+#: 
+msgid "Change Password"
+msgstr "Schimbă parola"
+
+#: 
+msgid "Change Picture"
+msgstr "Schimbă imaginea"
+
+#: 
+msgid "Change Plan Error {0}"
+msgstr "Eroare schimbare plan {0}"
+
+#: 
+msgid "Change Project"
+msgstr "Schimbă proiect"
+
+#: 
+msgid "Change projects status"
+msgstr "Change projects status"
+
+#: 
+msgid "Change status"
+msgstr "Schimă statutul"
+
+#: 
+msgid "Change Subscription"
+msgstr "Schimbă abonamentul"
+
+#: 
+msgid "Change your current password"
+msgstr "Change your current password"
+
+#: 
+msgid "characters like '{0}' are not allowed"
+msgstr "caractere precum '{0}' nu sunt permise"
+
+#: 
+msgid "Choose \"Projects\" from the main menu on the left."
+msgstr "Choose \"Projects\" from the main menu on the left."
+
+#: 
+msgid "Choose File"
+msgstr "Selectează fişier"
+
+#: 
+msgid "choose individual users"
+msgstr "selectează utilizatori individuali"
+
+#: 
+msgid "Choose the best task view for your work style."
+msgstr "Choose the best task view for your work style."
+
+#: 
+msgid "City"
+msgstr "Oraș"
+
+#: 
+msgid "Clear all filters"
+msgstr "Șterge toate filtrele"
+
+#: 
+msgid "Clear Date Range"
+msgstr "Șterge intervalul de date"
+
+#: 
+msgid "Clear Dates"
+msgstr "Șterge datele"
+
+#: 
+msgid "Clear Users"
+msgstr "Șterge utilizatori"
+
+#: 
+msgid "Click and drag to define the start and end date for the task"
+msgstr "Dă click și glisează pentru a defini data de început și sfârșit a sarcinii."
+
+#: 
+msgid "Click on \"Add Project\" button."
+msgstr "Click on \"Add Project\" button."
+
+#: 
+msgid "Click on \"Save Project\" after filling in the details."
+msgstr "Click on \"Save Project\" after filling in the details."
+
+#: 
+msgid "Click on the checkbox to select a template"
+msgstr "Bifează caseta pentru a selecta un șablon"
+
+#: 
+msgid "Client Added"
+msgstr "Client adăugat"
+
+#: 
+msgid "Client Basic Info"
+msgstr "Informații generale ale clientului"
+
+#: 
+msgid "Client Contact Added"
+msgstr "Contactele clientului adăugate"
+
+#: 
+msgid "Client Contact Updated"
+msgstr "Contactele clientului actualizate"
+
+#: 
+msgid "Client Deleted"
+msgstr "Client șters"
+
+#: 
+msgid "Client has access via Client Portal"
+msgstr "Client has access via Client Portal"
+
+#: 
+msgid "Client has outstanding expenses"
+msgstr "Clientul are cheltuieli restante"
+
+#: 
+msgid "Client has outstanding projects"
+msgstr "Clientul are proiecte nerezolvate"
+
+#: 
+msgid "Client has outstanding projects, tasks"
+msgstr "Clientul are proiecte, sarcini nerezolvate"
+
+#: 
+msgid "Client has outstanding timesheets"
+msgstr "Clientul are pontaje nerezolvate"
+
+#: 
+msgid "Client has outstanding timesheets, projects"
+msgstr "Clientul are pontaje, proiecte nerezolvate"
+
+#: 
+msgid "Client has outstanding timesheets, projects, tasks"
+msgstr "Clientul are pontaje, proiecte, sarcini nerezolvate"
+
+#: 
+msgid "Client has outstanding timesheets, tasks"
+msgstr "Clientul are pontaje, sarcini nerezolvate"
+
+#: 
+msgid "Client image changed"
+msgstr "Imaginea clientului a fost schimbată"
+
+#: 
+msgid "Client Logo"
+msgstr "Logo client"
+
+#: 
+msgid "Client Notes"
+msgstr "Notițe client"
+
+#: 
+msgid "client portal"
+msgstr "portalul pentru clienţi"
+
+#: 
+msgid "Client portal access"
+msgstr "Client portal access"
+
+#: 
+msgid "Client profile has not been saved yet. Would you like to save?"
+msgstr "Client profile has not been saved yet. Would you like to save?"
+
+#: 
+msgid "Client Projects"
+msgstr "Proiectele clientului"
+
+#: 
+msgid "Client Settings"
+msgstr "Client Settings"
+
+#: 
+msgid "Client settings modified"
+msgstr "Client settings modified"
+
+#: 
+msgid "Client Updated"
+msgstr "Client actualizat"
+
+#: 
+msgid "Clients"
+msgstr "Clienţi"
+
+#: 
+msgid "Clients View"
+msgstr "Vedere clienți"
+
+#: 
+msgid "Clone"
+msgstr "Dublează"
+
+#: 
+msgid "Collapse menu"
+msgstr "Restrânge meniul"
+
+#: 
+msgid "collapse/expand states"
+msgstr "collapse/expand states"
+
+#: 
+msgid "Color..."
+msgstr "Culoare..."
+
+#: 
+msgid "Column Name ..."
+msgstr "Nume coloană ..."
+
+#: 
+msgid "comment"
+msgstr "comentariu"
+
+#: 
+msgid "comments"
+msgstr "comentarii"
+
+#: 
+msgid "Comments"
+msgstr "Comentarii"
+
+#: 
+msgid "Comments & Discussions"
+msgstr "Comentarii și discuții"
+
+#: 
+msgid "Comments are posted"
+msgstr "Comments are posted"
+
+#: 
+msgid "Comments Notifications are off"
+msgstr "Notificările pentru comentarii nu sunt pornite"
+
+#: 
+msgid "Comments Number"
+msgstr "Numărul comentariilor"
+
+#: 
+msgid "Community Forum"
+msgstr "Community Forum"
+
+#: 
+msgid "company default"
+msgstr "valoare implicită de la companie"
+
+#: 
+msgid "Company Details"
+msgstr "Detalii companie"
+
+#: 
+msgid "company hourly rate"
+msgstr "tarif orar companie"
+
+#: 
+msgid "Company Leave"
+msgstr "Zile libere"
+
+#: 
+msgid "Company logo"
+msgstr "Logoul companiei"
+
+#: 
+msgid "Company Logo"
+msgstr "Logo companie"
+
+#: 
+msgid "Company logo changed"
+msgstr "Logoul companiei a fost schimbat"
+
+#: 
+msgid "Company Name"
+msgstr "Nume companie"
+
+#: 
+msgid "Company settings saved"
+msgstr "Setările companiei salvate"
+
+#: 
+msgid "Company updated"
+msgstr "Company updated"
+
+#: 
+msgid "Complete task bookings"
+msgstr "Completează rezervările sarcinii"
+
+#: 
+msgid "completed"
+msgstr "terminat"
+
+#: 
+msgid "Completed"
+msgstr "Terminat"
+
+#: 
+msgid "Completed by"
+msgstr "Terminat de"
+
+#: 
+msgid "Completed Subtasks"
+msgstr "Completed Subtasks"
+
+#: 
+msgid "completed task"
+msgstr "sarcină terminată"
+
+#: 
+msgid "Completed Task Lists"
+msgstr "Liste de sarcini terminate"
+
+#: 
+msgid "completed tasks"
+msgstr "sarcini terminate"
+
+#: 
+msgid "Completed tasks"
+msgstr "Sarcini terminate"
+
+#: 
+msgid "Completed Tasks"
+msgstr "Sarcini terminate"
+
+#: 
+msgid "Complex View"
+msgstr "Vedere complexă"
+
+#: 
+msgid "Compound tax"
+msgstr "Impozit compus"
+
+#: 
+msgid "Configure legal leaves"
+msgstr "Configurează concediile legale"
+
+#: 
+msgid "Confirm"
+msgstr "Confirm"
+
+#: 
+msgid "Confirm change"
+msgstr "Confirmă schimbarea"
+
+#: 
+msgid "Confirm Conversion"
+msgstr "Confirm Conversion"
+
+#: 
+msgid "Confirm Deletion"
+msgstr "Confirmă ștergerea"
+
+#: 
+msgid "Confirm Password"
+msgstr "Confirmă parola"
+
+#: 
+msgid "Confirm Removal"
+msgstr "Confirmă ștergerea"
+
+#: 
+msgid "Connection is not tested"
+msgstr "Conexiunea nu este testată"
+
+#: 
+msgid "Connection is tested"
+msgstr "Conexiunea e testată"
+
+#: 
+msgid "Contact image changed"
+msgstr "Imaginea de contact a fost schimbată"
+
+#: 
+msgid "Contact Information"
+msgstr "Contact Information"
+
+#: 
+msgid "Contact Name"
+msgstr "Contact Name"
+
+#: 
+msgid "Contact profile has not been saved yet. Would you like to save?"
+msgstr "Contact profile has not been saved yet. Would you like to save?"
+
+#: 
+msgid "Contact settings modified"
+msgstr "Contact settings modified"
+
+#: 
+msgid "contact to Xero"
+msgstr "contact to Xero"
+
+#: 
+msgid "Contacts"
+msgstr "Contacte"
+
+#: 
+msgid "Convert Project to Estimate"
+msgstr "Schimbă proiect în estimare"
+
+#: 
+msgid "Convert to Booking"
+msgstr "Schimbă în rezervare"
+
+#: 
+msgid "Convert To Estimate"
+msgstr "Schimbă în estimare"
+
+#: 
+msgid "Convert to task"
+msgstr "Convert to task"
+
+#: 
+msgid "Copy"
+msgstr "Copiază"
+
+#: 
+msgid "Copy event to {0}"
+msgstr "Copiază eveniment la {0}"
+
+#: 
+msgid "Copy Link"
+msgstr "Copy Link"
+
+#: 
+msgid "Copy to Clipboard"
+msgstr "Copy to Clipboard"
+
+#: 
+msgid "Corresponding Client"
+msgstr "Corresponding Client"
+
+#: 
+msgid "Corresponding Item Name"
+msgstr "Corresponding Item Name"
+
+#: 
+msgid "Corresponding Tax Code"
+msgstr "Corresponding Tax Code"
+
+#: 
+msgid "Cost"
+msgstr "Cost"
+
+#: 
+msgid "Could not get registration link from Payoneer, please try again later"
+msgstr "Nu s-a putut primi link de înregistrare de la Payoneer. Te rog, încearcă mai târziu."
+
+#: 
+msgid "Could not test PyaPal Encryption at this moment. Please, try again later."
+msgstr "Nu se poate testa criptarea PayPal momentan. Te rog, încearcă mai târziu."
+
+#: 
+msgid "Could not test SMTP connection at this moment. Please, try again later."
+msgstr "Nu se poate testa conexiunea SMTP momentan. Te rog, încearcă mai târziu."
+
+#: 
+msgid "Country"
+msgstr "Ţară"
+
+#: 
+msgid "Cover Image"
+msgstr "Imagine de copertă"
+
+#: 
+msgid "Create"
+msgstr "Create"
+
+#: 
+msgid "Create event for {0}"
+msgstr "Creează eveniment la {0}"
+
+#: 
+msgid "Create from Project"
+msgstr "Creează din proiect"
+
+#: 
+msgid "Create new Service to QuickBooks"
+msgstr "Create new Service to QuickBooks"
+
+#: 
+msgid "Create Service"
+msgstr "Create Service"
+
+#: 
+msgid "Create Subscription"
+msgstr "Creează abonament"
+
+#: 
+msgid "Create Time Entry from"
+msgstr "Creează înregistrare de timp de la"
+
+#: 
+msgid "Create your first project"
+msgstr "Creează primul tău proiect"
+
+#: 
+msgid "Created on"
+msgstr "Creat la"
+
+#: 
+msgid "Creator"
+msgstr "Creator"
+
+#: 
+msgid "Critical Path"
+msgstr "Traiectoria critică"
+
+#: 
+msgid "Csv"
+msgstr "Csv"
+
+#: 
+msgid "Currency Format"
+msgstr "Format valută"
+
+#: 
+msgid "Currency Format & Position"
+msgstr "Format și poziție valută"
+
+#: 
+msgid "Currency Position"
+msgstr "Poziția valutei"
+
+#: 
+msgid "Current file"
+msgstr "Fișierul curent"
+
+#: 
+msgid "Current Month"
+msgstr "Luna curentă"
+
+#: 
+msgid "Current Password"
+msgstr "Current Password"
+
+#: 
+msgid "Current permissions don't allow reordering"
+msgstr "Current permissions don't allow reordering"
+
+#: 
+msgid "Current Running Timers"
+msgstr "Current Running Timers"
+
+#: 
+msgid "Current time entry spans more than one day. Editing is restricted to a single day."
+msgstr "Distanța curentă între inregistrări mai mare de o zi. Editarea este restricționată la o zi."
+
+#: 
+msgid "Current Week"
+msgstr "Săptămâna curentă"
+
+#: 
+msgid "Current Year"
+msgstr "Anul curent"
+
+#: 
+msgid "Currently not assigned to"
+msgstr "Momenan neasignat lui"
+
+#: 
+msgid "Custom"
+msgstr "Personalizat"
+
+#: 
+msgid "Custom Price Per Hour"
+msgstr "Preț/oră personalizat"
+
+#: 
+msgid "Custom project selection"
+msgstr "Selecție personalizată de proiecte"
+
+#: 
+msgid "Custom project selection for this client"
+msgstr "Selecție personalizată de proiecte pentru acest client"
+
+#: 
+msgid "Custom SMTP"
+msgstr "SMTP personalizat"
+
+#: 
+msgid "Custom SMTP Settings"
+msgstr "Setări SMTP personalizate"
+
+#: 
+msgid "Custom Time"
+msgstr "Timp personalizat"
+
+#: 
+msgid "Custom user selection"
+msgstr "Selecție personalizată a utilizatorilor"
+
+#: 
+msgid "Customer info not defined"
+msgstr "Informațiile clientului nu sunt definite"
+
+#: 
+msgid "Customer Information field is required"
+msgstr "Câmpul \"Informații client\" este necesar"
+
+#: 
+msgid "customer to quickbooks"
+msgstr "customer to quickbooks"
+
+#: 
+msgid "daily/monthly view of time entries"
+msgstr "vedere zilnică/lunară a înregistrărilor de timp"
+
+#: 
+msgid "Dashboard"
+msgstr "Consolă"
+
+#: 
+msgid "Date & Time Format"
+msgstr "Format dată și oră"
+
+#: 
+msgid "Date and Time Settings"
+msgstr "Setări de dată şi oră"
+
+#: 
+msgid "Date field is required"
+msgstr "Cămp dată necesar"
+
+#: 
+msgid "Date Format"
+msgstr "Format dată"
+
+#: 
+msgid "Date range"
+msgstr "Interval de date"
+
+#: 
+msgid "Date Range"
+msgstr "Interval de date"
+
+#: 
+msgid "Date, Time & Regional"
+msgstr "Dată, oră și regiune"
+
+#: 
+msgid "Day"
+msgstr "Zi"
+
+#: 
+msgid "Day of month"
+msgstr "Day of month"
+
+#: 
+msgid "day(s)"
+msgstr "day(s)"
+
+#: 
+msgid "Days"
+msgstr "Zile"
+
+#: 
+msgid "days after the due date"
+msgstr "zile după data scadentă"
+
+#: 
+msgid "Days Before"
+msgstr "Zile înainte"
+
+#: 
+msgid "December"
+msgstr "Decembrie"
+
+#: 
+msgid "Decimal Hours"
+msgstr "Ore decimale"
+
+#: 
+msgid "Decimal Separator"
+msgstr "Separator zecimal"
+
+#: 
+msgid "Default"
+msgstr "Implicit"
+
+#: 
+msgid "Default (Client Info on Left)"
+msgstr "Implicit (Informația despre client pe stânga)"
+
+#: 
+msgid "Default (Client Info on Right)"
+msgstr "Implicit (Informația despre client pe dreapta)"
+
+#: 
+msgid "Default Currency"
+msgstr "Valută implicită"
+
+#: 
+msgid "Default Estimate Footer"
+msgstr "Nota de subsol implicită a proformei"
+
+#: 
+msgid "Default Estimate Notes visible to Client"
+msgstr "Notițe proformă implicite vizibile clientului"
+
+#: 
+msgid "Default Hourly Rate"
+msgstr "Tarif orar implicit"
+
+#: 
+msgid "Default Invoice Footer"
+msgstr "Nota de subsol implicită a facturii"
+
+#: 
+msgid "Default Invoice Notes visible to Client"
+msgstr "Notițele pentru facturi implicite vizibile clienților"
+
+#: 
+msgid "Default Invoice Terms"
+msgstr "Default Invoice Terms"
+
+#: 
+msgid "Default Invoice Terms (days)"
+msgstr "Termeni de facturare standard (zile)"
+
+#: 
+msgid "Default Price Per Hour"
+msgstr "Tarif orar implicit"
+
+#: 
+msgid "Default Project Hourly Rate"
+msgstr "Default Project Hourly Rate"
+
+#: 
+msgid "Default Settings"
+msgstr "Default Settings"
+
+#: 
+msgid "Default task duration"
+msgstr "Default task duration"
+
+#: 
+msgid "Default Tax"
+msgstr "TVA implicit"
+
+#: 
+msgid "Default Tax2"
+msgstr "Alte taxe implicite"
+
+#: 
+msgid "Default Theme Selection"
+msgstr "Selecție temă implicită"
+
+#: 
+msgid "Default Workflow"
+msgstr "Șterge flux de lucru"
+
+#: 
+msgid "Delete"
+msgstr "Șterge"
+
+#: 
+msgid "Delete all"
+msgstr "Șterge tot"
+
+#: 
+msgid "Delete Api Key"
+msgstr "Delete Api Key"
+
+#: 
+msgid "Delete App password"
+msgstr "Delete App password"
+
+#: 
+msgid "Delete Booking"
+msgstr "Șterge rezervare"
+
+#: 
+msgid "Delete client"
+msgstr "Șterge client"
+
+#: 
+msgid "Delete Column"
+msgstr "Șterge coloană"
+
+#: 
+msgid "Delete comment"
+msgstr "Șterge comentariu"
+
+#: 
+msgid "Delete Comment"
+msgstr "Șterge comentariul"
+
+#: 
+msgid "Delete Company"
+msgstr "Șterge compania"
+
+#: 
+msgid "Delete Contact"
+msgstr "Șterge contactele"
+
+#: 
+msgid "Delete Discussion"
+msgstr "Şterge discuţia"
+
+#: 
+msgid "Delete Entries"
+msgstr "Sterge înregistrarea de timp"
+
+#: 
+msgid "Delete Entry"
+msgstr "Șterge înregistrarea"
+
+#: 
+msgid "Delete estimate"
+msgstr "Șterge proformă"
+
+#: 
+msgid "Delete estimate template"
+msgstr "Șterge șablon proformă"
+
+#: 
+msgid "Delete Expense"
+msgstr "Şterge cheltuiala"
+
+#: 
+msgid "Delete file"
+msgstr "Şterge fişier"
+
+#: 
+msgid "Delete File"
+msgstr "Șterge fișier"
+
+#: 
+msgid "Delete finished"
+msgstr "Ștergere completă"
+
+#: 
+msgid "Delete invoice"
+msgstr "Şterge factură"
+
+#: 
+msgid "Delete invoice template"
+msgstr "Șterge șabloane facturi"
+
+#: 
+msgid "Delete invoices"
+msgstr "Șterge facturile"
+
+#: 
+msgid "Delete Leave"
+msgstr "Șterge concediu"
+
+#: 
+msgid "Delete Leave Type"
+msgstr "Șterge tip de concediu"
+
+#: 
+msgid "Delete Link"
+msgstr "Șterge link"
+
+#: 
+msgid "Delete Milestone"
+msgstr "Șterge obiectiv"
+
+#: 
+msgid "Delete Milestones"
+msgstr "Sterge obiectivele"
+
+#: 
+msgid "Delete Note"
+msgstr "Șterge notița"
+
+#: 
+msgid "Delete Payment"
+msgstr "Şterge plată"
+
+#: 
+msgid "Delete Payments"
+msgstr "Șterge plăti"
+
+#: 
+msgid "Delete Paymo Account"
+msgstr "Delete Paymo Account"
+
+#: 
+msgid "Delete project"
+msgstr "Şterge proiectul"
+
+#: 
+msgid "Delete Project"
+msgstr "Delete Project"
+
+#: 
+msgid "Delete Project Status"
+msgstr "Șterge statut proiect"
+
+#: 
+msgid "Delete projects"
+msgstr "Șterge proiecte"
+
+#: 
+msgid "Delete recurrence"
+msgstr "Delete recurrence"
+
+#: 
+msgid "Delete Recurrence"
+msgstr "Delete Recurrence"
+
+#: 
+msgid "Delete recurring profile"
+msgstr "Delete recurring profile"
+
+#: 
+msgid "Delete Recurring Profile"
+msgstr "Șterge profilul recurent"
+
+#: 
+msgid "Delete Report"
+msgstr "Șterge raportul"
+
+#: 
+msgid "Delete selected"
+msgstr "Șterge selecția"
+
+#: 
+msgid "Delete Shortcut"
+msgstr "Șterge scurtătură"
+
+#: 
+msgid "Delete Subtask"
+msgstr "Șterge sarcina secundară"
+
+#: 
+msgid "Delete Tag"
+msgstr "Delete Tag"
+
+#: 
+msgid "Delete Task"
+msgstr "Șterge sarcina"
+
+#: 
+msgid "Delete Tasklist"
+msgstr "Șterge lista de sarcini"
+
+#: 
+msgid "Delete Template"
+msgstr "Șterge șablon"
+
+#: 
+msgid "Delete This Account"
+msgstr "Delete This Account"
+
+#: 
+msgid "Delete this discussion"
+msgstr "Șterge această discuție"
+
+#: 
+msgid "Delete this file"
+msgstr "Șterge acest fișier"
+
+#: 
+msgid "Delete this task"
+msgstr "Șterge această sarcină"
+
+#: 
+msgid "Delete Topic"
+msgstr "Șterge temă"
+
+#: 
+msgid "Delete user"
+msgstr "Șterge utilizator"
+
+#: 
+msgid "Delete Workflow"
+msgstr "Delete Workflow"
+
+#: 
+msgid "Deleted by"
+msgstr "Șters de"
+
+#: 
+msgid "Description"
+msgstr "Descriere"
+
+#: 
+msgid "Design your own - Custom HTML/CSS"
+msgstr "Creează propriul şablon - HTML/CSS personalizat"
+
+#: 
+msgid "Despite our hard work and efforts to make Paymo a great app, it seems it didn't work for you... Would you mind telling us why? We'll definitely learn something from your feedback:"
+msgstr "În ciuda muncii și a eforturilor noastre de a face din Paymo o aplicație de succes, se pare că nu a funcționat pentru time. Ai vrea să ne spui de ce? Vom avea cu siguranță ceva de învățat din feedbackul tău."
+
+#: 
+msgid "Details"
+msgstr "Details"
+
+#: 
+msgid "Dettach Timer"
+msgstr "Detașează cronometru"
+
+#: 
+msgid "Developer"
+msgstr "Dezvoltator"
+
+#: 
+msgid "Didn't like the look & feel"
+msgstr "Nu mi-a plăcut aspectul"
+
+#: 
+msgid "DINERS"
+msgstr "DINERS"
+
+#: 
+msgid "Disable"
+msgstr "Dezactivează"
+
+#: 
+msgid "Disabled"
+msgstr "Disabled"
+
+#: 
+msgid "Discard"
+msgstr "Discard"
+
+#: 
+msgid "Discard Files"
+msgstr "Anulează fișiere"
+
+#: 
+msgid "Discard Subtask"
+msgstr "Anulează sarcina secundară"
+
+#: 
+msgid "Discard Task"
+msgstr "Anulează sarcina"
+
+#: 
+msgid "Discard the current discussion"
+msgstr "Anulează discuția curentă"
+
+#: 
+msgid "Discard the current task"
+msgstr "Anulează sarcina curentă"
+
+#: 
+msgid "Discount"
+msgstr "Discount"
+
+#: 
+msgid "DISCOVER"
+msgstr "DISCOVER"
+
+#: 
+msgid "discussion"
+msgstr "discuție"
+
+#: 
+msgid "Discussion attachments are uploaded"
+msgstr "Discussion attachments are uploaded"
+
+#: 
+msgid "Discussion Description"
+msgstr "Descriere discuție"
+
+#: 
+msgid "Discussion Details"
+msgstr "Detalii discuție"
+
+#: 
+msgid "Discussion Name"
+msgstr "Nume discuție"
+
+#: 
+msgid "Discussions"
+msgstr "Discuții"
+
+#: 
+msgid "Display"
+msgstr "Afișează"
+
+#: 
+msgid "Display & group by"
+msgstr "Afișează și grupează după"
+
+#: 
+msgid "Display Costs"
+msgstr "Afișează costurile"
+
+#: 
+msgid "Display Entries Notes"
+msgstr "Afișează notițele înregistrărilor"
+
+#: 
+msgid "Display projects budget hours"
+msgstr "Afișează bugetul de ore ale proiectului"
+
+#: 
+msgid "Display Projects Budget Hours"
+msgstr "Afișează bugetul de ore al proiectului"
+
+#: 
+msgid "Display Projects Budgets"
+msgstr "Afişează bugetele proiectelor"
+
+#: 
+msgid "Display Projects Description"
+msgstr "Afișează descrierea proiectului"
+
+#: 
+msgid "Display Projects Descriptions"
+msgstr "Afișează descrierile proiectelor"
+
+#: 
+msgid "Display Projects Time Budget"
+msgstr "Afișează bugetul de timp per proiect"
+
+#: 
+msgid "Display projects time budgets"
+msgstr "Afișează bugetele de timp ale proiectelor"
+
+#: 
+msgid "Display Seconds"
+msgstr "Afișează secunde"
+
+#: 
+msgid "Display Task Complete Status"
+msgstr "Afișează statutul Terminat al unei sarcini"
+
+#: 
+msgid "Display Tasks Budget Hours"
+msgstr "Afișează bugetul de ore al sarcinilor"
+
+#: 
+msgid "Display Tasks Description"
+msgstr "Afișează descrierea sarcinilor"
+
+#: 
+msgid "Display Tasks Time Budget"
+msgstr "Afișează bugetul de timp per sarcină"
+
+#: 
+msgid "Display Time Costs"
+msgstr "Afișează costurile de timp"
+
+#: 
+msgid "Display Time Entry Notes"
+msgstr "Afișează notițele înregistrărilor de timp"
+
+#: 
+msgid "Do not send"
+msgstr "Nu trimite"
+
+#: 
+msgid "Do not share"
+msgstr "Nu distribui"
+
+#: 
+msgid "Do you want to change all future occurrences based on the current task's details?"
+msgstr "Do you want to change all future occurrences based on the current task's details?"
+
+#: 
+msgid "Do you want to edit the whole set of repeated events?"
+msgstr "Do you want to edit the whole set of repeated events?"
+
+#: 
+msgid "Do you want to refresh now?"
+msgstr "Vrei să reîncarci acum?"
+
+#: 
+msgid "Done Reordering"
+msgstr "Am terminat de reordonat"
+
+#: 
+msgid "Download"
+msgstr "Descarcă"
+
+#: 
+msgid "Download as..."
+msgstr "Salvează ca..."
+
+#: 
+msgid "Download from"
+msgstr "Descarcă din"
+
+#: 
+msgid "draft"
+msgstr "ciornă"
+
+#: 
+msgid "Drag & Drop files here"
+msgstr "Glisează și fixează fișiere aici"
+
+#: 
+msgid "Drag to create"
+msgstr "Drag to create"
+
+#: 
+msgid "Drag to move"
+msgstr "Drag to move"
+
+#: 
+msgid "Drag&drop files here"
+msgstr "Glisează și fixează fișiere aici"
+
+#: 
+msgid "Drop Files Here"
+msgstr "Fixează fișierele aici"
+
+#: 
+msgid "due"
+msgstr "scadent"
+
+#: 
+msgid "Due"
+msgstr "Scadent la"
+
+#: 
+msgid "Due Date"
+msgstr "Data scadenței"
+
+#: 
+msgid "Due Date Alert:"
+msgstr "Alertă dată scadentă:"
+
+#: 
+msgid "Due Date field is required"
+msgstr "Câmp dată scadentă necesar"
+
+#: 
+msgid "Due interval"
+msgstr "Interval orar scadent"
+
+#: 
+msgid "Duplicate task."
+msgstr "Dublează sarcina."
+
+#: 
+msgid "Duration"
+msgstr "Durată"
+
+#: 
+msgid "e.g. Zapier"
+msgstr "ex. Zapier"
+
+#: 
+msgid "edit"
+msgstr "editează"
+
+#: 
+msgid "Edit"
+msgstr "Editează"
+
+#: 
+msgid "Edit Booking"
+msgstr "Editează rezervarea"
+
+#: 
+msgid "Edit Client"
+msgstr "Editează clientul"
+
+#: 
+msgid "Edit Description"
+msgstr "Editează descrierea"
+
+#: 
+msgid "Edit Entry"
+msgstr "Editează înregistrarea"
+
+#: 
+msgid "Edit Estimate"
+msgstr "Editează proforma"
+
+#: 
+msgid "Edit Expense"
+msgstr "Modifică cheltuiala"
+
+#: 
+msgid "Edit Interval"
+msgstr "Edit Interval"
+
+#: 
+msgid "Edit Invoice"
+msgstr "Editează factura"
+
+#: 
+msgid "Edit Leave"
+msgstr "Editează concediu"
+
+#: 
+msgid "Edit Leave Type"
+msgstr "Editează tip de concediu"
+
+#: 
+msgid "Edit Milestone"
+msgstr "Editează obiectivul"
+
+#: 
+msgid "Edit Notifications"
+msgstr "Edit Notifications"
+
+#: 
+msgid "Edit occurrence"
+msgstr "Edit occurrence"
+
+#: 
+msgid "Edit priority"
+msgstr "Editează prioritatea"
+
+#: 
+msgid "Edit Project"
+msgstr "Editează proiectul"
+
+#: 
+msgid "Edit Project Status"
+msgstr "Editează statut proiect"
+
+#: 
+msgid "Edit Recurring Profile"
+msgstr "Editează profilul recurent"
+
+#: 
+msgid "Edit Report"
+msgstr "Editare raport"
+
+#: 
+msgid "Edit series"
+msgstr "Edit series"
+
+#: 
+msgid "Edit Task List"
+msgstr "Editează lista de sarcini"
+
+#: 
+msgid "Edit this discussion"
+msgstr "Editează discuția"
+
+#: 
+msgid "Edit User"
+msgstr "Editează utilizatorul"
+
+#: 
+msgid "Edit Workflow"
+msgstr "Editează flux de lucru"
+
+#: 
+msgid "Edit Workflow Status"
+msgstr "Editează statut flux de lucru"
+
+#: 
+msgid "Email"
+msgstr "Email"
+
+#: 
+msgid "Email Address"
+msgstr "Email Address"
+
+#: 
+msgid "Email alert"
+msgstr "Email alert"
+
+#: 
+msgid "Email Notifications"
+msgstr "Notificări email"
+
+#: 
+msgid "Email templates"
+msgstr "Şabloane de email"
+
+#: 
+msgid "Email Templates"
+msgstr "Şabloane de email"
+
+#: 
+msgid "Email to this project"
+msgstr "Email la acest proiect"
+
+#: 
+msgid "embedded search feature"
+msgstr "funcție integrată de căutare"
+
+#: 
+msgid "Employee"
+msgstr "Angajat"
+
+#: 
+msgid "Employees"
+msgstr "Angajaţi"
+
+#: 
+msgid "Employees involved"
+msgstr "Angajații implicați"
+
+#: 
+msgid "Enable"
+msgstr "Activează"
+
+#: 
+msgid "Enabled"
+msgstr "Activat"
+
+#: 
+msgid "Encrypt PayPal payment button"
+msgstr "Criptează butonul de plăți PayPal"
+
+#: 
+msgid "end"
+msgstr "end"
+
+#: 
+msgid "End Date"
+msgstr "Data de sfârşit"
+
+#: 
+msgid "End Hour"
+msgstr "Oră de sfârșit"
+
+#: 
+msgid "End Time"
+msgstr "Timpul de sfârșit"
+
+#: 
+msgid "Enter to send"
+msgstr "Apasă \"Enter\" pentru a trimite"
+
+#: 
+msgid "entries"
+msgstr "înregistrări"
+
+#: 
+msgid "Entries associations couldn't be save."
+msgstr "Asociațiile de înregistrări nu au putut fi salvate."
+
+#: 
+msgid "Entries can be added for current month only"
+msgstr "Înregistrările pot fi adăugate doar pentru luna curentă"
+
+#: 
+msgid "Entries under one minute are not tracked"
+msgstr "Înregistrările de timp sub un minut nu sunt luate în evidență"
+
+#: 
+msgid "entry"
+msgstr "înregistrare"
+
+#: 
+msgid "Entry Note"
+msgstr "Entry Note"
+
+#: 
+msgid "Entry saved"
+msgstr "Înregistrare salvată"
+
+#: 
+msgid "Error."
+msgstr "Eroare."
+
+#: 
+msgid "Est. Hours"
+msgstr "Ore estimate"
+
+#: 
+msgid "Est. Price"
+msgstr "Preț estimat"
+
+#: 
+msgid "Est./Avail."
+msgstr "Estimare/Disponibilitate"
+
+#: 
+msgid "ESTIMATE"
+msgstr "PROFORMĂ"
+
+#: 
+msgid "Estimate Added"
+msgstr "Proformă adăugată"
+
+#: 
+msgid "Estimate CSS"
+msgstr "Proformă CSS"
+
+#: 
+msgid "Estimate Deleted"
+msgstr "Proformă ștearsă"
+
+#: 
+msgid "Estimate Format"
+msgstr "Format proformă"
+
+#: 
+msgid "Estimate HTML"
+msgstr "Proformă HTML"
+
+#: 
+msgid "Estimate Name Format"
+msgstr "Format numele proformă"
+
+#: 
+msgid "Estimate Notes"
+msgstr "Notițe proformă"
+
+#: 
+msgid "Estimate status is updated only if your client"
+msgstr "Statutul estimării este actualizat doar dacă clientul"
+
+#: 
+msgid "Estimate status updated"
+msgstr "Statutul proformei adaptat"
+
+#: 
+msgid "Estimate template"
+msgstr "Șablon proformă"
+
+#: 
+msgid "Estimate Template"
+msgstr "Șablonul proformei"
+
+#: 
+msgid "Estimate template added"
+msgstr "Estimate template added"
+
+#: 
+msgid "Estimate template deleted"
+msgstr "Estimate template deleted"
+
+#: 
+msgid "Estimate Updated"
+msgstr "Proformă actualizată"
+
+#: 
+msgid "Estimated"
+msgstr "Estimat"
+
+#: 
+msgid "Estimated Cost"
+msgstr "Cost estimat"
+
+#: 
+msgid "Estimated Hours"
+msgstr "Ore estimate"
+
+#: 
+msgid "Estimated Price"
+msgstr "Preț estimat"
+
+#: 
+msgid "Estimated this Month"
+msgstr "Estimated this Month"
+
+#: 
+msgid "Estimated Time"
+msgstr "Timp estimat"
+
+#: 
+msgid "Estimates"
+msgstr "Proforme"
+
+#: 
+msgid "Estimates limit reached"
+msgstr "Limita proformelor a fost atinsă"
+
+#: 
+msgid "Estimates represent how much do you think a certain project or task will take to complete. You can create an estimate for upcoming projects and send it to the client for approval. Once it's approved you can turn it into an invoice by clicking on the \"Invoice\" button."
+msgstr "Estimările reprezintă cât timp crezi că îți va lua pentru a termina un anumit proiect sau sarcină. Poți crea o estimare pentru următoarele proiecte și să o trimiți clientului pentru aprobare. Odată ce este aprobată, poți să o schimbi într-o factură dând click pe butonul ”Factură”."
+
+#: 
+msgid "Estimates View"
+msgstr "Vedere estimări"
+
+#: 
+msgid "Event Data"
+msgstr "Date eveniment"
+
+#: 
+msgid "Event will be deleted permanently, are you sure?"
+msgstr "Event will be deleted permanently, are you sure?"
+
+#: 
+msgid "every"
+msgstr "every"
+
+#: 
+msgid "every 2 months"
+msgstr "la fiecare 2 luni"
+
+#: 
+msgid "every 2 weeks"
+msgstr "la fiecare 2 săptămâni"
+
+#: 
+msgid "every 3 months"
+msgstr "la fiecare 3 luni"
+
+#: 
+msgid "every 4 weeks"
+msgstr "la fiecare 4 săptămâni"
+
+#: 
+msgid "every 6 months"
+msgstr "la fiecare 6 luni"
+
+#: 
+msgid "Excel"
+msgstr "Excel"
+
+#: 
+msgid "Exclude"
+msgstr "Exclude"
+
+#: 
+msgid "Exclude Billable Tasks"
+msgstr "Exclude sarcinile facturabile"
+
+#: 
+msgid "Exclude Billed Time"
+msgstr "Exclude timpul facturat"
+
+#: 
+msgid "Exclude Flat Rate Tasks"
+msgstr "Exclude sarcinile cu rată fixă"
+
+#: 
+msgid "Exclude Non Billable Tasks"
+msgstr "Exclude sarcinile nefacturabile"
+
+#: 
+msgid "Exclude Unbilled Time"
+msgstr "Exclude timpul nefacturabil"
+
+#: 
+msgid "expense"
+msgstr "cheltuială"
+
+#: 
+msgid "Expense"
+msgstr "Cheltuieli"
+
+#: 
+msgid "Expense Added"
+msgstr "Cheltuială adăugată"
+
+#: 
+msgid "Expense Deleted"
+msgstr "Cheltuială ștearsă"
+
+#: 
+msgid "Expense Info"
+msgstr "Informaţii despre cheltuieli"
+
+#: 
+msgid "Expense Tags"
+msgstr "Etichete cheltuieli"
+
+#: 
+msgid "Expense Updated"
+msgstr "Cheltuială adaptată"
+
+#: 
+msgid "Expenses"
+msgstr "Cheltuieli"
+
+#: 
+msgid "Expenses are used to reflect costs like air travel, gas, client lunches or additional purchases, which you can then add to an invoice by clicking on the \"Add expenses\" button (when you create the invoice)."
+msgstr "Cheltuielile sunt folosite pentru a reflecta costurile precum biletele de avion, benzina, prânzuri sau cumpărături adiționale pe care le poți adăuga unei facturi făcând click pe butonul \"Adaugă cheltuieli\" (când creezi factura)."
+
+#: 
+msgid "Expenses limit reached"
+msgstr "Limita de cheltuieli atinsă"
+
+#: 
+msgid "Expenses Tags"
+msgstr "Expenses Tags"
+
+#: 
+msgid "Expenses View"
+msgstr "Vedere cheltuieli"
+
+#: 
+msgid "Expenses:"
+msgstr "Expenses:"
+
+#: 
+msgid "Expenses: Client has outstanding expenses"
+msgstr "Cheltuieli: Clientul are cheltuieli restante"
+
+#: 
+msgid "Explore a demo project"
+msgstr "Încearcă un proiect demonstrativ"
+
+#: 
+msgid "Export as"
+msgstr "Exportă ca"
+
+#: 
+msgid "Export Invoice to QuickBooks"
+msgstr "Export Invoice to QuickBooks"
+
+#: 
+msgid "Export Invoice to Xero"
+msgstr "Export Invoice to Xero"
+
+#: 
+msgid "Export to"
+msgstr "Export to"
+
+#: 
+msgid "Export to QuickBooks"
+msgstr "Export to QuickBooks"
+
+#: 
+msgid "Export to Xero"
+msgstr "Export to Xero"
+
+#: 
+msgid "Exporting"
+msgstr "Exporting"
+
+#: 
+msgid "Fail to load bookings."
+msgstr "Eșec la încărcarea rezervărilor"
+
+#: 
+msgid "Failed"
+msgstr "Eșuat"
+
+#: 
+msgid "Failed to make connection with Google API"
+msgstr "Eșec la conexiunea cu API-ul Google"
+
+#: 
+msgid "Fax"
+msgstr "Fax"
+
+#: 
+msgid "February"
+msgstr "Februarie"
+
+#: 
+msgid "Feedback"
+msgstr "Feedback"
+
+#: 
+msgid "field will contain the list of tasks."
+msgstr "câmpul va conține lista de sarcini."
+
+#: 
+msgid "file"
+msgstr "fișier"
+
+#: 
+msgid "File size is to big"
+msgstr "Dimensiunea fișierului e prea mare"
+
+#: 
+msgid "File size is too big"
+msgstr "Dimensiunea fișierului e prea mare"
+
+#: 
+msgid "File type is not supported"
+msgstr "Tipul de fișier nu este suportat"
+
+#: 
+msgid "Files"
+msgstr "Fișiere"
+
+#: 
+msgid "Files Number"
+msgstr "Număr fișiere"
+
+#: 
+msgid "filter"
+msgstr "filtru"
+
+#: 
+msgid "Filter by name"
+msgstr "Filtrează după nume"
+
+#: 
+msgid "Filter by this column"
+msgstr "Filtrează după coloană"
+
+#: 
+msgid "filtering"
+msgstr "filtering"
+
+#: 
+msgid "Filters"
+msgstr "Filtre"
+
+#: 
+msgid "Filters ({0} - {1})"
+msgstr "Filtre ( {0} - {1} )"
+
+#: 
+msgid "Finance"
+msgstr "Finanțe"
+
+#: 
+msgid "Fiscal"
+msgstr "Fiscal"
+
+#: 
+msgid "Fiscal information"
+msgstr "Informații fiscale"
+
+#: 
+msgid "Fiscal Information"
+msgstr "Informaţii fiscale"
+
+#: 
+msgid "Fit"
+msgstr "Fit"
+
+#: 
+msgid "Flat Rate"
+msgstr "Rată fixă"
+
+#: 
+msgid "Flat Rate Project"
+msgstr "Proiect cu tarif fix"
+
+#: 
+msgid "Flat Rate Tasks"
+msgstr "Sarcini cu rată fixă"
+
+#: 
+msgid "Footer Height"
+msgstr "Înălțime notă de subsol"
+
+#: 
+msgid "for flat rate tasks - a value you update manually"
+msgstr "pentru sarcinile cu rată fixă - o valoare pe care o adaptezi manual"
+
+#: 
+msgid "For Mac"
+msgstr "Pentru MacBook"
+
+#: 
+msgid "for time-based tasks - an auto-calculated value (budget hours multiplied by hourly rate)"
+msgstr "pentru sarcinile bazate pe timp - o valoare auto-calculată (bugetul de ore multiplicat cu tariful orar)"
+
+#: 
+msgid "For Win"
+msgstr "Pentru Windows"
+
+#: 
+msgid "Forecast"
+msgstr "Previziune"
+
+#: 
+msgid "Form"
+msgstr "Form"
+
+#: 
+msgid "Format"
+msgstr "Format"
+
+#: 
+msgid "Fr"
+msgstr "Fr"
+
+#: 
+msgid "Free trial: {0} days left"
+msgstr "Perioada de testare gratuită: {0} zile rămase"
+
+#: 
+msgid "Frequency"
+msgstr "Frecvență"
+
+#: 
+msgid "Frequency field is required"
+msgstr "Câmpul Frecvență e necesar"
+
+#: 
+msgid "Frequently Used"
+msgstr "Frequently Used"
+
+#: 
+msgid "Friday"
+msgstr "Vineri"
+
+#: 
+msgid "from"
+msgstr "din"
+
+#: 
+msgid "from {0} {1}"
+msgstr "din {0} {1}"
+
+#: 
+msgid "from {0} invoices"
+msgstr "from {0} invoices"
+
+#: 
+msgid "from 1 invoice"
+msgstr "from 1 invoice"
+
+#: 
+msgid "From Computer"
+msgstr "Din calculator"
+
+#: 
+msgid "From Google Drive"
+msgstr "Din Google Drive"
+
+#: 
+msgid "full"
+msgstr "plin"
+
+#: 
+msgid "Full day"
+msgstr "Full day"
+
+#: 
+msgid "Full Name"
+msgstr "Nume complet"
+
+#: 
+msgid "Full Task Details"
+msgstr "Detalii sarcină complete"
+
+#: 
+msgid "Gantt"
+msgstr "Gantt"
+
+#: 
+msgid "Gantt Chart"
+msgstr "Diagrama Gantt"
+
+#: 
+msgid "Gateways"
+msgstr "Modalități de plată"
+
+#: 
+msgid "General"
+msgstr "General"
+
+#: 
+msgid "Generate"
+msgstr "Generează"
+
+#: 
+msgid "Generate New Key"
+msgstr "Generate New Key"
+
+#: 
+msgid "Get additional users"
+msgstr "Obține utilizatori adiționali"
+
+#: 
+msgid "Get the invoicing add-on"
+msgstr "Cumpără modulul de facturare"
+
+#: 
+msgid "Get the Project Accounting add-on"
+msgstr "Cumpără modulul de facturare"
+
+#: 
+msgid "Get timesheet data for"
+msgstr "Primește datele fișei de pontaj pentru"
+
+#: 
+msgid "Ghost Booking"
+msgstr "Rezervare fantomă"
+
+#: 
+msgid "Ghost Booking for"
+msgstr "Rezervare fantomă pentru"
+
+#: 
+msgid "Ghost bookings"
+msgstr "Rezervări fantomă"
+
+#: 
+msgid "Go to image and discussion"
+msgstr "Du-te la imagini și discuții"
+
+#: 
+msgid "Go to your Tasks"
+msgstr "Mergi la sarcinile tale"
+
+#: 
+msgid "Good bye!"
+msgstr "Good bye!"
+
+#: 
+msgid "Google Play"
+msgstr "Google Play"
+
+#: 
+msgid "Google, Fb, Email, Twitter, Microsoft required"
+msgstr "Google, Facebook, e-mail, Twitter, Microsoft sunt necesare"
+
+#: 
+msgid "Greater than or equal"
+msgstr "Mai mare ca sau egal"
+
+#: 
+msgid "Grid"
+msgstr "Grid"
+
+#: 
+msgid "Grid View"
+msgstr "Vedere matrice"
+
+#: 
+msgid "Group by {0}"
+msgstr "Grupează după {0}"
+
+#: 
+msgid "Group by Attached to"
+msgstr "Grupează după Atașat la"
+
+#: 
+msgid "Group by Billable"
+msgstr "Grupează după facturabil"
+
+#: 
+msgid "Group by Billed Status"
+msgstr "Grupează după statutul facturabil"
+
+#: 
+msgid "Group by Complete"
+msgstr "Grupează după Terminat"
+
+#: 
+msgid "Group by Date"
+msgstr "Grupează după zi"
+
+#: 
+msgid "Group by days"
+msgstr "Grupează după zile"
+
+#: 
+msgid "Group by Days"
+msgstr "Grupează după zile"
+
+#: 
+msgid "Group by Invoiced"
+msgstr "Grupează după facturi"
+
+#: 
+msgid "Group by Size"
+msgstr "Grupează după mărime"
+
+#: 
+msgid "Group by Task"
+msgstr "Grupează după sarcini"
+
+#: 
+msgid "Group by Tasklist"
+msgstr "Grupează după lista de sarcini"
+
+#: 
+msgid "Group by Uploader"
+msgstr "Grupează după cel care a încărcat"
+
+#: 
+msgid "Group by User"
+msgstr "Grupează după utilizatori"
+
+#: 
+msgid "Group Tasks"
+msgstr "Grupează sarcinile"
+
+#: 
+msgid "Group:"
+msgstr "Grupează:"
+
+#: 
+msgid "Group: Billable"
+msgstr "Grupează: Facturabil"
+
+#: 
+msgid "Group: Complete"
+msgstr "Grupează: Terminat"
+
+#: 
+msgid "Group: Date"
+msgstr "Grupează: Dată"
+
+#: 
+msgid "Group: Invoiced"
+msgstr "Grupează: Facturat"
+
+#: 
+msgid "Group: Projects"
+msgstr "Grupează: Proiecte"
+
+#: 
+msgid "Group: Tasklist"
+msgstr "Grupează: Listă de sarcini"
+
+#: 
+msgid "Group: Tasks"
+msgstr "Grupează: Sarcini"
+
+#: 
+msgid "Group: Users"
+msgstr "Grupează: Utilizatori"
+
+#: 
+msgid "grouping"
+msgstr "grouping"
+
+#: 
+msgid "h"
+msgstr "oră"
+
+#: 
+msgid "H.R. Settings"
+msgstr "Setări HR"
+
+#: 
+msgid "has access to"
+msgstr "are acces la"
+
+#: 
+msgid "Has access to client portal"
+msgstr "Has access to client portal"
+
+#: 
+msgid "Has Admin Privileges"
+msgstr "Are drepturi de administrator"
+
+#: 
+msgid "hh:mm"
+msgstr "oo:mm"
+
+#: 
+msgid "Hide Availability"
+msgstr "Hide Availability"
+
+#: 
+msgid "Hide Backlog"
+msgstr "Ascunde backlog"
+
+#: 
+msgid "Hide Comments"
+msgstr "Ascunde comentarii"
+
+#: 
+msgid "Hide filter bar"
+msgstr "Ascunde bara de filtrare"
+
+#: 
+msgid "Hide Tax Field when 0%"
+msgstr "Nu afişa taxa când e 0%"
+
+#: 
+msgid "Highlight Invalid Links"
+msgstr "Evidențiază linkurie invalide"
+
+#: 
+msgid "Home"
+msgstr "Acasă"
+
+#: 
+msgid "Hooray! There are no past due tasks"
+msgstr "Ura! Nu există sarcini după data scadentă"
+
+#: 
+msgid "Hooray! You have no past due tasks"
+msgstr "Ura! Nu ai sarcini după data scadentă"
+
+#: 
+msgid "Host"
+msgstr "Host"
+
+#: 
+msgid "Hourly backups"
+msgstr "Copii de siguranță din oră în oră"
+
+#: 
+msgid "Hourly Rate"
+msgstr "Tarif orar"
+
+#: 
+msgid "hours"
+msgstr "ore"
+
+#: 
+msgid "Hours"
+msgstr "Ore"
+
+#: 
+msgid "Hours Before"
+msgstr "Ore inainte"
+
+#: 
+msgid "Hours Booked"
+msgstr "Hours Booked"
+
+#: 
+msgid "Hours Estimate"
+msgstr "Estimări ore"
+
+#: 
+msgid "Hours Left"
+msgstr "Ore rămase"
+
+#: 
+msgid "Hours Total"
+msgstr "Hours Total"
+
+#: 
+msgid "Hours Worked"
+msgstr "Ore lucrate"
+
+#: 
+msgid "Hours Worked from Total"
+msgstr "Ore lucrate din total"
+
+#: 
+msgid "Hours Worked in seconds"
+msgstr "Ore lucrate în secunde"
+
+#: 
+msgid "hours/day"
+msgstr "ore/zi"
+
+#: 
+msgid "Hours/Day"
+msgstr "Ore/Zi"
+
+#: 
+msgid "hr"
+msgstr "oră"
+
+#: 
+msgid "hrs available"
+msgstr "hrs available"
+
+#: 
+msgid "hrs open"
+msgstr "ore libere"
+
+#: 
+msgid "hrs over"
+msgstr "ore peste"
+
+#: 
+msgid "hrs total budget estimated"
+msgstr "hrs total budget estimated"
+
+#: 
+msgid "I've already submitted a review, hide this option from the menu"
+msgstr "Am trimis deja o recenzie, ascunde această opțiune din meniu."
+
+#: 
+msgid "iCal"
+msgstr "iCal"
+
+#: 
+msgid "If no email is set up for the client, reminders will not be sent."
+msgstr "Dacă e-mailul nu este stabilit pentru un client, notificările nu vor fi trimise."
+
+#: 
+msgid "If you found anything lacking in the service or you have any other issues, please let us know."
+msgstr "Dacă nu ai găsit ceea ce căutai sau ai alte nelămuriri, te rog conteactează-ne."
+
+#: 
+msgid "If you have any questions about this functionality please click on the {0} icon in the bottom left corner of the screen to get in touch with us."
+msgstr "Dacă ai ai întrebări legate de această funcționalitate, te rog dă click pe iconița {0} în colțul din stânga de jos al ecranului pentru a lua legătura cu noi."
+
+#: 
+msgid "If you'd like to share more details"
+msgstr "Dacă vrei să împărtășești mai multe detalii"
+
+#: 
+msgid "If you're using the app for a while and you truly believe it helps and improves your work, you can share your Paymo experience with other people by posting a review on one of these sites (hover to see requirements)"
+msgstr "Dacă folosești această aplicație de o vreme și te ajută să îți îmbunătățești munca, poți să îți împărtășești experiența în Paymo cu alți oameni postând o recenzie pe unul dintre aceste site-uri (pune cursorul deasupra pentru a vedea cerințele)"
+
+#: 
+msgid "Image"
+msgstr "Imagine"
+
+#: 
+msgid "Import Paymo 2.0 Account"
+msgstr "Importă datele din Paymo 2.0"
+
+#: 
+msgid "Import time from bookings"
+msgstr "Importă timpul din rezervări"
+
+#: 
+msgid "Import time from bookings (incl. notes)"
+msgstr "Importă timp din rezervări (incl. notițe)"
+
+#: 
+msgid "Importing bookings"
+msgstr "Importă rezervări"
+
+#: 
+msgid "In \"Paymo\", projects are always associated with a client and there's a fixed hierarchy (from bottom to top): Task ➝ Task list ➝ Project ➝ Client."
+msgstr "În Paymo, proiectele sunt mereu asociate unui client și au o ierarhie stabilită (de jos în sus): Sarcină ➝ Listă de sarcini ➝ Proiect ➝ Client."
+
+#: 
+msgid "In \"Paymo\", projects are always associated with a client and there's a fixed hierarchy (from top to bottom): Client ➝ Project ➝ Task list ➝ Task."
+msgstr "În Paymo, proiectele sunt mereu asociate unui client și au o ierarhie stabilită (de sus în jos): Client ➝ Proiect ➝ Listă de sarcini ➝ Sarcină."
+
+#: 
+msgid "In case the hourly rate for the selected option is not set, Paymo will use other fallback rates that are available."
+msgstr "În cazul în care tariful orar pentru opțiunea aleasă nu este selectat, Paymo va folosi alte tarife de rezervă care sunt disponibile."
+
+#: 
+msgid "In Paymo there are different rates that you can use when billing. You can pick here the rate that has priority."
+msgstr "În Paymo există diferie tarife de facturare. Poți alege aici tariful care are prioritate."
+
+#: 
+msgid "In progress"
+msgstr "În progres"
+
+#: 
+msgid "in the date range"
+msgstr "in the date range"
+
+#: 
+msgid "In the past"
+msgstr "În trecut"
+
+#: 
+msgid "In this section you can view/add clients and their contact information. By using the \"Show\" button you can select between your active and archived clients."
+msgstr "În această secțiune poți vizualiza/adăuga clienți și informațiile lor de contact. Folosind butonul \"Afișează\" poți selecta între clienții arhivați și cei activi."
+
+#: 
+msgid "In this section you'll find a chronological list of activities (tasks, comments, discussions, files, task lists) and changes that take place in your company account."
+msgstr "În această secțiune vei găsi o listă cronologică de activități (sarcini, comentarii, discuții, fișiere, liste de fișiere) și schimbări care au loc în contul tău de companie."
+
+#: 
+msgid "in use by"
+msgstr "in use by"
+
+#: 
+msgid "In use by {0} projects"
+msgstr "Folosit de {0} proiecte"
+
+#: 
+msgid "Inactive Projects"
+msgstr "Proiecte inactive"
+
+#: 
+msgid "Include"
+msgstr "Include"
+
+#: 
+msgid "Include & group by"
+msgstr "Include și grupează după"
+
+#: 
+msgid "Include Estimate as PDF attachment"
+msgstr "Include proforma ca fișier PDF atașat"
+
+#: 
+msgid "Include in report"
+msgstr "Include în raport"
+
+#: 
+msgid "Include Invoice as PDF attachment"
+msgstr "Include factura ca fișier PDF atașat"
+
+#: 
+msgid "Include notes of time entries"
+msgstr "Include notițele înregistrărilor de timp"
+
+#: 
+msgid "Include Notes of Time Entries"
+msgstr "Include notițe pentru înregistrările de timp"
+
+#: 
+msgid "Include price for each task"
+msgstr "Include preț pentru fiecare sarcină"
+
+#: 
+msgid "Include Project Description"
+msgstr "Include descrierea proiectului"
+
+#: 
+msgid "Include project name & description above pricing table"
+msgstr "Include numele și descrierea proiectului deasupra tabelului de preț"
+
+#: 
+msgid "Include Task Info"
+msgstr "Include informațiile sarcinii"
+
+#: 
+msgid "Income Account"
+msgstr "Income Account"
+
+#: 
+msgid "Incompatible device"
+msgstr "Dispozitiv incompatibil"
+
+#: 
+msgid "Incorrect email or password"
+msgstr "Incorrect email or password"
+
+#: 
+msgid "infinite"
+msgstr "infinit"
+
+#: 
+msgid "Info"
+msgstr "Informații"
+
+#: 
+msgid "Initial Project Email Notifications"
+msgstr "Initial Project Email Notifications"
+
+#: 
+msgid "Initial Project Notifications"
+msgstr "Initial Project Notifications"
+
+#: 
+msgid "Initializing..."
+msgstr "Se inițializează..."
+
+#: 
+msgid "Input as"
+msgstr "Introdu ca"
+
+#: 
+msgid "Insert Emoji"
+msgstr "Insert Emoji"
+
+#: 
+msgid "Integrations Settings"
+msgstr "Integrations Settings"
+
+#: 
+msgid "Interface"
+msgstr "Interfață"
+
+#: 
+msgid "Interface Language"
+msgstr "Interfață limbă"
+
+#: 
+msgid "Internal Notes"
+msgstr "Notițe interne"
+
+#: 
+msgid "Interval"
+msgstr "Interval"
+
+#: 
+msgid "inv."
+msgstr "factura"
+
+#: 
+msgid "Invalid action token. Try again."
+msgstr "Simbol de acțiune invalid. Încearcă din nou."
+
+#: 
+msgid "Invalid data"
+msgstr "Invalid data"
+
+#: 
+msgid "Invalid file-type"
+msgstr "Tip fișier invalid"
+
+#: 
+msgid "Invalid phone number."
+msgstr "Număr de telefon invalid."
+
+#: 
+msgid "Invite sent to {0}"
+msgstr "Invitație trimisă lui {0}"
+
+#: 
+msgid "invoice"
+msgstr "factură"
+
+#: 
+msgid "INVOICE"
+msgstr "FACTURĂ"
+
+#: 
+msgid "Invoice Added"
+msgstr "Factură adăugată"
+
+#: 
+msgid "Invoice CSS"
+msgstr "Factură CSS"
+
+#: 
+msgid "Invoice Deleted"
+msgstr "Factură ștearsă"
+
+#: 
+msgid "Invoice exported with id:"
+msgstr "Invoice exported with id:"
+
+#: 
+msgid "Invoice exported with invoice number"
+msgstr "Invoice exported with invoice number"
+
+#: 
+msgid "Invoice Format"
+msgstr "Format factură"
+
+#: 
+msgid "Invoice HTML"
+msgstr "Factură HTML"
+
+#: 
+msgid "Invoice limit reached"
+msgstr "Limită facturi atinsă"
+
+#: 
+msgid "Invoice Name Format"
+msgstr "Format nume factură"
+
+#: 
+msgid "Invoice not found."
+msgstr "Invoice not found."
+
+#: 
+msgid "Invoice Notes"
+msgstr "Notițe factură"
+
+#: 
+msgid "Invoice Number"
+msgstr "Număr facturii"
+
+#: 
+msgid "Invoice payment created"
+msgstr "Plata facturii creată"
+
+#: 
+msgid "Invoice payment updated"
+msgstr "Plata facturii actualizată"
+
+#: 
+msgid "Invoice status"
+msgstr "Statutul facturii"
+
+#: 
+msgid "Invoice status is updated only if your client"
+msgstr "Statutul facturii este actualizat doar dacă clientul"
+
+#: 
+msgid "Invoice status updated"
+msgstr "Statutul facturii adaptat"
+
+#: 
+msgid "Invoice template"
+msgstr "Șablon factură"
+
+#: 
+msgid "Invoice Template"
+msgstr "Șablonul facturii"
+
+#: 
+msgid "Invoice template added"
+msgstr "Invoice template added"
+
+#: 
+msgid "Invoice template deleted"
+msgstr "Invoice template deleted"
+
+#: 
+msgid "Invoice Total"
+msgstr "Total factură"
+
+#: 
+msgid "Invoice Unbilled AR"
+msgstr "Facturează creanțele de încasat"
+
+#: 
+msgid "Invoice unbilled costs"
+msgstr "Facturează costurile nefacturate"
+
+#: 
+msgid "Invoice unbilled time"
+msgstr "Facturează orele nefacturate"
+
+#: 
+msgid "Invoice Updated"
+msgstr "Factură actualizată"
+
+#: 
+msgid "invoiced"
+msgstr "facturată"
+
+#: 
+msgid "Invoiced expenses can not be modified"
+msgstr "Cheltuielele facturate nu pot fi modificate"
+
+#: 
+msgid "Invoiced expenses can not be removed"
+msgstr "Cheltuielele facturate nu pot fi șterse"
+
+#: 
+msgid "Invoiced in"
+msgstr "Facturat în"
+
+#: 
+msgid "invoices"
+msgstr "facturi"
+
+#: 
+msgid "Invoices"
+msgstr "Facturi"
+
+#: 
+msgid "Invoices and Estimates Customer (Bill To) Fields and Order"
+msgstr "Câmpuri și ordinea elementelor de pe facturi și estimări (secțiunea client)"
+
+#: 
+msgid "Invoices and Estimates page footer"
+msgstr "Subsol de pagină facturi și proforme"
+
+#: 
+msgid "Invoices created"
+msgstr "Facturi create"
+
+#: 
+msgid "Invoices Deleted"
+msgstr "Facturi șterse"
+
+#: 
+msgid "Invoices Sent"
+msgstr "Factură trimisă"
+
+#: 
+msgid "Invoices status updated"
+msgstr "Statut facturi actualizat"
+
+#: 
+msgid "Invoices View"
+msgstr "Vedere facturi"
+
+#: 
+msgid "Invoicing"
+msgstr "Facturare"
+
+#: 
+msgid "Is Cover"
+msgstr "Este copertă"
+
+#: 
+msgid "is due"
+msgstr "is due"
+
+#: 
+msgid "is due in"
+msgstr "is due in"
+
+#: 
+msgid "Is equal to"
+msgstr "E egal cu"
+
+#: 
+msgid "is late by"
+msgstr "is late by"
+
+#: 
+msgid "Is main"
+msgstr "Este principal"
+
+#: 
+msgid "is the main contact for this client"
+msgstr "Este contactul principal pentru acest client"
+
+#: 
+msgid "Is the main contact for this client"
+msgstr "Is the main contact for this client"
+
+#: 
+msgid "Item"
+msgstr "Produs / Serviciu"
+
+#: 
+msgid "Item Name"
+msgstr "Item Name"
+
+#: 
+msgid "January"
+msgstr "Ianuarie"
+
+#: 
+msgid "JCB"
+msgstr "JCB"
+
+#: 
+msgid "July"
+msgstr "Iulie"
+
+#: 
+msgid "June"
+msgstr "Iunie"
+
+#: 
+msgid "Keep track of work right on your desktop with this handy tool. It's never been so easy to be productive with these time-saving and tracking features: Stopwatch, Time Sheet Editing & Idle Detection."
+msgstr "Urmărește-ți munca direct de pe desktop cu acest instrument util. Nu a fost niciodată mai ușor să fii productiv cu aceste funcționalități de înregistrare și economisire a timpului: cronometru, editarea fișei de pontaj și detectarea inactivității."
+
+#: 
+msgid "Knowledge Base"
+msgstr "Knowledge Base"
+
+#: 
+msgid "Lack of features/integrations that i need"
+msgstr "Lipsa de funcții/integrării de care am nevoie"
+
+#: 
+msgid "Language"
+msgstr "Limbă"
+
+#: 
+msgid "Language & Time"
+msgstr "Limbă și oră"
+
+#: 
+msgid "Language and Regional"
+msgstr "Limbă și regiune"
+
+#: 
+msgid "Language/Template"
+msgstr "Limbă/Șablon"
+
+#: 
+msgid "last 30 days"
+msgstr "ultimele 30 de zile"
+
+#: 
+msgid "Last 30 days"
+msgstr "Ultimele 30 de zile"
+
+#: 
+msgid "Last Created"
+msgstr "Data ultimei creări"
+
+#: 
+msgid "Last Month"
+msgstr "Luna precedentă"
+
+#: 
+msgid "Last update"
+msgstr "Ultima actualizare"
+
+#: 
+msgid "late"
+msgstr "întârziat"
+
+#: 
+msgid "Late"
+msgstr "Întârziat"
+
+#: 
+msgid "Late & Due Milestones"
+msgstr "Late & Due Milestones"
+
+#: 
+msgid "Late & Upcoming Milestones"
+msgstr "Late & Upcoming Milestones"
+
+#: 
+msgid "Late Payment Reminder"
+msgstr "Notificare plată întârziată "
+
+#: 
+msgid "Late payment reminder {0}"
+msgstr "Notificare plată întârziată {0}"
+
+#: 
+msgid "Late Payment reminders will be sent to this email address."
+msgstr "Notificările pentru plățile întârziate vor fi trimise la această adresă de e-mail."
+
+#: 
+msgid "Late/Upcoming Milestones"
+msgstr "Obiective înârziate/următoare"
+
+#: 
+msgid "Later"
+msgstr "Mai târziu"
+
+#: 
+msgid "Later this Week"
+msgstr "Mai târziu în săptămâna aceasta"
+
+#: 
+msgid "Latest Events"
+msgstr "Ultimele evenimente"
+
+#: 
+msgid "Learn More"
+msgstr "Află mai multe"
+
+#: 
+msgid "Leave"
+msgstr "Concediu"
+
+#: 
+msgid "Leave day added"
+msgstr "Leave day added"
+
+#: 
+msgid "Leave day deleted"
+msgstr "Leave day deleted"
+
+#: 
+msgid "Leave day updated"
+msgstr "Leave day updated"
+
+#: 
+msgid "Leave Days"
+msgstr "Zile libere"
+
+#: 
+msgid "Leave for"
+msgstr "Concediu pentru"
+
+#: 
+msgid "Leave Note"
+msgstr "Notiță concediu"
+
+#: 
+msgid "Leave Planner"
+msgstr "Planificator concediu"
+
+#: 
+msgid "Leave Range"
+msgstr "Interval concediu"
+
+#: 
+msgid "Leave Type"
+msgstr "Tip concediu"
+
+#: 
+msgid "Leave type added"
+msgstr "Leave type added"
+
+#: 
+msgid "Leave type deleted"
+msgstr "Leave type deleted"
+
+#: 
+msgid "Leave type updated"
+msgstr "Leave type updated"
+
+#: 
+msgid "Leave Types"
+msgstr "Tipuri concediu"
+
+#: 
+msgid "Left"
+msgstr "Stânga"
+
+#: 
+msgid "legal leave days remaining"
+msgstr "legal leave days remaining"
+
+#: 
+msgid "Legal Leave Days Used"
+msgstr "zile utilizate din concediul legal"
+
+#: 
+msgid "Legal Leaves Remaining"
+msgstr "zile rămase din concediul legal"
+
+#: 
+msgid "Less"
+msgstr "Mai puțin"
+
+#: 
+msgid "Less Info"
+msgstr "Mai puţin"
+
+#: 
+msgid "Less Options"
+msgstr "Less Options"
+
+#: 
+msgid "Less task options"
+msgstr "Mai puține detalii ale listei de sarcini"
+
+#: 
+msgid "Less than or equal"
+msgstr "Mai puțin ca sau egal"
+
+#: 
+msgid "Let's go!"
+msgstr "Let's go!"
+
+#: 
+msgid "limit reached"
+msgstr "limit reached"
+
+#: 
+msgid "Link Details"
+msgstr "Detalii link"
+
+#: 
+msgid "List"
+msgstr "List"
+
+#: 
+msgid "List View"
+msgstr "Vedere listă"
+
+#: 
+msgid "listing views"
+msgstr "listing views"
+
+#: 
+msgid "live"
+msgstr "live"
+
+#: 
+msgid "Live"
+msgstr "Live"
+
+#: 
+msgid "Live Reports"
+msgstr "Raport live"
+
+#: 
+msgid "Load"
+msgstr "Încarcă"
+
+#: 
+msgid "Load More Tasks"
+msgstr "Încarcă mai multe sarcini"
+
+#: 
+msgid "Loading"
+msgstr "Se încarcă"
+
+#: 
+msgid "Loading data"
+msgstr "Datele se încarcă"
+
+#: 
+msgid "Loading Entries"
+msgstr "Loading Entries"
+
+#: 
+msgid "Loading Milestones"
+msgstr "Loading Milestones"
+
+#: 
+msgid "Loading more Tasks"
+msgstr "Se încarcă mai multe sarcini"
+
+#: 
+msgid "Location & Contact"
+msgstr "Locație și contact"
+
+#: 
+msgid "Location & Time Formats"
+msgstr "Locație și Formatarea timpului"
+
+#: 
+msgid "login"
+msgstr "logare"
+
+#: 
+msgid "Login"
+msgstr "Logare"
+
+#: 
+msgid "Login or Register with Payoneer"
+msgstr "Loghează-te sau Înregistrează-te cu Payoneer"
+
+#: 
+msgid "Mailing Address"
+msgstr "Mailing Address"
+
+#: 
+msgid "Make default"
+msgstr "Setează ca implicit"
+
+#: 
+msgid "Make default workflow"
+msgstr "Make default workflow"
+
+#: 
+msgid "Manage Expenses Tags"
+msgstr "Manage Expenses Tags"
+
+#: 
+msgid "Manage Project Managers"
+msgstr "Manage Project Managers"
+
+#: 
+msgid "Manage subtasks"
+msgstr "Gestionează sarcini secundare"
+
+#: 
+msgid "Manage Tags"
+msgstr "Manage Tags"
+
+#: 
+msgid "Manage templates"
+msgstr "Gestionează șabloane"
+
+#: 
+msgid "Manage Workflows"
+msgstr "Gestionează fluxuri de lucru"
+
+#: 
+msgid "Manual"
+msgstr "Manual"
+
+#: 
+msgid "manual time entry ({0}via form{1})"
+msgstr "înregistrare timp manuală "
+
+#: 
+msgid "manually add time entries or using a stopwatch"
+msgstr "adaugă înregistrări de timp manual sau prin cronometru"
+
+#: 
+msgid "March"
+msgstr "Martie"
+
+#: 
+msgid "Margin Width"
+msgstr "Lățime margine"
+
+#: 
+msgid "Mark as"
+msgstr "Marchează ca"
+
+#: 
+msgid "Mark as Active"
+msgstr "Marchează ca activ"
+
+#: 
+msgid "Mark as Archived"
+msgstr "Marchează ca arhivat"
+
+#: 
+msgid "Mark as Draft"
+msgstr "Marchează ca și ciornă"
+
+#: 
+msgid "Mark as Invoiced"
+msgstr "Marchează ca facturat"
+
+#: 
+msgid "Mark as Paid"
+msgstr "Marchează ca plătită"
+
+#: 
+msgid "Mark As Paid"
+msgstr "Marchează ca plătit"
+
+#: 
+msgid "Mark as Sent"
+msgstr "Marchează ca trimisă"
+
+#: 
+msgid "Mark as Void"
+msgstr "Marchează ca anulată"
+
+#: 
+msgid "Mark Complete"
+msgstr "Marchează ca terminat"
+
+#: 
+msgid "Mark Entries as Billed"
+msgstr "Marchează înregistrările ca facturate"
+
+#: 
+msgid "Mark Entries Billed"
+msgstr "Marchează inregistrările ca facturate"
+
+#: 
+msgid "Mark Incomplete"
+msgstr "Marchează ca neterminat"
+
+#: 
+msgid "Mark Invoiced"
+msgstr "Marchează ca facturat"
+
+#: 
+msgid "Mark Milestones Complete"
+msgstr "Marchează obiectivele ca terminate"
+
+#: 
+msgid "Marked paid by"
+msgstr "Marcat ca plătit de"
+
+#: 
+msgid "MASTERCARD"
+msgstr "MASTERCARD"
+
+#: 
+msgid "Maternity Leave"
+msgstr "Concediu maternal"
+
+#: 
+msgid "Max Users"
+msgstr "Utilizatori maxim"
+
+#: 
+msgid "Max users count"
+msgstr "Numărul maxim de utilizatori"
+
+#: 
+msgid "Maximum 20 characters allowed"
+msgstr "Maximum 20 characters allowed"
+
+#: 
+msgid "Maximum limit for task lists has been reached."
+msgstr "Limita maximă de liste de sarcini a fost atinsă."
+
+#: 
+msgid "May"
+msgstr "Mai"
+
+#: 
+msgid "Maybe later!"
+msgstr "Poate mai târziu!"
+
+#: 
+msgid "Me & Unassigned"
+msgstr "Eu și neasociat"
+
+#: 
+msgid "Merge"
+msgstr "Merge"
+
+#: 
+msgid "Merge Selected Workflows"
+msgstr "Merge Selected Workflows"
+
+#: 
+msgid "Merge Workflows"
+msgstr "Merge Workflows"
+
+#: 
+msgid "Merging workflows. Please wait."
+msgstr "Merging workflows. Please wait."
+
+#: 
+msgid "Message"
+msgstr "Mesaj"
+
+#: 
+msgid "milestone"
+msgstr "obiectiv"
+
+#: 
+msgid "Milestone Details"
+msgstr "Detalii obiectiv"
+
+#: 
+msgid "Milestone is due"
+msgstr "Milestone is due"
+
+#: 
+msgid "Milestones"
+msgstr "Obiective"
+
+#: 
+msgid "Military Leave"
+msgstr "Zile libere armată"
+
+#: 
+msgid "minutes"
+msgstr "minute"
+
+#: 
+msgid "Misc"
+msgstr "Diverse"
+
+#: 
+msgid "Missing quickbooks authorization. Try again."
+msgstr "Missing quickbooks authorization. Try again."
+
+#: 
+msgid "Missing xero authorization. Try again."
+msgstr "Missing xero authorization. Try again."
+
+#: 
+msgid "Mo"
+msgstr "Mo"
+
+#: 
+msgid "Mobile"
+msgstr "Mobil"
+
+#: 
+msgid "Modify Future Occurrences"
+msgstr "Modify Future Occurrences"
+
+#: 
+msgid "Modifying invoice status from paid to sent is not allowed!"
+msgstr "Modifying invoice status from paid to sent is not allowed!"
+
+#: 
+msgid "Monday"
+msgstr "Luni"
+
+#: 
+msgid "Month"
+msgstr "Lună"
+
+#: 
+msgid "month(s)"
+msgstr "month(s)"
+
+#: 
+msgid "monthly"
+msgstr "lunar"
+
+#: 
+msgid "Monthly Performance"
+msgstr "Monthly Performance"
+
+#: 
+msgid "Months"
+msgstr "Luni"
+
+#: 
+msgid "More Info"
+msgstr "Mai mult"
+
+#: 
+msgid "More Options"
+msgstr "More Options"
+
+#: 
+msgid "More task options"
+msgstr "Mai multe opțiuni pentru sarcini"
+
+#: 
+msgid "more tasks"
+msgstr "mai multe sarcini"
+
+#: 
+msgid "Move event to {0}"
+msgstr "Mută eveniment la {0}"
+
+#: 
+msgid "Moving Card here not Allowed"
+msgstr "Mutarea cardului aici nu este permisă"
+
+#: 
+msgid "My Account"
+msgstr "Contul meu"
+
+#: 
+msgid "My Notes"
+msgstr "Notițele mele"
+
+#: 
+msgid "My Tasks"
+msgstr "Sarcinile mele"
+
+#: 
+msgid "My tracked time"
+msgstr "Timpul meu înregistrat"
+
+#: 
+msgid "Name"
+msgstr "Nume"
+
+#: 
+msgid "Name & Report Type"
+msgstr "Nume și tip de raport"
+
+#: 
+msgid "Name, Email address and Company required"
+msgstr "Name, Email address and Company required"
+
+#: 
+msgid "Nature"
+msgstr "Nature"
+
+#: 
+msgid "nd"
+msgstr "nd"
+
+#: 
+msgid "NET"
+msgstr "NET"
+
+#: 
+msgid "never"
+msgstr "never"
+
+#: 
+msgid "new"
+msgstr "noi"
+
+#: 
+msgid "New"
+msgstr "Nou"
+
+#: 
+msgid "New Client"
+msgstr "Client nou"
+
+#: 
+msgid "New Clients"
+msgstr "Clienți noi"
+
+#: 
+msgid "New Discussion"
+msgstr "Discuție nouă"
+
+#: 
+msgid "New Discussion comment"
+msgstr "Comentariu la discuție nou"
+
+#: 
+msgid "New Email Address"
+msgstr "New Email Address"
+
+#: 
+msgid "New Estimate"
+msgstr "Proformă nouă"
+
+#: 
+msgid "New event"
+msgstr "New event"
+
+#: 
+msgid "New Expense"
+msgstr "Cheltuială nouă"
+
+#: 
+msgid "New Invoice"
+msgstr "Factură nouă"
+
+#: 
+msgid "New Note"
+msgstr "Notiță nouă"
+
+#: 
+msgid "New Password"
+msgstr "Parolă nouă"
+
+#: 
+msgid "New Payment Reminder"
+msgstr "Notificare plată nouă"
+
+#: 
+msgid "New Project"
+msgstr "Proiect nou"
+
+#: 
+msgid "New Project Status"
+msgstr "Statut proiect nou"
+
+#: 
+msgid "New Project Template"
+msgstr "Șablon proiect nou"
+
+#: 
+msgid "New Project Workflow"
+msgstr "Flux de lucru nou pentru proiect"
+
+#: 
+msgid "New Projects"
+msgstr "Proiecte noi"
+
+#: 
+msgid "New Recurring Profile"
+msgstr "Adaugă profil recurent"
+
+#: 
+msgid "New Shortcut"
+msgstr "Scurtătură nouă"
+
+#: 
+msgid "New Tag"
+msgstr "New Tag"
+
+#: 
+msgid "New Task"
+msgstr "Sarcină nouă"
+
+#: 
+msgid "New Task List"
+msgstr "Listă de sarcini nouă"
+
+#: 
+msgid "New Tasklist"
+msgstr "Listă de sarcini nouă"
+
+#: 
+msgid "New Template"
+msgstr "Șablon nou"
+
+#: 
+msgid "New Topic"
+msgstr "Temă nouă"
+
+#: 
+msgid "New Workflow Status"
+msgstr "Statut nou pentru fluxul de lucru"
+
+#: 
+msgid "Next Estimate Number"
+msgstr "Următorul număr de proformă"
+
+#: 
+msgid "Next Invoice Number"
+msgstr "Următorul număr de factură"
+
+#: 
+msgid "Next Month"
+msgstr "Luna următoare"
+
+#: 
+msgid "Next occurrence"
+msgstr "Next occurrence"
+
+#: 
+msgid "Next Week"
+msgstr "Săptămâna viitoare"
+
+#: 
+msgid "no"
+msgstr "nu"
+
+#: 
+msgid "No"
+msgstr "Nu"
+
+#: 
+msgid "No Active Clients"
+msgstr "Niciun client activ"
+
+#: 
+msgid "No active users assigned to this project"
+msgstr "Niciun utilizator activ asignat acestui proiect"
+
+#: 
+msgid "No active users match your search."
+msgstr "Niciun utilizator activ nu se potrivește căutării tale"
+
+#: 
+msgid "No Activity Yet"
+msgstr "Nicio activitate încă"
+
+#: 
+msgid "No Assigned Tasks"
+msgstr "Nicio sarcină asignată"
+
+#: 
+msgid "No Assigned Users"
+msgstr "Niciun utilizator implicat in proiect"
+
+#: 
+msgid "No available bookings for {0} in date range {1} - {2}. Some bookings may already have been imported."
+msgstr "Nu există rezervări disponibile pentru {0} în intervalul {1} - {2}. Unele rezervări au fost deja importate."
+
+#: 
+msgid "No bookings for {0} in date range {1} - {2}. Some bookings may already have been imported."
+msgstr "Nicio rezervare pentru {0} în intervalul {1} - {2}. Se poate ca unele rezervări să fie deja importate."
+
+#: 
+msgid "No Client"
+msgstr "No Client"
+
+#: 
+msgid "No Client Selected"
+msgstr "Niciun client selectat"
+
+#: 
+msgid "No Clients Yet"
+msgstr "Niciun client încă"
+
+#: 
+msgid "No comments posted yet."
+msgstr "Niciun comentariu postat încă."
+
+#: 
+msgid "No contacts"
+msgstr "Niciun contact"
+
+#: 
+msgid "No Contacts Yet"
+msgstr "Niciun contact încă"
+
+#: 
+msgid "No data available"
+msgstr "Nu există date disponibile"
+
+#: 
+msgid "No date set"
+msgstr "Data nu e setată"
+
+#: 
+msgid "No Discussion Yet"
+msgstr "Nicio discuție încă"
+
+#: 
+msgid "No discussions"
+msgstr "Nicio discuție"
+
+#: 
+msgid "No Due Date"
+msgstr "Fără dată scadentă"
+
+#: 
+msgid "no email"
+msgstr "niciun email"
+
+#: 
+msgid "No entries available"
+msgstr "No entries available"
+
+#: 
+msgid "No Entries Yet"
+msgstr "Nicio înregistrare încă"
+
+#: 
+msgid "No Estimate Selected"
+msgstr "Nicio proformă selectată"
+
+#: 
+msgid "No Estimates Yet"
+msgstr "Nicio proformă încă"
+
+#: 
+msgid "No events"
+msgstr "Fără activitate"
+
+#: 
+msgid "No Expense Selected"
+msgstr "Nicio cheltuială selectată"
+
+#: 
+msgid "No Expenses Yet"
+msgstr "Nicio cheltuială încă"
+
+#: 
+msgid "No File Chosen"
+msgstr "Niciun fişier selectat"
+
+#: 
+msgid "No files"
+msgstr "Niciun fişier"
+
+#: 
+msgid "No Files Yet"
+msgstr "Niciun fișier încă"
+
+#: 
+msgid "No integrations yet"
+msgstr "No integrations yet"
+
+#: 
+msgid "no interval selected"
+msgstr "niciun interval selectat"
+
+#: 
+msgid "No Invoice Selected"
+msgstr "Nu ai facturi selectate"
+
+#: 
+msgid "No invoices selected"
+msgstr "Nicio factură selectată"
+
+#: 
+msgid "No Invoices Yet"
+msgstr "Nu ai încă facturi"
+
+#: 
+msgid "No items for selected filter. Try clicking the \"Show\" button above"
+msgstr "Niciun element pentru filtrele selectate. Încearcă să faci click pe butonul de \"Afișează\" de mai sus"
+
+#: 
+msgid "No items match your search."
+msgstr "Niciun element nu se potrivește cu căutarea ta."
+
+#: 
+msgid "No items yet"
+msgstr "Niciun element încă"
+
+#: 
+msgid "No Matches Found"
+msgstr "Nicio pereche găsită"
+
+#: 
+msgid "No matching posts found."
+msgstr "Nicio postare asemănătoare găsită."
+
+#: 
+msgid "No milestones"
+msgstr "Niciun obiectiv"
+
+#: 
+msgid "No milestones available"
+msgstr "No milestones available"
+
+#: 
+msgid "No Milestones Yet"
+msgstr "Niciun obiectiv încă"
+
+#: 
+msgid "No Note Selected"
+msgstr "Nicio notiță selectată"
+
+#: 
+msgid "no overdue tasks"
+msgstr "Nu sunt sarcini cu termen depășit"
+
+#: 
+msgid "No payment gateways are set up yet. Would you like to set up online payments?"
+msgstr "Nicio metodă de plată nu este setată. Dorești să setezi plăți online?"
+
+#: 
+msgid "No pending invoices"
+msgstr "Nicio factură restantă"
+
+#: 
+msgid "No Plans Available"
+msgstr "Niciun plan disponibil"
+
+#: 
+msgid "No Plans/Add-Ons/Discounts data available"
+msgstr "Nicio informație legată de vreun plan/modul/discount disponibilă"
+
+#: 
+msgid "No Project Selected"
+msgstr "Niciun proiect selectat"
+
+#: 
+msgid "No projects"
+msgstr "Nu ai proiecte"
+
+#: 
+msgid "No Projects"
+msgstr "Niciun proiect"
+
+#: 
+msgid "No projects assigned to you yet."
+msgstr "Nu ai proiecte atribuite ție încă."
+
+#: 
+msgid "No Projects defined yet"
+msgstr "Niciun proiect definit încă"
+
+#: 
+msgid "No projects selected"
+msgstr "Niciun proiect selectat"
+
+#: 
+msgid "No Projects Yet"
+msgstr "Niciun proiect încă"
+
+#: 
+msgid "No recent tasks"
+msgstr "Nicio sarcină recentă"
+
+#: 
+msgid "No Recurring Profile Selected"
+msgstr "Nu sunt profiluri recurente selectate"
+
+#: 
+msgid "No Recurring Profiles Yet"
+msgstr "Niciun profil recurent încă"
+
+#: 
+msgid "No Report Selected"
+msgstr "Niciun raport selectat"
+
+#: 
+msgid "No Reports Yet"
+msgstr "Niciun raport încă"
+
+#: 
+msgid "No Split"
+msgstr "Nicio splitare"
+
+#: 
+msgid "No Task List"
+msgstr "Nu sunt liste de sarcini"
+
+#: 
+msgid "No Task Selected"
+msgstr "Nicio sarcină încă"
+
+#: 
+msgid "No task selected. Please select one!"
+msgstr "Nicio sarcină selectată. Te rog selectează una."
+
+#: 
+msgid "No tasks"
+msgstr "Nicio sarcină"
+
+#: 
+msgid "No Tasks"
+msgstr "Nicio sarcină"
+
+#: 
+msgid "No Tasks matching Filters"
+msgstr "No Tasks matching Filters"
+
+#: 
+msgid "No tasks yet"
+msgstr "Încă nu sunt sarcini"
+
+#: 
+msgid "No Tasks Yet"
+msgstr "Nicio sarcină încă"
+
+#: 
+msgid "No timers are currently running"
+msgstr "No timers are currently running"
+
+#: 
+msgid "No timesheet data available for the current time report options."
+msgstr "No timesheet data available for the current time report options."
+
+#: 
+msgid "No unassociated tasklists"
+msgstr "Nicio listă de sarcini neasociate"
+
+#: 
+msgid "No unbilled tasks"
+msgstr "Nicio sarcină nefacturabilă"
+
+#: 
+msgid "No User Selected"
+msgstr "Niciun utilizator selectat"
+
+#: 
+msgid "No Users Yet"
+msgstr "Niciun utilizator încă"
+
+#: 
+msgid "nobody"
+msgstr "nimeni"
+
+#: 
+msgid "Non Billable Tasks"
+msgstr "Sarcini nefacturabile"
+
+#: 
+msgid "Non-billable"
+msgstr "Nefacturabil"
+
+#: 
+msgid "Non-Billable"
+msgstr "Nefacturabil"
+
+#: 
+msgid "Non-billable Hours"
+msgstr "Non-billable Hours"
+
+#: 
+msgid "non-billable hrs"
+msgstr "ore nefacturabile"
+
+#: 
+msgid "Non-working days"
+msgstr "Zile nelucrătoare"
+
+#: 
+msgid "Non-Working Days"
+msgstr "Zile nelucrătoare"
+
+#: 
+msgid "none"
+msgstr "nimic"
+
+#: 
+msgid "None"
+msgstr "Nimic"
+
+#: 
+msgid "None (ungrouped)"
+msgstr "Nimic (negrupat)"
+
+#: 
+msgid "Not Billable"
+msgstr "Not Billable"
+
+#: 
+msgid "not billed"
+msgstr "not billed"
+
+#: 
+msgid "Not editable during the trial period"
+msgstr "Not editable during the trial period"
+
+#: 
+msgid "Not editable in the Free plan"
+msgstr "Not editable in the Free plan"
+
+#: 
+msgid "Not intuitive to use"
+msgstr "Nu este intuitiv de folosit"
+
+#: 
+msgid "Not Invoiced"
+msgstr "Nefacturat"
+
+#: 
+msgid "not set"
+msgstr "nu e setat"
+
+#: 
+msgid "Not used"
+msgstr "Not used"
+
+#: 
+msgid "Note Deleted"
+msgstr "Notiță ștearsă"
+
+#: 
+msgid "Note has been created"
+msgstr "Notița a fost creată"
+
+#: 
+msgid "Note has been saved"
+msgstr "Notița a fost salvată"
+
+#: 
+msgid "Note not found"
+msgstr "Notița nu a fost găsită"
+
+#: 
+msgid "Note: An expense of an archived {0} can't be modified. To modify the expense activate the {0} :"
+msgstr "Notă: O cheltuială a unui {0} arhivat nu poate fi modificată. Pentru a modifica cheltuiala, activează {0}."
+
+#: 
+msgid "Note: press Enter to add a non-existing Tag."
+msgstr "Note: press Enter to add a non-existing Tag."
+
+#: 
+msgid "Note: Use the same currency as the one you bill your client in."
+msgstr "Notă: Folosește aceeași valută precum cea prin care îți facturezi clientul."
+
+#: 
+msgid "Notes"
+msgstr "Detalii"
+
+#: 
+msgid "Notes View"
+msgstr "Vedere notițe"
+
+#: 
+msgid "Notes visible to Client"
+msgstr "Notițe vizibile clientului"
+
+#: 
+msgid "nothing"
+msgstr "nimic"
+
+#: 
+msgid "Notice: You have reached the maximum active users for your account ({0} users)"
+msgstr "Observație: Ați ajuns la numărul maxim de utilizatori activi pentru contul dvs. ( {0} utilizatori )"
+
+#: 
+msgid "Notification not sent"
+msgstr "Notificarea nu a fost trimisă"
+
+#: 
+msgid "Notification Sent"
+msgstr "Notificare trimisă"
+
+#: 
+msgid "Notifications & Permissions"
+msgstr "Notifications & Permissions"
+
+#: 
+msgid "Notifications not updated"
+msgstr "Notifications not updated"
+
+#: 
+msgid "Notifications updated"
+msgstr "Notifications updated"
+
+#: 
+msgid "Notify"
+msgstr "Notifică"
+
+#: 
+msgid "Notify by email all users assigned to this project or"
+msgstr "Notifică prin email toți utilizatorii asignați acestui proiect sau"
+
+#: 
+msgid "Notify Users"
+msgstr "Notifică utilizatorii"
+
+#: 
+msgid "Notify when booking is created"
+msgstr "Notify when booking is created"
+
+#: 
+msgid "Notify when comments are posted"
+msgstr "Notifică atunci când comentariile sunt postate"
+
+#: 
+msgid "Notify when Discussion attachments are uploaded"
+msgstr "Notify when Discussion attachments are uploaded"
+
+#: 
+msgid "Notify when Project Files are uploaded"
+msgstr "Notifică atunci când fișierele proiectului sunt încărcate"
+
+#: 
+msgid "Notify when Task attachments are uploaded"
+msgstr "Notifică atunci când fișierele atașate sarcinii sunt încărcate"
+
+#: 
+msgid "Notify when task is completed"
+msgstr "Notifică atunci când sarcina este terminată"
+
+#: 
+msgid "Notify when task priority is changed"
+msgstr "Notify when task priority is changed"
+
+#: 
+msgid "Notify when task status is changed"
+msgstr "Notifică atunci când statul sarcinii este schimbat"
+
+#: 
+msgid "Notify when user is assigned to discussion"
+msgstr "Notifică atunci când utilizatorul este asignat unei discuții"
+
+#: 
+msgid "Notify when user is assigned to task"
+msgstr "Notifică atunci când utilizatorul e asignat sarcinii"
+
+#: 
+msgid "November"
+msgstr "Noiembrie"
+
+#: 
+msgid "Number Format"
+msgstr "Format număr"
+
+#: 
+msgid "Objects"
+msgstr "Objects"
+
+#: 
+msgid "Occurrences"
+msgstr "Occurrences"
+
+#: 
+msgid "Occurrences limit"
+msgstr "Occurrences limit"
+
+#: 
+msgid "October"
+msgstr "Octombrie"
+
+#: 
+msgid "of"
+msgstr "a"
+
+#: 
+msgid "of logged time"
+msgstr "din timpul înregistrat"
+
+#: 
+msgid "on a certain date"
+msgstr "on a certain date"
+
+#: 
+msgid "On-hold"
+msgstr "În așteptare"
+
+#: 
+msgid "Online Payment"
+msgstr "Plată Online"
+
+#: 
+msgid "Online Payment Gateways"
+msgstr "Portaluri plăți online"
+
+#: 
+msgid "Open"
+msgstr "Deschide"
+
+#: 
+msgid "Open Link"
+msgstr "Open Link"
+
+#: 
+msgid "Option hidden"
+msgstr "Opțiune ascunsă"
+
+#: 
+msgid "Option visible"
+msgstr "Opțiune vizibilă"
+
+#: 
+msgid "or"
+msgstr "sau"
+
+#: 
+msgid "Other"
+msgstr "Altele"
+
+#: 
+msgid "Other Expenses"
+msgstr "Other Expenses"
+
+#: 
+msgid "Other Notes"
+msgstr "Alte notițe"
+
+#: 
+msgid "Outstanding Balance"
+msgstr "Sold restant"
+
+#: 
+msgid "over budget"
+msgstr "au depășit bugetul"
+
+#: 
+msgid "overdue"
+msgstr "scadent"
+
+#: 
+msgid "Overdue"
+msgstr "Scadent"
+
+#: 
+msgid "Overdue payment reminder sent"
+msgstr "Notificare plată restantă trimisă"
+
+#: 
+msgid "overdue tasks"
+msgstr "Sarcini cu termen depășit"
+
+#: 
+msgid "Overtime"
+msgstr "Ore suplimentare"
+
+#: 
+msgid "Overview"
+msgstr "Prezentare generală"
+
+#: 
+msgid "paid"
+msgstr "plătită"
+
+#: 
+msgid "Paper Size"
+msgstr "Dimensiune pagină"
+
+#: 
+msgid "Partial Payments"
+msgstr "Plăți parțiale"
+
+#: 
+msgid "Partner"
+msgstr "Partener"
+
+#: 
+msgid "Password"
+msgstr "Parolă"
+
+#: 
+msgid "Password can't be empty"
+msgstr "Password can't be empty"
+
+#: 
+msgid "Passwords must be at least 8 characters, containing either a number, or a valid special character"
+msgstr "Passwords must be at least 8 characters, containing either a number, or a valid special character"
+
+#: 
+msgid "Past Due"
+msgstr "După data scadentă"
+
+#: 
+msgid "Paternity Leave"
+msgstr "Concediu paternal"
+
+#: 
+msgid "Pause recurrence"
+msgstr "Pause recurrence"
+
+#: 
+msgid "paused"
+msgstr "paused"
+
+#: 
+msgid "Pay Online"
+msgstr "Plăteşte online"
+
+#: 
+msgid "Payee ID"
+msgstr "ID beneficiar"
+
+#: 
+msgid "Payment added by"
+msgstr "Plată adaugată de"
+
+#: 
+msgid "Payment Date"
+msgstr "Data plății"
+
+#: 
+msgid "Payment Status"
+msgstr "Statutul plății"
+
+#: 
+msgid "Payments"
+msgstr "Plăți"
+
+#: 
+msgid "Payments for Invoice"
+msgstr "Plăți pentru facturi"
+
+#: 
+msgid "Payments Total"
+msgstr "Plăți totale"
+
+#: 
+msgid "Paymo Client"
+msgstr "Paymo Client"
+
+#: 
+msgid "Paymo Mobile Applications"
+msgstr "Aplicații de mobil Paymo"
+
+#: 
+msgid "Paymo Project Management"
+msgstr "Management de proiect Paymo"
+
+#: 
+msgid "Paymo Widget"
+msgstr "Widget Paymo"
+
+#: 
+msgid "PaymoPlus Automatic Time Tracking"
+msgstr "Înregistrare automată de timp prin PaymoPlus"
+
+#: 
+msgid "PaymoPlus offers automatic time tracking on the desktop. Just start the app and let it run in the background, it will record all the time you spend in various apps. At the end of the day you'll be able to associate and sync the recorded time with your tasks from the online Paymo app."
+msgstr "PaymoPlus oferă înregistrare automată de timp de pe desktop. Pornește aplicația și las-o să ruleze. Va înregistra tot timpul pe care îl petreci în diverse aplicații. La sfârșitul zilei vei putea asocia și sincroniza timpul înregistrat cu sarcinile tale din aplicația Paymo online."
+
+#: 
+msgid "Pdf"
+msgstr "PDF"
+
+#: 
+msgid "PDF Page Size"
+msgstr "Dimensiune pagină PDF"
+
+#: 
+msgid "pending"
+msgstr "În așteptare"
+
+#: 
+msgid "Pending Invoices"
+msgstr "Facturi restante"
+
+#: 
+msgid "Pending Payments"
+msgstr "Plăți în așteptare"
+
+#: 
+msgid "People"
+msgstr "People"
+
+#: 
+msgid "per day"
+msgstr "pe zi"
+
+#: 
+msgid "Per."
+msgstr "Perf."
+
+#: 
+msgid "Performance"
+msgstr "Performanță"
+
+#: 
+msgid "Performance (30 days)"
+msgstr "Performanţă (30 zile)"
+
+#: 
+msgid "Performance this month"
+msgstr "Eficiența din această lună"
+
+#: 
+msgid "Performing"
+msgstr "Productivi"
+
+#: 
+msgid "Permalink"
+msgstr "Permalink"
+
+#: 
+msgid "Permalink for clients"
+msgstr "Link permanent pentru clienţi"
+
+#: 
+msgid "Permalink for users"
+msgstr "Link permanent pentru utilizatori"
+
+#: 
+msgid "Person"
+msgstr "Persoană"
+
+#: 
+msgid "Person Responsible"
+msgstr "Persoana responsabilă"
+
+#: 
+msgid "Phone"
+msgstr "Telefon"
+
+#: 
+msgid "Photo"
+msgstr "Imagine"
+
+#: 
+msgid "Piechart"
+msgstr "Piechart"
+
+#: 
+msgid "Piechart Report"
+msgstr "Raport diagramă radială"
+
+#: 
+msgid "Places"
+msgstr "Places"
+
+#: 
+msgid "Please access the time report via the following link"
+msgstr "Please access the time report via the following link"
+
+#: 
+msgid "Please add recipient"
+msgstr "Te rog adaugă un destinatar"
+
+#: 
+msgid "Please select a project or leave the field empty"
+msgstr "Te rog selectează un proiect sau lasă câmpul liber"
+
+#: 
+msgid "Please select a valid project name"
+msgstr "Te rog selectează un nume de proiect valabil"
+
+#: 
+msgid "Please try again"
+msgstr "Te rog încearcă din nou"
+
+#: 
+msgid "Please upgrade your subscription"
+msgstr "Te rog actualizează-ți abonamentul."
+
+#: 
+msgid "Please wait"
+msgstr "Te rog așteaptă"
+
+#: 
+msgid "Port"
+msgstr "Port"
+
+#: 
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: 
+msgid "Portfolio Gantt"
+msgstr "Portfolio Gantt"
+
+#: 
+msgid "Portfolio Gantt Chart"
+msgstr "Diagrama Gantt Portofoliu"
+
+#: 
+msgid "Position"
+msgstr "Funcție"
+
+#: 
+msgid "Post a comment..."
+msgstr "Lasă un comentariu..."
+
+#: 
+msgid "Post comment"
+msgstr "Postează comentariu"
+
+#: 
+msgid "Post Comment"
+msgstr "Lasă comentariu"
+
+#: 
+msgid "Post Comment (Ctrl+Enter)"
+msgstr "Postează comentariu (Ctrl+Enter)"
+
+#: 
+msgid "Postal Code"
+msgstr "Cod poştal"
+
+#: 
+msgid "Preview"
+msgstr "Previzualizare"
+
+#: 
+msgid "Previous month"
+msgstr "În luna precedentă"
+
+#: 
+msgid "Previous Month"
+msgstr "Luna precedentă"
+
+#: 
+msgid "Previous Week"
+msgstr "Săptămâna trecută"
+
+#: 
+msgid "Previous Year"
+msgstr "Anul precedent"
+
+#: 
+msgid "Price"
+msgstr "Preț"
+
+#: 
+msgid "Price must be present"
+msgstr "Prețul trebuie să fie prezent"
+
+#: 
+msgid "Price per Hour"
+msgstr "Preţ pe oră"
+
+#: 
+msgid "Price Per Hour"
+msgstr "Prețul pe oră"
+
+#: 
+msgid "Price/Hour"
+msgstr "Preț/oră"
+
+#: 
+msgid "Print"
+msgstr "Printează"
+
+#: 
+msgid "Printing"
+msgstr "Printing"
+
+#: 
+msgid "private"
+msgstr "privat"
+
+#: 
+msgid "Private"
+msgstr "Privat"
+
+#: 
+msgid "Private notes"
+msgstr "Notițe private"
+
+#: 
+msgid "Privileges"
+msgstr "Drepturi"
+
+#: 
+msgid "Proceed"
+msgstr "Continuă"
+
+#: 
+msgid "Profile"
+msgstr "Profile"
+
+#: 
+msgid "Profile No."
+msgstr "Nr. profil"
+
+#: 
+msgid "Progress"
+msgstr "Progres"
+
+#: 
+msgid "Progress Status"
+msgstr "Statut progres"
+
+#: 
+msgid "project"
+msgstr "proiect"
+
+#: 
+msgid "Project Accounting"
+msgstr "Contabilitate"
+
+#: 
+msgid "Project activated"
+msgstr "Proiect activat"
+
+#: 
+msgid "Project Added"
+msgstr "Proiect adăugat"
+
+#: 
+msgid "Project archived"
+msgstr "Proiect arhivat"
+
+#: 
+msgid "Project Budget Hours"
+msgstr "Bugetul de ore al proiectului"
+
+#: 
+msgid "Project Color"
+msgstr "Project Color"
+
+#: 
+msgid "Project Deleted"
+msgstr "Proiect șters"
+
+#: 
+msgid "Project Description"
+msgstr "Descrierea proiectului"
+
+#: 
+msgid "Project Details"
+msgstr "Detalii proiect"
+
+#: 
+msgid "Project Files are uploaded"
+msgstr "Project Files are uploaded"
+
+#: 
+msgid "Project has not been saved yet. Would you like to save?"
+msgstr "Project has not been saved yet. Would you like to save?"
+
+#: 
+msgid "project hourly rate"
+msgstr "tarif orar proiect"
+
+#: 
+msgid "Project ID"
+msgstr "ID proiect"
+
+#: 
+msgid "Project is active"
+msgstr "Proiectul este activ"
+
+#: 
+msgid "Project manager"
+msgstr "Project manager"
+
+#: 
+msgid "Project Managers"
+msgstr "Project Managers"
+
+#: 
+msgid "Project Not Billable"
+msgstr "Proiect nefacturabil"
+
+#: 
+msgid "Project price"
+msgstr "Preț proiect"
+
+#: 
+msgid "Project Price"
+msgstr "Prețul proiectului"
+
+#: 
+msgid "Project Progress Email alert"
+msgstr "Project Progress Email alert"
+
+#: 
+msgid "Project Progress Limit"
+msgstr "Project Progress Limit"
+
+#: 
+msgid "Project Settings"
+msgstr "Setări proiect"
+
+#: 
+msgid "Project settings modified"
+msgstr "Project settings modified"
+
+#: 
+msgid "Project status added"
+msgstr "Project status added"
+
+#: 
+msgid "Project status deleted"
+msgstr "Project status deleted"
+
+#: 
+msgid "Project status updated"
+msgstr "Project status updated"
+
+#: 
+msgid "Project Statuses"
+msgstr "Stări proiecte"
+
+#: 
+msgid "Project statuses reordered"
+msgstr "Project statuses reordered"
+
+#: 
+msgid "Project Template"
+msgstr "Șablon proiect"
+
+#: 
+msgid "Project Templates"
+msgstr "Șablon proiecte"
+
+#: 
+msgid "Project Updated"
+msgstr "Proiect actualizat"
+
+#: 
+msgid "Project Workflow"
+msgstr "Fluxul de lucru al proiectului"
+
+#: 
+msgid "Project Workflows"
+msgstr "Fluxurile de lucru ale proiectului"
+
+#: 
+msgid "projects"
+msgstr "proiecte"
+
+#: 
+msgid "Projects"
+msgstr "Proiecte"
+
+#: 
+msgid "Projects activated"
+msgstr "Proiecte activate"
+
+#: 
+msgid "Projects archived"
+msgstr "Proiecte arhivate"
+
+#: 
+msgid "Projects for client"
+msgstr "Proiecte pentru clienți"
+
+#: 
+msgid "Projects View"
+msgstr "Vedere proiecte"
+
+#: 
+msgid "Projects:"
+msgstr "Projects:"
+
+#: 
+msgid "Proposal"
+msgstr "Propunere"
+
+#: 
+msgid "Provider"
+msgstr "Furnizor"
+
+#: 
+msgid "Publishable Key"
+msgstr "Cheie publicabilă"
+
+#: 
+msgid "Quantity"
+msgstr "Cantitate"
+
+#: 
+msgid "Queued"
+msgstr "În așteptare"
+
+#: 
+msgid "QuickBooks"
+msgstr "QuickBooks"
+
+#: 
+msgid "QuickBooks Authorization"
+msgstr "QuickBooks Authorization"
+
+#: 
+msgid "Quickly add a task inline by clicking on the \"Add Task\" link."
+msgstr "Quickly add a task inline by clicking on the \"Add Task\" link."
+
+#: 
+msgid "Rate must be present"
+msgstr "Tariful trebuie să fie prezent"
+
+#: 
+msgid "rd"
+msgstr "rd"
+
+#: 
+msgid "Reaction"
+msgstr "Reaction"
+
+#: 
+msgid "Receipt"
+msgstr "Chitanță"
+
+#: 
+msgid "Receive All Notifications"
+msgstr "Receive All Notifications"
+
+#: 
+msgid "Received"
+msgstr "Încasat"
+
+#: 
+msgid "received last month"
+msgstr "primit luna precedentă"
+
+#: 
+msgid "received previous month"
+msgstr "primit luna precedentă"
+
+#: 
+msgid "received this month"
+msgstr "primit în această lună"
+
+#: 
+msgid "Recurrence end date"
+msgstr "Recurrence end date"
+
+#: 
+msgid "Recurrence ends"
+msgstr "Recurrence ends"
+
+#: 
+msgid "Recurrence start date"
+msgstr "Recurrence start date"
+
+#: 
+msgid "Recurrence starts"
+msgstr "Recurrence starts"
+
+#: 
+msgid "Recurring"
+msgstr "Recurente"
+
+#: 
+msgid "Recurring Invoices"
+msgstr "Facturi recurente"
+
+#: 
+msgid "Recurring Profile"
+msgstr "Profil recurent"
+
+#: 
+msgid "Recurring Profile Added"
+msgstr "Profil recurent adăugat"
+
+#: 
+msgid "Recurring Profile Deleted"
+msgstr "Profil recurent șters"
+
+#: 
+msgid "Recurring Profile Updated"
+msgstr "Profil recurent adăugat"
+
+#: 
+msgid "Recurring Profiles"
+msgstr "Profiluri recurente"
+
+#: 
+msgid "Recurring profiles limit reached"
+msgstr "Limita de profiluri recurente atinsă"
+
+#: 
+msgid "Recurring Profiles View"
+msgstr "Vedere profiluri recurente"
+
+#: 
+msgid "Recurring Task"
+msgstr "Recurring Task"
+
+#: 
+msgid "Recurring Task Profile"
+msgstr "Recurring Task Profile"
+
+#: 
+msgid "Redirect"
+msgstr "Redirect"
+
+#: 
+msgid "Refer a friend, get $20"
+msgstr "Recomandă unui prieten, câștigă $20"
+
+#: 
+msgid "Refresh Page"
+msgstr "Reîncarcă pagina"
+
+#: 
+msgid "Refresh Report"
+msgstr "Reîncarcă raportul"
+
+#: 
+msgid "Regional & Language Settings"
+msgstr "Regional & Language Settings"
+
+#: 
+msgid "Regional Settings"
+msgstr "Setări regionale"
+
+#: 
+msgid "Reload Required"
+msgstr "Reîncarcă pagina necesară"
+
+#: 
+msgid "remaining"
+msgstr "rămas(e)"
+
+#: 
+msgid "Remaining"
+msgstr "Rămas"
+
+#: 
+msgid "Remaining Budget Hours"
+msgstr "Timp liber"
+
+#: 
+msgid "Remaining Hours"
+msgstr "Remaining Hours"
+
+#: 
+msgid "Remaining Leaves"
+msgstr "Remaining Leaves"
+
+#: 
+msgid "Remaining Project Budget"
+msgstr "Remaining Project Budget"
+
+#: 
+msgid "Remaining Project Budget Hours"
+msgstr "Bugetul de ore rămase al proiectului"
+
+#: 
+msgid "Remaining Task Budget"
+msgstr "Remaining Task Budget"
+
+#: 
+msgid "Remaining Task Budget Hours"
+msgstr "Bugetul de ore rămase al sarcinii"
+
+#: 
+msgid "Reminder"
+msgstr "Notificare"
+
+#: 
+msgid "Reminders are sent to the default client email address."
+msgstr "Notificările sunt trimise către adresa de e-mail implicită a clienților."
+
+#: 
+msgid "Remove Booking"
+msgstr "Șterge rezervare"
+
+#: 
+msgid "Remove Logo"
+msgstr "Șterge logo"
+
+#: 
+msgid "Remove Paymo branding"
+msgstr "Elimină brandingul Paymo"
+
+#: 
+msgid "Reopened by"
+msgstr "Redeschis de"
+
+#: 
+msgid "Reorder Task Lists"
+msgstr "Ordonează listele de sarcini"
+
+#: 
+msgid "Repeat event"
+msgstr "Repeat event"
+
+#: 
+msgid "Repeat Every"
+msgstr "Repeat Every"
+
+#: 
+msgid "Repeat Interval"
+msgstr "Repeat Interval"
+
+#: 
+msgid "Repeat on"
+msgstr "Repeat on"
+
+#: 
+msgid "report"
+msgstr "raport"
+
+#: 
+msgid "Report"
+msgstr "Raport"
+
+#: 
+msgid "Report Added"
+msgstr "Raport adăugat"
+
+#: 
+msgid "Report Deleted"
+msgstr "Raport șters"
+
+#: 
+msgid "Report Display Settings"
+msgstr "Setări de afișare raport"
+
+#: 
+msgid "Report sharing updated"
+msgstr "Report sharing updated"
+
+#: 
+msgid "Report Updated"
+msgstr "Raport acutalizat"
+
+#: 
+msgid "Report View"
+msgstr "Report View"
+
+#: 
+msgid "Reports"
+msgstr "Rapoarte"
+
+#: 
+msgid "Reports are created based on tracked time, and are a good way to get a detailed look of how's the work time spent. They can be shared with the clients and other users by using the report permalink."
+msgstr "Rapoartele sunt create în baza timpului înregistrat, fiind o metodă bună de primi o vedere de ansamblu asupra felului în care timpul de lucru este petrecut efectiv. Ele pot fi partajate cu clienții și alți utilizatori folosind linkul permanent de rapoarte."
+
+#: 
+msgid "Reports were activated"
+msgstr "Rapoartele au fost activate"
+
+#: 
+msgid "Reports were archived"
+msgstr "Rapoartele au fost arhivate"
+
+#: 
+msgid "Requires LinkedIn account"
+msgstr "Necesită cont LinkedIn"
+
+#: 
+msgid "Reschedule"
+msgstr "Reschedule"
+
+#: 
+msgid "Reset Columns"
+msgstr "Resetează coloanele"
+
+#: 
+msgid "Restore Defaults"
+msgstr "Restaurează setările de bază"
+
+#: 
+msgid "Resume recurrence"
+msgstr "Resume recurrence"
+
+#: 
+msgid "Retired by"
+msgstr "Retras de"
+
+#: 
+msgid "Revenue"
+msgstr "Venituri"
+
+#: 
+msgid "Revoke Access"
+msgstr "Revoke Access"
+
+#: 
+msgid "Right"
+msgstr "Dreapta"
+
+#: 
+msgid "Right now only you can access this report inside the app."
+msgstr "Right now only you can access this report inside the app."
+
+#: 
+msgid "Role"
+msgstr "Rol"
+
+#: 
+msgid "Round time to increments of"
+msgstr "Aproximează timpul la intervale de"
+
+#: 
+msgid "Round Time to Increments of"
+msgstr "Rotunjește timpul la incremente de"
+
+#: 
+msgid "Round up time entries to increments of"
+msgstr "Rotunjeşte timpii în incremente de"
+
+#: 
+msgid "Rss"
+msgstr "RSS"
+
+#: 
+msgid "Sa"
+msgstr "Sa"
+
+#: 
+msgid "same day"
+msgstr "same day"
+
+#: 
+msgid "Same Day"
+msgstr "Aceeași zi"
+
+#: 
+msgid "Saturday"
+msgstr "Sâmbătă"
+
+#: 
+msgid "Save"
+msgstr "Salvează"
+
+#: 
+msgid "Save as Project Template"
+msgstr "Save as Project Template"
+
+#: 
+msgid "Save as..."
+msgstr "Salcează ca"
+
+#: 
+msgid "Save Changes"
+msgstr "Salvează modificările"
+
+#: 
+msgid "Save Client"
+msgstr "Salvează client"
+
+#: 
+msgid "Save Contact"
+msgstr "Salvează contactul"
+
+#: 
+msgid "Save data..."
+msgstr "Salvează data..."
+
+#: 
+msgid "Save Discussion"
+msgstr "Salvează discuția"
+
+#: 
+msgid "Save Estimate"
+msgstr "Salvează proforma"
+
+#: 
+msgid "Save Expense"
+msgstr "Salvează cheltuiala"
+
+#: 
+msgid "Save Files"
+msgstr "Salvează fişiere"
+
+#: 
+msgid "Save General Settings"
+msgstr "Salvează setările generale"
+
+#: 
+msgid "Save Invoice"
+msgstr "Salvează factura"
+
+#: 
+msgid "Save Leave"
+msgstr "Salvează concediu"
+
+#: 
+msgid "Save Leave Type"
+msgstr "Save Leave Type"
+
+#: 
+msgid "Save Link"
+msgstr "Salvează link-ul"
+
+#: 
+msgid "Save Milestone"
+msgstr "Salvează obiectiv"
+
+#: 
+msgid "Save Payment"
+msgstr "Salvează plata"
+
+#: 
+msgid "Save Project"
+msgstr "Salvează proiectul"
+
+#: 
+msgid "Save Project Status"
+msgstr "Salvează statut proiect"
+
+#: 
+msgid "Save project templates"
+msgstr "Salvează șablon proiecte"
+
+#: 
+msgid "Save Recurrence"
+msgstr "Save Recurrence"
+
+#: 
+msgid "Save Recurring Profile"
+msgstr "Salvează profil recurent"
+
+#: 
+msgid "Save Report"
+msgstr "Salvează raportul"
+
+#: 
+msgid "Save Settings"
+msgstr "Salvează setări"
+
+#: 
+msgid "Save Subtask"
+msgstr "Salvează sarcina secundară"
+
+#: 
+msgid "Save Tag"
+msgstr "Save Tag"
+
+#: 
+msgid "Save Task"
+msgstr "Savează sarcina"
+
+#: 
+msgid "Save Task List"
+msgstr "Salvează lista de sarcini"
+
+#: 
+msgid "Save Tasks as Template"
+msgstr "Salvează sarcinile ca șablon"
+
+#: 
+msgid "Save Template"
+msgstr "Salvează șablonul"
+
+#: 
+msgid "Save User"
+msgstr "Salvează utilizatorul"
+
+#: 
+msgid "Save Workflow"
+msgstr "Salvează statut de lucru"
+
+#: 
+msgid "Save Workflow Status"
+msgstr "Salvează statut flux de lucru"
+
+#: 
+msgid "Saving"
+msgstr "Se salvează"
+
+#: 
+msgid "Saving Data"
+msgstr "Datele se salvează"
+
+#: 
+msgid "Saving Task Lists {0} of {1}..."
+msgstr "Se salvează lista de sarcini {0} din {1}..."
+
+#: 
+msgid "Saving Tasks {0} of {1}..."
+msgstr "Se salvează sarcina {0} din {1}..."
+
+#: 
+msgid "Scheduling"
+msgstr "Planificator"
+
+#: 
+msgid "Search"
+msgstr "Caută"
+
+#: 
+msgid "Search Existing Tags or Add Tag"
+msgstr "Search Existing Tags or Add Tag"
+
+#: 
+msgid "Searching..."
+msgstr "Se caută..."
+
+#: 
+msgid "Seconds"
+msgstr "Secunde"
+
+#: 
+msgid "Secret Key"
+msgstr "Cheie secretă"
+
+#: 
+msgid "Select"
+msgstr "Selectează"
+
+#: 
+msgid "Select a group"
+msgstr "Selectează un grup"
+
+#: 
+msgid "Select a start date"
+msgstr "Selectează data de început"
+
+#: 
+msgid "Select a type"
+msgstr "Selectează un tip"
+
+#: 
+msgid "Select a user before importing bookings!"
+msgstr "Selectează un utilizator înainte de a importa rezervările!"
+
+#: 
+msgid "Select Account"
+msgstr "Select Account"
+
+#: 
+msgid "select all"
+msgstr "selectează tot"
+
+#: 
+msgid "Select All"
+msgstr "Selectează tot"
+
+#: 
+msgid "Select all Projects"
+msgstr "Selectează toate proiectele"
+
+#: 
+msgid "Select All Projects"
+msgstr "Selectează toate proiectele"
+
+#: 
+msgid "Select all Users"
+msgstr "Selectează toți utilizatorii"
+
+#: 
+msgid "Select All Users"
+msgstr "Selectează toți utilizatorii"
+
+#: 
+msgid "Select an end date"
+msgstr "Selectează data de sfârșit"
+
+#: 
+msgid "Select at least one weekday"
+msgstr "Select at least one weekday"
+
+#: 
+msgid "Select client"
+msgstr "Selectează un client"
+
+#: 
+msgid "Select Client"
+msgstr "Selectează client"
+
+#: 
+msgid "Select columns"
+msgstr "Selectează coloane"
+
+#: 
+msgid "Select Contact"
+msgstr "Select Contact"
+
+#: 
+msgid "Select date"
+msgstr "Select date"
+
+#: 
+msgid "Select Due Date"
+msgstr "Selectează data scadentă"
+
+#: 
+msgid "Select email address"
+msgstr "Selectează adresa de email"
+
+#: 
+msgid "select files from your computer"
+msgstr "selectează fișiere din computerul tău"
+
+#: 
+msgid "Select item"
+msgstr "Select item"
+
+#: 
+msgid "Select or type email address"
+msgstr "Selectează sau scrie adresa de email"
+
+#: 
+msgid "Select project"
+msgstr "Selectează proiect"
+
+#: 
+msgid "Select Project"
+msgstr "Selectează proiect"
+
+#: 
+msgid "Select Report Parameters"
+msgstr "Selectează parametrii raportului"
+
+#: 
+msgid "Select Report parameters for client"
+msgstr "Selectează parametrii rapoarte pentru clienți:"
+
+#: 
+msgid "Select Task"
+msgstr "Selectează sarcina"
+
+#: 
+msgid "Select Task List"
+msgstr "Selectează lista de sarcini"
+
+#: 
+msgid "Select Task Lists"
+msgstr "Salvează lista de sarcini"
+
+#: 
+msgid "Select tasklist"
+msgstr "Selectează listă de sarcini"
+
+#: 
+msgid "Select Tasklist"
+msgstr "Salvează lista de sarcini"
+
+#: 
+msgid "Select Tasks for client"
+msgstr "Selectează sarcini pentru client"
+
+#: 
+msgid "Select template"
+msgstr "Selectează șablon"
+
+#: 
+msgid "Select Template"
+msgstr "Selectează șablon"
+
+#: 
+msgid "Select the template name"
+msgstr "Selectează numele șablonului"
+
+#: 
+msgid "Select Type"
+msgstr "Selectează tip"
+
+#: 
+msgid "Select User"
+msgstr "Selectează utilizatorul"
+
+#: 
+msgid "Select Users"
+msgstr "Selectează utilizatorii"
+
+#: 
+msgid "Selected"
+msgstr "Selectat"
+
+#: 
+msgid "Send"
+msgstr "Trimite"
+
+#: 
+msgid "Send Automatically"
+msgstr "Trimite automat"
+
+#: 
+msgid "Send email alert when threshold is reached"
+msgstr "Trimite alertă prin e-mail când pragul este atins"
+
+#: 
+msgid "Send Estimate"
+msgstr "Trimite proformă"
+
+#: 
+msgid "Send Invites"
+msgstr "Trimite invitații"
+
+#: 
+msgid "Send invoice"
+msgstr "Trimite factură"
+
+#: 
+msgid "Send Invoice"
+msgstr "Trimite factură"
+
+#: 
+msgid "Send invoices"
+msgstr "Trimite facturi"
+
+#: 
+msgid "Send Invoices"
+msgstr "Trimite facturi"
+
+#: 
+msgid "Send Notification"
+msgstr "Trimite notificare"
+
+#: 
+msgid "Send Reminder"
+msgstr "Trimite notificare"
+
+#: 
+msgid "Send reminder if user is assigned to milestone"
+msgstr "Trimite notificare dacă un utilizator este asignat unui obiectiv"
+
+#: 
+msgid "Send reminder when milestone is due"
+msgstr "Trimite notificare când un obiectiv e scadent"
+
+#: 
+msgid "Sending is allowed to max 2 email addresses other than client's."
+msgstr "Trimiterea este permisă la max 2 adrese de email în afara de cea a clienților."
+
+#: 
+msgid "sent"
+msgstr "trimisă"
+
+#: 
+msgid "Sent by"
+msgstr "Trimis de"
+
+#: 
+msgid "September"
+msgstr "Septembrie"
+
+#: 
+msgid "service to quickbooks"
+msgstr "service to quickbooks"
+
+#: 
+msgid "Set"
+msgstr "Setează"
+
+#: 
+msgid "Set budget hours"
+msgstr "Setează bugetul de ore"
+
+#: 
+msgid "Set Dates"
+msgstr "Setează datele"
+
+#: 
+msgid "Set Priority"
+msgstr "Setează prioritatea"
+
+#: 
+msgid "Set Project Status"
+msgstr "Set Project Status"
+
+#: 
+msgid "Set status"
+msgstr "Set status"
+
+#: 
+msgid "Set User Status"
+msgstr "Set User Status"
+
+#: 
+msgid "Settings"
+msgstr "Setări"
+
+#: 
+msgid "Settings for"
+msgstr "Setări pentru"
+
+#: 
+msgid "Share"
+msgstr "Partajează"
+
+#: 
+msgid "Share documents, spreadsheets, PDFs, images or other files related to the project with other members of your team by adding them to the \"Files\" section. While there's no storage limit, the file size is limited to 100MB."
+msgstr "Partajează documente, foi de Excel, PDF-uri, imagini sau alte fișiere legate de proiect cu alți membri din echipa ta adaugându-le la secțiunea \"Fișiere\". Nu există o limită de stocare, însă dimensiunea fișierelor e limitată la 100MB."
+
+#: 
+msgid "Share note:"
+msgstr "Partajează notița:"
+
+#: 
+msgid "Share Report"
+msgstr "Share Report"
+
+#: 
+msgid "Share via E-mail"
+msgstr "Share via E-mail"
+
+#: 
+msgid "Share with client"
+msgstr "Distribuie clientului"
+
+#: 
+msgid "Share with everyone"
+msgstr "Partajează cu toată lumea"
+
+#: 
+msgid "Share with Users"
+msgstr "Share with Users"
+
+#: 
+msgid "shared"
+msgstr "partajat"
+
+#: 
+msgid "Shared"
+msgstr "Distribuit"
+
+#: 
+msgid "Shared by me"
+msgstr "Partajat de mine"
+
+#: 
+msgid "Shared by others"
+msgstr "Partajat de alții"
+
+#: 
+msgid "Shared note"
+msgstr "Notiță partajată"
+
+#: 
+msgid "Shared with"
+msgstr "Shared with"
+
+#: 
+msgid "Shared with client"
+msgstr "Shared with client"
+
+#: 
+msgid "Shared with team"
+msgstr "Shared with team"
+
+#: 
+msgid "Sharing"
+msgstr "Partajează"
+
+#: 
+msgid "Show"
+msgstr "Afișează"
+
+#: 
+msgid "Show all"
+msgstr "Arată tot"
+
+#: 
+msgid "show archived"
+msgstr "afișează arhivate"
+
+#: 
+msgid "show archived projects"
+msgstr "afișează proiectele arhivate"
+
+#: 
+msgid "Show Archived Projects"
+msgstr "Afișează proiecte arhivate"
+
+#: 
+msgid "Show Archived Users"
+msgstr "Afișează utilizatori arhivați"
+
+#: 
+msgid "Show Availability"
+msgstr "Show Availability"
+
+#: 
+msgid "Show Backlog"
+msgstr "Afișează backlog"
+
+#: 
+msgid "Show Card Details"
+msgstr "Afișează detalii card"
+
+#: 
+msgid "Show Columns"
+msgstr "Afișează coloane"
+
+#: 
+msgid "Show filter bar"
+msgstr "Afișează bara de filtrare"
+
+#: 
+msgid "Show Less Items"
+msgstr "Afișează mai puține elemente"
+
+#: 
+msgid "Show Less Options"
+msgstr "Show Less Options"
+
+#: 
+msgid "Show More Options"
+msgstr "Show More Options"
+
+#: 
+msgid "Show More Users"
+msgstr "Show More Users"
+
+#: 
+msgid "Show Strikethrough for completed tasks"
+msgstr "Afișează sarcinile terminate printr-o linie tăiată"
+
+#: 
+msgid "Show Task Details"
+msgstr "Afișează detallile sarcinii"
+
+#: 
+msgid "Show Timer"
+msgstr "Afișează cronometru"
+
+#: 
+msgid "Sick Leave"
+msgstr "Concediu de boală"
+
+#: 
+msgid "Simple"
+msgstr "Simplă"
+
+#: 
+msgid "Simple List"
+msgstr "Listă simplă"
+
+#: 
+msgid "Simple View"
+msgstr "Vedere simplă"
+
+#: 
+msgid "Size"
+msgstr "Mărime"
+
+#: 
+msgid "Skip"
+msgstr "Sari peste"
+
+#: 
+msgid "Skip for now"
+msgstr "Sari peste"
+
+#: 
+msgid "Skip, explore on my own"
+msgstr "Skip, explore on my own"
+
+#: 
+msgid "Skype"
+msgstr "Skype"
+
+#: 
+msgid "Snap Interval"
+msgstr "Snap Interval"
+
+#: 
+msgid "Some data are not valid."
+msgstr "Unele date nu sunt valabile."
+
+#: 
+msgid "Some expenses can not be added because of being in another currency"
+msgstr "Unele cheltuieli nu pot fi adăugate pentru că sunt în alte valute"
+
+#: 
+msgid "Something went wrong while trying to export the invoice."
+msgstr "Something went wrong while trying to export the invoice."
+
+#: 
+msgid "Something went wrong."
+msgstr "Something went wrong."
+
+#: 
+msgid "Source"
+msgstr "Sursa"
+
+#: 
+msgid "Split"
+msgstr "Divizează"
+
+#: 
+msgid "SSL data encryption"
+msgstr "Criptare date SSL"
+
+#: 
+msgid "SSL type"
+msgstr "Tip SSL"
+
+#: 
+msgid "st"
+msgstr "st"
+
+#: 
+msgid "start"
+msgstr "start"
+
+#: 
+msgid "Start - End date"
+msgstr "Data de început - sfârșit"
+
+#: 
+msgid "Start & End"
+msgstr "Început și sfârșit"
+
+#: 
+msgid "Start Date"
+msgstr "Data de început"
+
+#: 
+msgid "Start Date field is required"
+msgstr "Câmp data de început necesar"
+
+#: 
+msgid "Start Hour"
+msgstr "Oră de începere"
+
+#: 
+msgid "Start Time"
+msgstr "Timpul de începere"
+
+#: 
+msgid "Start Timer"
+msgstr "Pornește cronometru"
+
+#: 
+msgid "Start your free 15 day trial"
+msgstr "Începe contul tău gratuit de 15 zile"
+
+#: 
+msgid "Start-End Hour"
+msgstr "Oră de început - sfârșit"
+
+#: 
+msgid "started at"
+msgstr "started at"
+
+#: 
+msgid "started by"
+msgstr "început de"
+
+#: 
+msgid "started on"
+msgstr "started on"
+
+#: 
+msgid "started working on"
+msgstr "started working on"
+
+#: 
+msgid "Starting a new timer will stop work for the current task"
+msgstr "Pornind din nou cronometrul acesta va opri munca pentru sarcina curentă"
+
+#: 
+msgid "State"
+msgstr "Stat/Judeţ"
+
+#: 
+msgid "static"
+msgstr "static"
+
+#: 
+msgid "Static"
+msgstr "Static"
+
+#: 
+msgid "Static Reports"
+msgstr "Raport static"
+
+#: 
+msgid "Statuses for Active Projects"
+msgstr "Statut pentru proiecte active"
+
+#: 
+msgid "Statuses for Archived Projects"
+msgstr "Statut pentru proiecte arhivate"
+
+#: 
+msgid "Stopwatch"
+msgstr "Stopwatch"
+
+#: 
+msgid "stopwatch time entry"
+msgstr "înregistrare timp cronometru"
+
+#: 
+msgid "Su"
+msgstr "Su"
+
+#: 
+msgid "Subject"
+msgstr "Subiect"
+
+#: 
+msgid "Submit Feedback"
+msgstr "Trimite feedback"
+
+#: 
+msgid "Subscription and Billing"
+msgstr "Abonament"
+
+#: 
+msgid "Subscription error"
+msgstr "Eroare la abonare"
+
+#: 
+msgid "Subtask Name"
+msgstr "Nume sarcină secundară"
+
+#: 
+msgid "Subtasks Number"
+msgstr "Subtasks Number"
+
+#: 
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: 
+msgid "Success"
+msgstr "Succes"
+
+#: 
+msgid "suggested"
+msgstr "sugerate"
+
+#: 
+msgid "Sunday"
+msgstr "Duminică"
+
+#: 
+msgid "Switch Views"
+msgstr "Switch Views"
+
+#: 
+msgid "Switching the language will reload the page. Reload now?"
+msgstr "Schimbarea limbii va reîncărca pagina. Reîncarcă acum?"
+
+#: 
+msgid "Symbols"
+msgstr "Symbols"
+
+#: 
+msgid "Table"
+msgstr "Tabel"
+
+#: 
+msgid "table column widths"
+msgstr "table column widths"
+
+#: 
+msgid "Table View"
+msgstr "Vedere tabel"
+
+#: 
+msgid "Tag"
+msgstr "Tag"
+
+#: 
+msgid "Tag was not found"
+msgstr "Tag was not found"
+
+#: 
+msgid "Tags"
+msgstr "Tag-uri"
+
+#: 
+msgid "Target"
+msgstr "Țintă"
+
+#: 
+msgid "task"
+msgstr "sarcină"
+
+#: 
+msgid "Task actions"
+msgstr "Acțiunile sarcinilor"
+
+#: 
+msgid "Task Activated"
+msgstr "Sarcină activată"
+
+#: 
+msgid "Task attachments are uploaded"
+msgstr "Task attachments are uploaded"
+
+#: 
+msgid "Task Auto-Scheduling gap settings (days)"
+msgstr "Programare automată a distanței dintre sarcini (în zile)"
+
+#: 
+msgid "Task Billing Type"
+msgstr "Task Billing Type"
+
+#: 
+msgid "Task Budget Hours"
+msgstr "Bugetul de ore al sarcinii"
+
+#: 
+msgid "Task Complete"
+msgstr "Sarcină terminată"
+
+#: 
+msgid "Task Completed"
+msgstr "Sarcină terminată"
+
+#: 
+msgid "Task Completed on"
+msgstr "Sarcina terminată la"
+
+#: 
+msgid "Task Dates"
+msgstr "Datele sarcinii"
+
+#: 
+msgid "Task Description"
+msgstr "Descrierea sarcinii"
+
+#: 
+msgid "Task Description & Files"
+msgstr "Descriere sarcini și fișiere"
+
+#: 
+msgid "Task Details"
+msgstr "Detaliile sarcinii"
+
+#: 
+msgid "Task Files"
+msgstr "Fișierele sarcinilor"
+
+#: 
+msgid "task hourly rate"
+msgstr "tarif orar sarcină"
+
+#: 
+msgid "Task ID"
+msgstr "ID sarcină"
+
+#: 
+msgid "Task is completed"
+msgstr "Task is completed"
+
+#: 
+msgid "Task list created"
+msgstr "Task list created"
+
+#: 
+msgid "Task List does not exist. Click on the + icon to add it"
+msgstr "Lista de sarcini nu există. Click pe iconița + pentru a o adăuga"
+
+#: 
+msgid "Task List name, and the Description"
+msgstr "Numele și descrierea listei de sarcinii"
+
+#: 
+msgid "Task Lists"
+msgstr "Liste de sarcini"
+
+#: 
+msgid "Task not found"
+msgstr "Sarcina nu a fost găsită"
+
+#: 
+msgid "Task priority is changed"
+msgstr "Task priority is changed"
+
+#: 
+msgid "Task Scheduling"
+msgstr "Programarea sarcinilor"
+
+#: 
+msgid "Task status is changed"
+msgstr "Task status is changed"
+
+#: 
+msgid "Task successfully deleted."
+msgstr "Task successfully deleted."
+
+#: 
+msgid "tasklist"
+msgstr "lista de sarcini"
+
+#: 
+msgid "Tasklists"
+msgstr "Liste de sarcini"
+
+#: 
+msgid "tasks"
+msgstr "sarcini"
+
+#: 
+msgid "Tasks"
+msgstr "Sarcini"
+
+#: 
+msgid "Tasks & Files"
+msgstr "Sarcini și fișiere"
+
+#: 
+msgid "Tasks import complete"
+msgstr "Import de sarcini terminate"
+
+#: 
+msgid "Tasks View"
+msgstr "Vedere sarcini"
+
+#: 
+msgid "Tax"
+msgstr "Taxă"
+
+#: 
+msgid "Tax Code"
+msgstr "Tax Code"
+
+#: 
+msgid "Tax must be set up in Quickbooks"
+msgstr "Tax must be set up in Quickbooks"
+
+#: 
+msgid "Team access"
+msgstr "Team access"
+
+#: 
+msgid "Team Members"
+msgstr "Team Members"
+
+#: 
+msgid "Team Scheduling"
+msgstr "Programarea echipei"
+
+#: 
+msgid "Team's Tasks"
+msgstr "Sarcinile echipei"
+
+#: 
+msgid "Template"
+msgstr "Șablon"
+
+#: 
+msgid "Template created"
+msgstr "Template created"
+
+#: 
+msgid "Template deleted"
+msgstr "Template deleted"
+
+#: 
+msgid "Template Name"
+msgstr "Nume șablon"
+
+#: 
+msgid "Template Saved"
+msgstr "Șablon salvat"
+
+#: 
+msgid "Template updated"
+msgstr "Template updated"
+
+#: 
+msgid "Templates"
+msgstr "Şabloane"
+
+#: 
+msgid "Test Connection"
+msgstr "Testează conexiunea"
+
+#: 
+msgid "Text"
+msgstr "Text"
+
+#: 
+msgid "Text Report"
+msgstr "Raport text"
+
+#: 
+msgid "th"
+msgstr "th"
+
+#: 
+msgid "Th"
+msgstr "Th"
+
+#: 
+msgid "Thank you for the time you've spent with us!"
+msgstr "Thank you for the time you've spent with us!"
+
+#: 
+msgid "Thank you for your support!"
+msgstr "Îți mulțumim pentru susținere!"
+
+#: 
+msgid "The billing type of the project was changed. All tasks will be reset to \"non-billable\" status. Do you want to proceed?"
+msgstr "Tipul de facturare al proiectului a fost schimbat. Toate sarcinile vor fi resetate ca și \"nefacturabile\". Dorești să continui?"
+
+#: 
+msgid "The billing type of the project was changed. All tasks will keep their invoiced status. Do you want to proceed?"
+msgstr "The billing type of the project was changed. All tasks will keep their invoiced status. Do you want to proceed?"
+
+#: 
+msgid "The cells value can be one of the following:"
+msgstr "Valorea din celule paote fi una din următoarele:"
+
+#: 
+msgid "The current client has active recurring invoices set up. Archiving the client will disable any recurring invoice profiles and invoices will no longer be sent"
+msgstr "Actualul client are funcția de facturi recurente active selectată. Arhivarea acestui client va dezactiva orice profil al facturilor recurent și facturile nu vor mai fi trimise."
+
+#: 
+msgid "The discussion has not been saved yet. Are you sure you want to discard the current discussion?"
+msgstr "Discuția nu a fost salvată încă. Ești sigur că dorești să anulezi discuția curentă?"
+
+#: 
+msgid "The Estimated price column shows you the estimated price for a certain task"
+msgstr "Coloana cu prețul estimat afișează prețul estimat pentru o anumită sarcină"
+
+#: 
+msgid "The following Workflows will be merged:"
+msgstr "The following Workflows will be merged:"
+
+#: 
+msgid "The invoice below was generated based on the following timesheet report"
+msgstr "Factura de mai jos a fost generată în baza următorului raport de pontaj"
+
+#: 
+msgid "The invoice section allows you to visualize, export as PDF and print your Paymo invoices. You can filter them by using the \"Show\" button on the top left corner."
+msgstr "Secțiunea de facturare îți permite să vizualizezi, exporți ca și PDF si printezi facturile tale Paymo. Le poți filtra folosind butonul de Afișează în colțul din stânga sus."
+
+#: 
+msgid "The Item field will contain the"
+msgstr "Câmpul Element va conține"
+
+#: 
+msgid "The mobile apps are designed for tracking time on the go, even if offline. Go mobile and be productive with this app that runs on iOS and Android devices. The main features are:"
+msgstr "Aplicațiile de mobil sunt create pentru a înregistra timpul și în afara biroului, chiar și offline. Optează pentru varianta mobilă și devin-o productiv cu această aplicație care funcționează pe dispozitive iOS și Android. Principalele funcționalități sunt:"
+
+#: 
+msgid "The project you are about to archive has unbilled AR, archived projects are ignored during billing. Are you sure you want to archive this project?"
+msgstr "Proiectul pe care urmează să îl arhivezi are creanțe de încasat nefacturate, proiectele arhivate sunt ignorate în timpul facutrării. Ești sigur că dorești să arhivezi acest proiect?"
+
+#: 
+msgid "The projects you are about to archive have unbilled AR, archived projects are ignored during billing. Are you sure you want to archive this projects?"
+msgstr "Proiectul pe care urmează să îl arhivezi are creanțe de încasat, proiectele arhivate sunt ignorate în timpul facturării. Ești sigur că dorești să arhivezi acest proiect?"
+
+#: 
+msgid "The reports section allows you to visualize as barchart/piechart, export as PDF/Excel your Paymo reports. You can filter them by using the \"Show\" button on the top left corner."
+msgstr "Secțiunea de rapoarte îți permite să vizualizezi rapoartele sub forma de diagrama radială/cu bare și să le exportți în PDF/Excel. Le poți filtra folosind butonul de Afișează în colțul din stânga sus."
+
+#: 
+msgid "The selected Project is no longer valid!"
+msgstr "Proiectul selectat nu mai este valabil!"
+
+#: 
+msgid "The task has been deleted, marked as completed or you are no longer assigned to this task or corresponding project"
+msgstr "Sarcina a fost ștearsă, marcată ca terminată sau nu mai ești asignat acestei sarcini sau proiectului corespunzător"
+
+#: 
+msgid "The task has not been saved yet. Are you sure you want to discard the current task?"
+msgstr "Sarcina nu a fost salvată încă. Ești sigur că dorești să anulezi sarcina curentă?"
+
+#: 
+msgid "The task no longer exists"
+msgstr "The task no longer exists"
+
+#: 
+msgid "Theme"
+msgstr "Temă"
+
+#: 
+msgid "Theme Name"
+msgstr "Nume temă"
+
+#: 
+msgid "then include & group by"
+msgstr "apoi include și grupează după"
+
+#: 
+msgid "There are no critical tasks"
+msgstr "Nu există sarcini critice"
+
+#: 
+msgid "There are no future tasks"
+msgstr "Nu există sarcini viitoare"
+
+#: 
+msgid "There are no high-priority tasks"
+msgstr "Nu există sarcini cu prioritate ridicată"
+
+#: 
+msgid "There are no low-priority tasks"
+msgstr "Nu există sarcini cu prioritate redusă"
+
+#: 
+msgid "There are no normal-priority tasks"
+msgstr "Nu există sarcini cu prioritate normală"
+
+#: 
+msgid "There are no projects for this client"
+msgstr "Nu există proiecte pentru acest client"
+
+#: 
+msgid "There are no records to show you right now. There may be no records in the database or your filters may be too tightly defined."
+msgstr "Nu există înregistrări de afișat momentan. S-ar putea să nu existe înregistrări în baza ta de date sau filtrele să fie prea bine definite."
+
+#: 
+msgid "There are no tasks due later this week"
+msgstr "Nu există sarcini scadente săptămâna aceasta"
+
+#: 
+msgid "There are no tasks due today"
+msgstr "Nu există sarcini scadente azi"
+
+#: 
+msgid "There are no tasks due tomorrow"
+msgstr "Nu există sarcini scadente mâine"
+
+#: 
+msgid "There are no tasks to display"
+msgstr "There are no tasks to display"
+
+#: 
+msgid "There are no tasks without a due date"
+msgstr "Nu există sarcini fără o dată scadentă"
+
+#: 
+msgid "There are no tasks yet"
+msgstr "Nu există sarcini încă"
+
+#: 
+msgid "There's no data to show you right now. There may be no items yet or your filters may be too tightly defined (try clicking the icons above to see active filters)."
+msgstr "Nu există date disponibile pentru moment. S-ar putea să nu existe elemente sau filtrele tale să fie mult prea bine definite (încearcă să dai click pe icon-urile de mai sus pentru a vedea filtrele active)."
+
+#: 
+msgid "There's no data to show you right now. There may be no items yet or your filters may be too tightly defined."
+msgstr "Nu există date disponibile pentru moment. S-ar putea să nu existe elemente sau filtrele tale să fie mult prea bine definite."
+
+#: 
+msgid "This action is irreversible."
+msgstr "Această acțiune este ireversibilă."
+
+#: 
+msgid "This application has an update. Do you want to reload it now?"
+msgstr "O actualizare de aplicație este disponibilă. Dorești să reîncarci acum?"
+
+#: 
+msgid "This Browser doesn't support drag&drop"
+msgstr "Browserul nu suportă funcția de glisare și fixare"
+
+#: 
+msgid "This client has unbilled AR. When billing, archived projects are ignored. Are you sure you want to archive this client?"
+msgstr "Clientul are creanțe de încasat. În timpul facturării, proiectele arhivate sunt ignorate. Ești sigur că vrei să arhivezi acest client?"
+
+#: 
+msgid "This email address already exists:"
+msgstr "Această adresă de email există deja:"
+
+#: 
+msgid "This expense has already been invoiced. Continue to editing?"
+msgstr "Cheltuiala a fost deja facturată. Continui să editezi?"
+
+#: 
+msgid "This feature is not available for Microsoft Edge. Please use a different browser."
+msgstr "Această funcție nu este disponibilă pentru Microsoft Edge. Te rog folosește alt browser."
+
+#: 
+msgid "this field is required"
+msgstr "acest câmp este necesat"
+
+#: 
+msgid "This may be caused by:"
+msgstr "This may be caused by:"
+
+#: 
+msgid "This month"
+msgstr "În această lună"
+
+#: 
+msgid "This Month"
+msgstr "Luna curentă"
+
+#: 
+msgid "This note will be included into the email sent to your customer."
+msgstr "Această notiță va fi inclusă in emailul trimis clientului tau."
+
+#: 
+msgid "This note will be shared with all users in your account. Additionally you can share it (read only) with people outside the system via the following permalink."
+msgstr "Notița va fi partajată cu toți utilizatorii contului tău. În plus, poți să o partajezi (numai pentru citire) cu oameni din afara sistemului prin linkul permanenet următor."
+
+#: 
+msgid "This value will be used to determine the default end date for tasks created by the recurrence. Use the value 0 for tasks that start and end on the same date."
+msgstr "This value will be used to determine the default end date for tasks created by the recurrence. Use the value 0 for tasks that start and end on the same date."
+
+#: 
+msgid "This week"
+msgstr "Săptămâna aceasta"
+
+#: 
+msgid "This Week"
+msgstr "Săptămâna aceasta"
+
+#: 
+msgid "This will restore application default settings"
+msgstr "Aceasta va restaura setările de bază"
+
+#: 
+msgid "Thousands Separator"
+msgstr "Separator de mii"
+
+#: 
+msgid "Thursday"
+msgstr "Joi"
+
+#: 
+msgid "time"
+msgstr "time"
+
+#: 
+msgid "Time"
+msgstr "Timp"
+
+#: 
+msgid "Time & Materials"
+msgstr "Time & Materials"
+
+#: 
+msgid "Time & Materials Project"
+msgstr "Proiect timp și materiale"
+
+#: 
+msgid "Time Budget Alert:"
+msgstr "Alertă buget de timp:"
+
+#: 
+msgid "Time Costs"
+msgstr "Costuri de timp"
+
+#: 
+msgid "Time Entries"
+msgstr "Înregistrări de timp lucrat"
+
+#: 
+msgid "Time Entries & Reports"
+msgstr "Înregistrări de timp și rapoarte"
+
+#: 
+msgid "Time Entry Layout"
+msgstr "Time Entry Layout"
+
+#: 
+msgid "Time Entry Notes"
+msgstr "Notițe înregistrări de timp"
+
+#: 
+msgid "Time Format"
+msgstr "Format oră"
+
+#: 
+msgid "Time interval"
+msgstr "Interval de timp"
+
+#: 
+msgid "Time Interval"
+msgstr "Interval de timp"
+
+#: 
+msgid "time off"
+msgstr "timp liber"
+
+#: 
+msgid "Time off"
+msgstr "Timp liber"
+
+#: 
+msgid "Time Off"
+msgstr "Timp liber"
+
+#: 
+msgid "Time period"
+msgstr "Time period"
+
+#: 
+msgid "Time Previous Month"
+msgstr "Timp luna precedentă"
+
+#: 
+msgid "Time Reports"
+msgstr "Rapoarte timp"
+
+#: 
+msgid "Time Reports View"
+msgstr "Vedere rapoarte timp"
+
+#: 
+msgid "Time spent (Hours)"
+msgstr "Timp petrecut (ore)"
+
+#: 
+msgid "Time spent on project"
+msgstr "Timp lucrat pe proiect"
+
+#: 
+msgid "Time This Month"
+msgstr "Timpul pe luna aceasta"
+
+#: 
+msgid "Time worked"
+msgstr "Timp lucrat"
+
+#: 
+msgid "Time worked/project"
+msgstr "Timp lucrat/proiect"
+
+#: 
+msgid "Time Zone"
+msgstr "Fus orar"
+
+#: 
+msgid "Time-based"
+msgstr "Bazat pe timp"
+
+#: 
+msgid "Time:"
+msgstr "Time:"
+
+#: 
+msgid "Timeline Scale"
+msgstr "Timeline Scale"
+
+#: 
+msgid "Timer stopped automatically"
+msgstr "Cronometrul oprit automat"
+
+#: 
+msgid "times"
+msgstr "times"
+
+#: 
+msgid "Timesheet"
+msgstr "Timesheet"
+
+#: 
+msgid "Timesheet Report generated with"
+msgstr "Raportul fișei de pontaj generat cu"
+
+#: 
+msgid "Timesheet report name & type"
+msgstr "Nume și tip raport fișă de pontaj"
+
+#: 
+msgid "Timesheet Settings"
+msgstr "Timesheet Settings"
+
+#: 
+msgid "Timesheets"
+msgstr "Fișă de pontaj"
+
+#: 
+msgid "Timespan"
+msgstr "Interval de timp"
+
+#: 
+msgid "Timezone"
+msgstr "Fus orar"
+
+#: 
+msgid "Title"
+msgstr "Titlu"
+
+#: 
+msgid "to"
+msgstr "până la"
+
+#: 
+msgid "To add a new invoice, you need at least one client. Press \"Redirect\" to go to the Clients section."
+msgstr "To add a new invoice, you need at least one client. Press \"Redirect\" to go to the Clients section."
+
+#: 
+msgid "To add time please switch the view to the specific month"
+msgstr "Pentru a adăuga timp te rog schimbă vederea pentru luna specifică."
+
+#: 
+msgid "To attach files drag & drop here or"
+msgstr "Pentru a atașa fișiere glisează și fixează aici sau"
+
+#: 
+msgid "To Do"
+msgstr "De făcut"
+
+#: 
+msgid "To Google Drive"
+msgstr "În Google Drive"
+
+#: 
+msgid "To see the changes you need to refresh this page."
+msgstr "Pentru a vizualiza schimbările trebuie să reîncarci pagina."
+
+#: 
+msgid "To use Gantt Charts you need to upgrade your current subscription. Please get the Gantt Charts add-on clicking the button below"
+msgstr "Pentru a folosi diagramele Gantt ai nevoie să îți actualizezi abonamentul actual. Te rog cumpără modulul de diagrame Gantt făcând click pe butonul de mai jos"
+
+#: 
+msgid "To window"
+msgstr "La fereastră"
+
+#: 
+msgid "today"
+msgstr "azi"
+
+#: 
+msgid "Today Marker"
+msgstr "Marcator astăzi"
+
+#: 
+msgid "Toggle Complete State"
+msgstr "Schimbă între terminat/neterminat"
+
+#: 
+msgid "Too many bugs"
+msgstr "Prea multe erori"
+
+#: 
+msgid "Top"
+msgstr "Top"
+
+#: 
+msgid "Top 3 Clients"
+msgstr "Top 3 clienți"
+
+#: 
+msgid "Top 3 Projects"
+msgstr "Top 3 proiecte"
+
+#: 
+msgid "Top Clients"
+msgstr "Top clienți"
+
+#: 
+msgid "Top Projects"
+msgstr "Top proiecte"
+
+#: 
+msgid "topic"
+msgstr "temă"
+
+#: 
+msgid "Topic Description"
+msgstr "Descriere temă"
+
+#: 
+msgid "Topic name"
+msgstr "Numele temei"
+
+#: 
+msgid "Topic Name"
+msgstr "Nume temă"
+
+#: 
+msgid "total"
+msgstr "total"
+
+#: 
+msgid "Total"
+msgstr "Total"
+
+#: 
+msgid "Total Comments"
+msgstr "Comentarii totale"
+
+#: 
+msgid "total days"
+msgstr "total days"
+
+#: 
+msgid "Total Due"
+msgstr "Total de plată"
+
+#: 
+msgid "total estimated"
+msgstr "total estimat"
+
+#: 
+msgid "Total Files"
+msgstr "Fișiere totale"
+
+#: 
+msgid "Total Hours"
+msgstr "Total ore"
+
+#: 
+msgid "Total Hours:"
+msgstr "Număr total ore:"
+
+#: 
+msgid "Total Invoices"
+msgstr "Total facturi"
+
+#: 
+msgid "Total Invoices Sent"
+msgstr "Număr total de facturi trimise"
+
+#: 
+msgid "Total number of selected projects"
+msgstr "Total number of selected projects"
+
+#: 
+msgid "total time"
+msgstr "timp total"
+
+#: 
+msgid "Total tracked time"
+msgstr "Timp total înregistrat"
+
+#: 
+msgid "Totals"
+msgstr "Totaluri"
+
+#: 
+msgid "Tracked Time"
+msgstr "Timp contorizat"
+
+#: 
+msgid "Transaction Key"
+msgstr "Cheie de tranzacție"
+
+#: 
+msgid "Trial ends in {0} days"
+msgstr "Perioada de testare se termină în {0} zile"
+
+#: 
+msgid "Tu"
+msgstr "Tu"
+
+#: 
+msgid "Tuesday"
+msgstr "Marți"
+
+#: 
+msgid "Unassigned"
+msgstr "Neasociat"
+
+#: 
+msgid "Unassigned Tasks"
+msgstr "Sarcini neasociate"
+
+#: 
+msgid "unbilled"
+msgstr "nefacturat"
+
+#: 
+msgid "Unbilled Acc. Receivable"
+msgstr "Creanțe de incasat nefacturate"
+
+#: 
+msgid "Unbilled Accounts Receivable"
+msgstr "Creanțe de încasat nefacturabile"
+
+#: 
+msgid "Unbilled AR"
+msgstr "Creanțe de încasat"
+
+#: 
+msgid "Unbilled Costs"
+msgstr "Costuri nefacturabile"
+
+#: 
+msgid "Unbilled Hours"
+msgstr "Ore nefacturate"
+
+#: 
+msgid "Unbilled Time"
+msgstr "Timp nefacturat"
+
+#: 
+msgid "Unbilled Work"
+msgstr "Unbilled Work"
+
+#: 
+msgid "Uncheck archived to enable"
+msgstr "Debifați arhivarea pentru a activa"
+
+#: 
+msgid "Under-performing"
+msgstr "Mai puțin productivi"
+
+#: 
+msgid "Ungroup"
+msgstr "Degrupează"
+
+#: 
+msgid "Ungroup Tasks"
+msgstr "Degrupează sarcinile"
+
+#: 
+msgid "Ungrouped"
+msgstr "Negrupate"
+
+#: 
+msgid "uninvoiced"
+msgstr "nefacturat"
+
+#: 
+msgid "Uninvoiced"
+msgstr "Nefacturat"
+
+#: 
+msgid "Unknown"
+msgstr "Necunoscut"
+
+#: 
+msgid "Unknown client side encryption key"
+msgstr "Cheie client de criptare necunoscută"
+
+#: 
+msgid "Unknown form, please try again"
+msgstr "Formă necunoscută, te rog încearcă din nou"
+
+#: 
+msgid "Unknown Plan"
+msgstr "Plan necunoscut"
+
+#: 
+msgid "Unknown Reason"
+msgstr "Motiv necunoscut"
+
+#: 
+msgid "Unknown Task"
+msgstr "Sarcină necunoscută"
+
+#: 
+msgid "unlimited"
+msgstr "nelimitat"
+
+#: 
+msgid "unlimited budget"
+msgstr "buget nelimitat"
+
+#: 
+msgid "Unlimited invoices"
+msgstr "Facturi nelimitate"
+
+#: 
+msgid "Unlimited projects"
+msgstr "Proiecte nelimitate"
+
+#: 
+msgid "Unlimited users"
+msgstr "Utilizatori nelimitați"
+
+#: 
+msgid "unpaid"
+msgstr "neplătit"
+
+#: 
+msgid "Unpaid"
+msgstr "Unpaid"
+
+#: 
+msgid "Unpaid Balance"
+msgstr "Sold neplătit"
+
+#: 
+msgid "Unpaid Leave Days"
+msgstr "zile libere neplătite"
+
+#: 
+msgid "Unsaved Client"
+msgstr "Clienți nesalvați"
+
+#: 
+msgid "Unsaved Estimate"
+msgstr "Proforme nesalvate"
+
+#: 
+msgid "Unsaved Expense"
+msgstr "Cheltuieli nesalvate"
+
+#: 
+msgid "Unsaved Invoice"
+msgstr "Facturi nesalvate"
+
+#: 
+msgid "Unsaved Note"
+msgstr "Notițe nesalvate"
+
+#: 
+msgid "Unsaved Project"
+msgstr "Proiecte nesalvate"
+
+#: 
+msgid "Unsaved Recurring Profile"
+msgstr "Profiluri recurente nesalvate"
+
+#: 
+msgid "Unsaved Report"
+msgstr "Rapoarte nesalvate"
+
+#: 
+msgid "Unsaved User"
+msgstr "Utilizatori nesalvați"
+
+#: 
+msgid "Unscheduled Work"
+msgstr "Muncă neprogramată"
+
+#: 
+msgid "Unscheduled Work for"
+msgstr "Muncă neprogramată pentru"
+
+#: 
+msgid "Unused"
+msgstr "Nefolosit"
+
+#: 
+msgid "upcoming"
+msgstr "viitoare"
+
+#: 
+msgid "Upcoming"
+msgstr "Viitoare"
+
+#: 
+msgid "Update Booking"
+msgstr "Actualizează rezervare"
+
+#: 
+msgid "Update Company & User Settings"
+msgstr "Actualizează setările de companie și utilizator"
+
+#: 
+msgid "Update Company Settings"
+msgstr "Actualizează setări companie"
+
+#: 
+msgid "Update Entry"
+msgstr "Actualizează înregistrarea"
+
+#: 
+msgid "Update event to {0}"
+msgstr "Actualizează eveniment la {0}"
+
+#: 
+msgid "Update Milestone"
+msgstr "Actualizează obiectiv"
+
+#: 
+msgid "updated by"
+msgstr "actualizat de"
+
+#: 
+msgid "Updated by"
+msgstr "Actualizat de"
+
+#: 
+msgid "Upgrade Account"
+msgstr "Actualizează contul"
+
+#: 
+msgid "Upgrade now"
+msgstr "Actualizează acum"
+
+#: 
+msgid "Upgrade Subscription"
+msgstr "Actualizează abonamentul"
+
+#: 
+msgid "Upload"
+msgstr "Încarcă"
+
+#: 
+msgid "Upload Files"
+msgstr "Încarcă fișiere"
+
+#: 
+msgid "Upload Files to Google Drive"
+msgstr "Încarcă fișiere din Google Drive"
+
+#: 
+msgid "Upload Photo"
+msgstr "Upload Photo"
+
+#: 
+msgid "Uploaded"
+msgstr "Încărcat"
+
+#: 
+msgid "Uploaded by"
+msgstr "Încărcat de"
+
+#: 
+msgid "Uploading"
+msgstr "Se încarcă"
+
+#: 
+msgid "Usage"
+msgstr "Usage"
+
+#: 
+msgid "Use \"Agenda\" to get a detailed view of the time recorded by you or by the entire company. The top right icon allows you to determine which columns are shown or hidden."
+msgstr "Folosește \"Agenda\" pentru a primi o vedere detaliată a timpului înregistrat de tine sau întreaga companie. Iconița din colțul dreapta sus îți permite să determini ce coloane sunt afișate sau ascunse."
+
+#: 
+msgid "Use on of"
+msgstr "Utilizați pe"
+
+#: 
+msgid "Use Template"
+msgstr "Folosiți șabloane"
+
+#: 
+msgid "Use this section to communicate with your team by starting new topics, commenting on tasks or files and basically keep all discussions in one place."
+msgstr "Folosește această secțiune pentru a comunica cu echipa ta pornind noi teme, comentarii la sarcini sau fișiere.Păstrează toate discuțiile în același loc."
+
+#: 
+msgid "Use Weekends"
+msgstr "Folosește sfârșiturile de săptămână"
+
+#: 
+msgid "Used Budget"
+msgstr "Buget folosit"
+
+#: 
+msgid "Used by:"
+msgstr "Used by:"
+
+#: 
+msgid "Used Legal Leaves"
+msgstr "Used Legal Leaves"
+
+#: 
+msgid "user"
+msgstr "utilizator"
+
+#: 
+msgid "User Added"
+msgstr "Utilizator adăugat"
+
+#: 
+msgid "User Deleted"
+msgstr "Utilizator șters"
+
+#: 
+msgid "User Details"
+msgstr "Detalii utilizator"
+
+#: 
+msgid "User has been revoked."
+msgstr "User has been revoked."
+
+#: 
+msgid "user hourly rate"
+msgstr "tarif orar utilizator"
+
+#: 
+msgid "User is assigned to discussion"
+msgstr "User is assigned to discussion"
+
+#: 
+msgid "User is assigned to task"
+msgstr "User is assigned to task"
+
+#: 
+msgid "User is not assigned to the project this task belongs to"
+msgstr "Utilizatorul nu este asignat proiectului căruia îi aparține această sarcină"
+
+#: 
+msgid "User Leave"
+msgstr "Concediu utilizator"
+
+#: 
+msgid "User limit reached"
+msgstr "Limita utilizatorilor atinsă"
+
+#: 
+msgid "User not set."
+msgstr "Utilizator nesetat."
+
+#: 
+msgid "User Photo"
+msgstr "Poză utilizator"
+
+#: 
+msgid "User Photo Changed"
+msgstr "Fotografia utilizatorului schimbată"
+
+#: 
+msgid "User profile has not been saved yet. Would you like to save?"
+msgstr "User profile has not been saved yet. Would you like to save?"
+
+#: 
+msgid "User Role"
+msgstr "Rolul utilizatorului"
+
+#: 
+msgid "User Settings"
+msgstr "User Settings"
+
+#: 
+msgid "User settings modified"
+msgstr "User settings modified"
+
+#: 
+msgid "User settings saved"
+msgstr "User settings saved"
+
+#: 
+msgid "User tracked time"
+msgstr "User tracked time"
+
+#: 
+msgid "User Updated"
+msgstr "Utilizator actualizat"
+
+#: 
+msgid "User will choose password on first login"
+msgstr "Utilizatorul va seta parola la prima logare"
+
+#: 
+msgid "Username"
+msgstr "Utilizator"
+
+#: 
+msgid "Users"
+msgstr "Utilizatori"
+
+#: 
+msgid "Users assigned to tasks in selected template will be automatically assigned to this project after you click \"Save Project\""
+msgstr "Utilizatorii asignați unei sarcini din șablonul selectat vor fi automat asignați acestui proiect după ce dai click pe \"Salvează proiect\""
+
+#: 
+msgid "Users View"
+msgstr "Vedere utilizatori"
+
+#: 
+msgid "Using the custom SMTP settings option means that your clients will receive notifications and emails from your email address and not our Paymo notifications address."
+msgstr "Folosind setarea de SMTP personalizat înseamnă că toți clienții tăi vor primi notificări și emailuri de la adresa ta de email și nu de la adresa noastră de notificări Paymo."
+
+#: 
+msgid "Vacation"
+msgstr "Vacanță"
+
+#: 
+msgid "VAT Number"
+msgstr "Numărul de TVA"
+
+#: 
+msgid "Vendor"
+msgstr "Distribuitor"
+
+#: 
+msgid "Version"
+msgstr "Versiune"
+
+#: 
+msgid "Vertical Split"
+msgstr "Diviziune pe verticală"
+
+#: 
+msgid "Via Email"
+msgstr "Prin email"
+
+#: 
+msgid "via form"
+msgstr "prin formă"
+
+#: 
+msgid "via stopwatch"
+msgstr "prin cronometru"
+
+#: 
+msgid "View"
+msgstr "Vedere"
+
+#: 
+msgid "View All"
+msgstr "Vezi toate"
+
+#: 
+msgid "View Payments"
+msgstr "Vezi plăţi"
+
+#: 
+msgid "viewed"
+msgstr "vizualizat"
+
+#: 
+msgid "Viewed by client"
+msgstr "Vizualizat de client"
+
+#: 
+msgid "views the estimate via the permalink."
+msgstr "vizualizează proforma prin linkul permanent."
+
+#: 
+msgid "views the invoice via the permalink."
+msgstr "vizualizează factura prin linkul permanent."
+
+#: 
+msgid "VISA"
+msgstr "VISA"
+
+#: 
+msgid "void"
+msgstr "anulată"
+
+#: 
+msgid "Voided by"
+msgstr "Golit de"
+
+#: 
+msgid "We"
+msgstr "We"
+
+#: 
+msgid "We're going to show you how to add tasks"
+msgstr "We're going to show you how to add tasks"
+
+#: 
+msgid "Website"
+msgstr "Pagină web"
+
+#: 
+msgid "Wednesday"
+msgstr "Miercuri"
+
+#: 
+msgid "Week"
+msgstr "Săptămână"
+
+#: 
+msgid "Week {0}"
+msgstr "Săptămâna {0}"
+
+#: 
+msgid "Week Starts"
+msgstr "Săptămâna începe"
+
+#: 
+msgid "Week starts on"
+msgstr "Săptămâna începe"
+
+#: 
+msgid "week(s)"
+msgstr "week(s)"
+
+#: 
+msgid "Weekend"
+msgstr "Weekend"
+
+#: 
+msgid "Weekends"
+msgstr "Weekenduri"
+
+#: 
+msgid "weekly"
+msgstr "săptămânal"
+
+#: 
+msgid "Weeks"
+msgstr "Săptămâni"
+
+#: 
+msgid "Welcome"
+msgstr "Bun venit"
+
+#: 
+msgid "What your account contains:"
+msgstr "What your account contains:"
+
+#: 
+msgid "When"
+msgstr "Când"
+
+#: 
+msgid "when set limit reached"
+msgstr "when set limit reached"
+
+#: 
+msgid "When you add new users in your Paymo account you can decide what level of control they'll have: admin, project manager or regular user. You can give to a regular user more access by allowing him to add projects/expenses/estimates/invoices."
+msgstr "Când adaugi un nou utilizator în contul tău de Paymo poți decide ce nivel de control ai: administrator, manager de proiect sau utilizator. Poți da unui utilizator normal mai multe drepturi permițându-i să adauge proiecte/cheltuieli/proforme/facturi."
+
+#: 
+msgid "will appear on each page of invoices and estimates"
+msgstr "va apărea pe fiecare pagină a facturilor și proformelor"
+
+#: 
+msgid "will appear on the last page of an estimate"
+msgstr "va apărea pe ultima pagină a proformei"
+
+#: 
+msgid "will appear on the last page of an invoice"
+msgstr "va apărea pe ultima pagină a facturii"
+
+#: 
+msgid "will be deleted"
+msgstr "va fi șters"
+
+#: 
+msgid "Work"
+msgstr "Timp lucrat"
+
+#: 
+msgid "Workday"
+msgstr "Zi lucrătoare"
+
+#: 
+msgid "Workday & Local"
+msgstr "Workday & Local"
+
+#: 
+msgid "Workday End"
+msgstr "Ora de sfârşit a zilei de lucru"
+
+#: 
+msgid "Workday Length"
+msgstr "Durată zi lucrătoare"
+
+#: 
+msgid "Workday Start"
+msgstr "Ora de început a zilei de lucru"
+
+#: 
+msgid "Workday Start & End"
+msgstr "Zi lucrătoare început și sfârșit"
+
+#: 
+msgid "Worked"
+msgstr "Lucrat"
+
+#: 
+msgid "Worked from Total"
+msgstr "Lucrat din total"
+
+#: 
+msgid "Workflow added"
+msgstr "Workflow added"
+
+#: 
+msgid "Workflow created"
+msgstr "Workflow created"
+
+#: 
+msgid "Workflow deleted"
+msgstr "Workflow deleted"
+
+#: 
+msgid "Workflow status added"
+msgstr "Workflow status added"
+
+#: 
+msgid "Workflow status deleted"
+msgstr "Workflow status deleted"
+
+#: 
+msgid "Workflow status updated"
+msgstr "Workflow status updated"
+
+#: 
+msgid "Workflow statuses reordered"
+msgstr "Workflow statuses reordered"
+
+#: 
+msgid "Workflow updated"
+msgstr "Workflow updated"
+
+#: 
+msgid "Workflows"
+msgstr "Fluxuri de lucru"
+
+#: 
+msgid "Working day added"
+msgstr "Working day added"
+
+#: 
+msgid "Working Days"
+msgstr "Zilele lucrătoare"
+
+#: 
+msgid "Would you like to apply the same settings to your own user account?"
+msgstr "Ai dori să aplici acele setări contului tău de utilizator?"
+
+#: 
+msgid "Would you like to set this date as a working day?"
+msgstr "Vrei să setezi această dată ca zi de lucru?"
+
+#: 
+msgid "Would you mind telling us what made you cancel your subscription?"
+msgstr "Ai putea să ne spui ce te-a determinat să îți anulezi abonamentul?"
+
+#: 
+msgid "Wow, you're on a roll - you're now a Pro-Freelancer. Upgrade to the Small Office Plan for Unlimited Invoices, Estimates & Expenses + lots of other cool features like project templates, live timesheet reports and in-app support."
+msgstr "Wow, ești un freelancer profesionist acum. Treci la planul Small Office pentru a putea crea facturi, proforme și chetuieli nelimitate + o grămadă de alte funcționalități cool cum ar fi șabloane de proiect, rapoarte live ale fișei de pontaj și suport în aplicație."
+
+#: 
+msgid "Write a comment..."
+msgstr "Scrie un comentariu..."
+
+#: 
+msgid "Write the task name and click on \"Save Task\" or press Enter."
+msgstr "Write the task name and click on \"Save Task\" or press Enter."
+
+#: 
+msgid "Xero Account"
+msgstr "Xero Account"
+
+#: 
+msgid "Xero Authorization"
+msgstr "Xero Authorization"
+
+#: 
+msgid "Xero Contact"
+msgstr "Xero Contact"
+
+#: 
+msgid "Year"
+msgstr "An"
+
+#: 
+msgid "yearly"
+msgstr "anual"
+
+#: 
+msgid "Years"
+msgstr "Ani"
+
+#: 
+msgid "yes"
+msgstr "da"
+
+#: 
+msgid "Yes"
+msgstr "Da"
+
+#: 
+msgid "You are about to delete this Paymo Account."
+msgstr "You are about to delete this Paymo Account."
+
+#: 
+msgid "You are changing a recurring task profile"
+msgstr "You are changing a recurring task profile"
+
+#: 
+msgid "You can drag here to define the task period"
+msgstr "Poți fixa aici pentru a defini perioada sarcinii"
+
+#: 
+msgid "You can save the profile and send the invoice immediatelly by clicking Send. To save the profile without sending the invoice click Save."
+msgstr "Poți salva profilul și trimite factura imediat apăsând Trimite. Pentru a salva profilul fără a salva factura apasă Salvează. "
+
+#: 
+msgid "You can switch between \"List\", \"Table\", or \"Board\"."
+msgstr "You can switch between \"List\", \"Table\", or \"Board\"."
+
+#: 
+msgid "You can use \"Notes\" to write down information about a project. The notes can be downloaded as PDFs or shared with your colleagues."
+msgstr "Poți folosi \"Notițe\" pentru a nota informații legate de proiect. Notițele pot fi descărcate ca si PDF sau partajate cu colegii."
+
+#: 
+msgid "You can use recurring profiles to set up invoices that will get created automatically based on your settings. In order to create recurring profiles just click the \"Add Recurring\" profile button, then simply enter a start date, frequency and number of occurrences."
+msgstr "Poți folosi profiluri recurente pentru a seta facturi ce vor fi create automat în baza setărilor tale. Pentru a crea profiluri recurente, fă click pe butonul de \"Adaugă profiluri recurente\", apoi introdu o dată de începere, frecvența și numărul de apariții."
+
+#: 
+msgid "You can't access {0} application!"
+msgstr "You can't access {0} application!"
+
+#: 
+msgid "You can't add time for this task, it's assigned to a different user"
+msgstr "You can't add time for this task, it's assigned to a different user"
+
+#: 
+msgid "You can't change the project for a task with an active timer running!"
+msgstr "Nu poți schimba proiectul cu o sarcină cand cronometrul e în funcțiune!"
+
+#: 
+msgid "You can't complete a task with an active timer running!"
+msgstr "Nu poți termina o sarcină care rulează pe cronometru!"
+
+#: 
+msgid "You can't delete a project that has a task with an active timer running!"
+msgstr "Nu poți șterge un proiect ce conține o sarcină care rulează pe cronometru!"
+
+#: 
+msgid "You can't delete a task list that has a task with an active timer running!"
+msgstr "Nu poți șterge o listă cu sarcini ce conține o sarcină care rulează pe cronometru!"
+
+#: 
+msgid "You can't delete a task with an active timer running!"
+msgstr "Nu poți șterge o sarcină care rulează pe cronometru!"
+
+#: 
+msgid "You can't delete this workflow, it is used by one or several projects."
+msgstr "You can't delete this workflow, it is used by one or several projects."
+
+#: 
+msgid "You can't log time for completed tasks"
+msgstr "Nu poți înregistra timp pentru sarcini terminate"
+
+#: 
+msgid "You can't log time for this task, it's assigned to a different user"
+msgstr "Nu poți înregistra timp pentru această sarcină, este asignată deja unui alt utilizator"
+
+#: 
+msgid "You can't log time for this task, you're not assigned to this project"
+msgstr "Nu poți înregistra timp pentru această sarcină pentru că nu ești asignat acestui proiect."
+
+#: 
+msgid "You can't log time for this task: the project is archived."
+msgstr "Nu poți înregistra timp pentru această sarcină: proiectul este arhivat."
+
+#: 
+msgid "You can't move a task to a different workflow"
+msgstr "Nu poți muta o sarcină la un flux de lucru diferit"
+
+#: 
+msgid "You cannot remove this invoice template because there are invoices using this template:"
+msgstr "Nu poți șterge acest șablon de factură pentru că există alte facturi ce folosesc acest șablon:"
+
+#: 
+msgid "You currently don't have any active tasks"
+msgstr "Momentan nu ai nicio sarcină activă"
+
+#: 
+msgid "You currently don't have any active tasks for this project"
+msgstr "Momentan nu ai nicio sarcină activă pentru acest proiect"
+
+#: 
+msgid "You currently don't have any active tasks. You'll be notified by email when a new task has been assigned to you."
+msgstr "Momentan nu ai nicio sarcină activă. Vei fi notificat pe email când o nouă sarcină ti-a fost asignată."
+
+#: 
+msgid "You don't have permission to access the task"
+msgstr "You don't have permission to access the task"
+
+#: 
+msgid "You gave these sites and apps access to some of your Paymo Account data. Remove access for those you no longer trust or use."
+msgstr "You gave these sites and apps access to some of your Paymo Account data. Remove access for those you no longer trust or use."
+
+#: 
+msgid "You have a running timer. If you leave this page, the time will not be saved!"
+msgstr "Ai deja un cronometru activ. Dacă părăsești această pagină, timpul nu va fi salvat!"
+
+#: 
+msgid "You have no critical tasks"
+msgstr "Nu ai sarcini critice"
+
+#: 
+msgid "You have no future tasks"
+msgstr "Nu ai sarcini viitoare"
+
+#: 
+msgid "You have no high-priority tasks"
+msgstr "Nu ai nicio sarcină cu prioritate ridicată"
+
+#: 
+msgid "You have no low-priority tasks"
+msgstr "Nu ai nicio sarcină cu prioritate redusă"
+
+#: 
+msgid "You have no normal-priority tasks"
+msgstr "Nu ai nicio sarcină cu prioritate normală"
+
+#: 
+msgid "You have no tasks due later this week"
+msgstr "Nu ai nicio sarcină scadentă săptămâna aceasta"
+
+#: 
+msgid "You have no tasks due today"
+msgstr "Nu ai sarcini scadente azi"
+
+#: 
+msgid "You have no tasks due tomorrow"
+msgstr "Nu ai sarcini scadente mâine"
+
+#: 
+msgid "You have no tasks without a due date"
+msgstr "Nu ai sarcini fără o dată scadentă"
+
+#: 
+msgid "You have no tasks yet"
+msgstr "Nu ai nicio sarcină încă"
+
+#: 
+msgid "You have reached the limit for the number of estimates your plan currently allows. To create more estimates please get the Invoicing add-on."
+msgstr "Ai atins limita de cheltuieli pe care planul tău le permite. Pentru a crea mai multe proforme te rog să cumperi modulul de facturare."
+
+#: 
+msgid "You have reached the limit for the number of estimates your plan currently allows. To create more estimates please get the Project Accounting add-on."
+msgstr "Ai atins limita maximă pentru numărul de proforme pe care planul tău îl permite momentan. Pentru crea mai multe proforme te rog cumpără modulul de Contabilitatea proiectelor."
+
+#: 
+msgid "You have reached the limit for the number of expenses your plan currently allows. To create more expenses please get the Invoicing add-on."
+msgstr "Ai atins limita de cheltuieli pe care planul tău le permite. Pentru a crea mai multe cheltuieli te rog să cumperi modulul de facturare."
+
+#: 
+msgid "You have reached the limit for the number of expenses your plan currently allows. To create more expenses please get the Project Accounting add-on."
+msgstr "Ai atins limita maximă pentru numărul de cheltuieli pe care planul tău îl permite momentan. Pentru crea mai multe cheltuieli te rog cumpără modulul de Contabilitatea proiectelor."
+
+#: 
+msgid "You have reached the limit for the number of invoices your plan currently allows. To create more invoices please get the Invoicing add-on."
+msgstr "Ai atins limita de cheltuieli pe care planul tău le permite. Pentru a crea mai multe facturi te rog să cumperi modulul de facturare."
+
+#: 
+msgid "You have reached the limit for the number of invoices your plan currently allows. To create more invoices please get the Project Accounting add-on."
+msgstr "Ai atins limita maximă pentru numărul de facturi pe care planul tău îl permite momentan. Pentru crea mai multe facturi te rog cumpără modulul de Contabilitatea proiectelor."
+
+#: 
+msgid "You have reached the limit for the number of recurring profiles your plan currently allows. To create more recurring profiles please get the Invoicing add-on."
+msgstr "Ai atins limita maxima de profiluri recurente. Pentru a crea mai multe profiluri te rugăm să achiziționezi modulul de facturare."
+
+#: 
+msgid "You have reached the limit for the number of recurring profiles your plan currently allows. To create more recurring profiles please get the Project Accounting add-on."
+msgstr "Ai atins limita maximă pentru numărul de profiluri recurente pe care planul tău îl permite momentan. Pentru crea mai multe profiluri recurente te rog cumpără modulul de Contabilitatea proiectelor."
+
+#: 
+msgid "You have reached the limit for the number of users your plan currently allows. To add more users please upgrade your account by clicking the button bellow."
+msgstr "Ai atins limita numărului de utilizatori pe care planul curent îl permite. Pentru a adăuga mai multi "
+
+#: 
+msgid "You have to set the data in order to save."
+msgstr "Trebuie să setezi data pentru a putea salva."
+
+#: 
+msgid "You haven't given any apps or services permission to access your Paymo Account."
+msgstr "You haven't given any apps or services permission to access your Paymo Account."
+
+#: 
+msgid "You're about to change settings for your company. Would you like to apply the same settings to your own user account?"
+msgstr "Ești pe punctul de a schimba setările companiei. Ai dori să aplici aceleași setări contului tău de utilizator?"
+
+#: 
+msgid "You're currently on the free plan. To add more users you need to start your free 15 day trial period (you won't be charged for 15 days during the trial, you can cancel at any time"
+msgstr "Momentan ești în planul gratuit. Pentru a adăuga mai mulți utilizatori trebuie să îți începi perioada de testare gratuită de 15 zile (nu vei fi taxat timp de 15 zile în timpul perioadei gratuite, poți anula oricând)"
+
+#: 
+msgid "You've hit the free plan limit"
+msgstr "Ai atins limita planului gratuit"
+
+#: 
+msgid "Your account has been created, but Paymo is not optimized to run on a tablet or smartphone. Please access your account using a desktop or laptop."
+msgstr "Contul tău a fost creat, însă Paymo nu este optimizat pentru a rula pe o tabletă sau smartphone. Te rog accesează contul tău folosind un desktop sau un laptop."
+
+#: 
+msgid "Your comment will be emailed to"
+msgstr "Comentariul tău va fi trimis prin email la"
+
+#: 
+msgid "Your company has been deleted and your Paymo subscription (in case you've had one) has been canceled."
+msgstr "Your company has been deleted and your Paymo subscription (in case you've had one) has been canceled."
+
+#: 
+msgid "Your note here"
+msgstr "Notița ta aici"
+
+#: 
+msgid "Your password and confirmation password do not match"
+msgstr "Your password and confirmation password do not match"
+
+#: 
+msgid "Your Paymo 15 day free trial has expired. Please contact your account administrator to upgrade your account."
+msgstr "Contul tău Paymo gratuit de 15 zile a expirat. Te rog contactează administratorul tău de cont pentru a actualiza contul."
+
+#: 
+msgid "Your Plan"
+msgstr "Planul tău"
+
+#: 
+msgid "Your Settings"
+msgstr "Setările tale"
+
+#: 
+msgid "Your Subscription and Billing"
+msgstr "Abonamentul tău"
+
+#: 
+msgid "Your subscription and billing history"
+msgstr "Istoria abonamentului tău"
 
